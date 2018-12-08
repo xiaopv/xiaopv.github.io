@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, State University of New York at Binghamton, 2011
+* B.S. in Mathematics, Zhejiang University, P. R. China, 2005
 
-Work experience
+Empolyment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - present: Associate Professor of Mathematics at Utica College
+* 2011 - 2015: Assistant Professor of Mathematics at Utica College 
   
-Skills
+Membership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* American Mathematical Society, since 2005
+* Mathematical Association of America, since 2011
+* Project NExT, 2012-2013 (Silver '12)
+* Greater Upstate New York Inquiry-Based Learning Consortium, since 2013
+* Pi Mu Epsilon New York Alpha Upsilon, since 2014
+* Academy of Inquiry-Based Learning, since 2015
+* IBL SIGMAA, since 2016
