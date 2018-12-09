@@ -2,7 +2,7 @@
 title: "Finding a Unique Finding a Unique Solution to Radon-Kaczmarz Puzzles"
 collection: publications
 permalink: /publication/2018-12-01-FindingRKPuzzle
-excerpt: 'In this paper, we determine the size of a Radon-Kaczmarz Puzzle so that it has a unique solution when give a fixe set of clues. This is a joint work with Steven Rossi.'
+excerpt: 'In this paper, we determine the size of a Radon-Kaczmarz Puzzle so that it has a unique solution when give a fixed set of clues. This is a joint work with Steven Rossi.'
 date: December, 2018
 venue: 'Pi Mu Epsilon Journal'
 paperurl: 'https://arxiv.org/abs/1812.02219'
