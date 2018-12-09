@@ -2,7 +2,7 @@
 title: "Subtle Invariants of <var>F</var>-crystals"
 collection: publications
 permalink: /publication/2014-12-01-SubtleInvariants
-excerpt: In this paper, we prove Vasiu conjecture that the isomorphism number of an <var>F</var>-crystal is equal to its level torsion.
+excerpt: In this paper, we prove Vasiu's conjecture that the isomorphism number of an <var>F</var>-crystal is equal to its level torsion.
 date: December, 2014
 venue: 'Journal of Ramanujan Mathematical Society'
 paperurl: http://www.mathjournals.org/jrms/2014-029-004/2014-029-004-003.html
@@ -11,4 +11,4 @@ Abstract: Vasiu proved that the level torsion <var>l<sub>M</sub></var> of an <va
 
 [Download paper here](http://www.mathjournals.org/jrms/2014-029-004/2014-029-004-003.html)
 
-Recommended citation: Xiao Xiao, Subtle Invariants of <var>F</var>-crystals, Journal of Ramanujan Mathematical Society, 29, No.4 (2014) 413-458
+Recommended citation: Xiao Xiao, Subtle invariants of <var>F</var>-crystals, Journal of Ramanujan Mathematical Society, Volume 29, Issue 4 December 2014, Pages 413-458

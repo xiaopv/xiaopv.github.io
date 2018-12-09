@@ -11,4 +11,4 @@ Abstract: In this paper we generalize minimal <var>p</var>‐divisible groups de
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mana.201500367)
 
-Recommended citation: Xiao Xiao, Minimal <var>F</var>-crystals and Isomorphism Numbers of Isosimple <var>F</var>-crystals, Mathematische Nachrichten, Volume 290, Issue 8-9, June 2017, Pages 1406-1419
+Recommended citation: Xiao Xiao, Minimal <var>F</var>-crystals and isomorphism numbers of isosimple <var>F</var>-crystals, Mathematische Nachrichten, Volume 290, Issue 8-9, June 2017, Pages 1406-1419
