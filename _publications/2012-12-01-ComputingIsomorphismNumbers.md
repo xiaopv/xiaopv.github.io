@@ -12,4 +12,4 @@ Abstract: The isomorphism number of an <var>F</var>-crystal <var>(M, &#966;)</va
 
 [Download paper here]('2012-12-01-ComputingIsomorphismNumbers.pdf')
 
-Recommended citation: Xiao Xiao, Computing isomorphism numbers of F-crystals using the level torsions, Journal of Number Theory, Volume 132, Issue 12, December 2012, Pages 2817-2835.
+Recommended citation: Xiao Xiao, Computing isomorphism numbers of <var>F</var>-crystals using the level torsions, Journal of Number Theory, Volume 132, Issue 12, December 2012, Pages 2817-2835.
