@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiao Xiao"
 title_separator          : "-"
 name                     : &name "Xiao Xiao"
-description              : &description "A mathematician, a classical music lover"
+description              : &description ""
 url                      : https://xiaopv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaopv/xiaopv.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiao Xiao"
   avatar           : "profile.png"
-  bio              : "A mathematician, a classical music lover"
+  bio              : "A mathematician, a father, a classical music lover, a number theorist, a Manchester United fan ..."
   location         : "Utica, NY"
   employer         : "Utica College"
   googlescholar    : 
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Eastern # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
