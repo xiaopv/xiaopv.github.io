@@ -1,7 +1,7 @@
 ---
 title: "Dimensions of automorphism groups of <var>F</var>-cyclic <var>F</var>-crystals at finite level"
 collection: publications
-permalink: /publication/2019-01-01-DimensionAutGrpFcyclic.md
+permalink: /publication/2019-01-01-DimensionAutGrpFcyclic
 excerpt: 'In this paper, we develop a combinatorial formual to calculate the dimension of the automorphism group of <var>F</bar>-cyclic <var>F</var>-crystal over an algebraically close dfield at some finite level. This is a joint work with Zeyu Ding.'
 date: January, 2019
 venue: 'In preparation'
