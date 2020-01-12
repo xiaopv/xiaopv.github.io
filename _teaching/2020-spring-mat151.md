@@ -17,9 +17,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Important Dates
 
- * Add/Drop deadline: 01/24/20
- * Withdraw deadline: 03/30/20
- * Final exam: 05/09/20, 8:00 a.m. - 11:00 a.m.
+ * Add/Drop deadline: 1/24/20
+ * Spring break: 3/16/20 - 3/20/20
+ * Withdraw deadline: 3/30/20
+ * SOOT: 4/27/20 - 5/4/20
+ * Final exam: 5/9/20, 8:00 a.m. - 11:00 a.m.
 
 ## Homework Assignments
  
@@ -27,7 +29,7 @@ Homework assignment will be updated here after every class meeting. Please check
 
 ## Quiz Goals
 
-Quiz goals will be updated here every Thursday. Please check back later.
+Quiz goals will be updated here every Wednesday. Please check back later.
 
 ## Instructor Information
 
