@@ -25,7 +25,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
-Homework assignment will be updated here after every class meeting. Please check back later.
+ * 1/21/20
+   * Print the goal sheet if you have not already done so.
+   * Check WebAssign for homework assignment. This homework assignment reminds you the concept of a slope.
+   * Please complete Task 2.1. Let me know by email if you would like to present any part of the question on Thursday.
 
 ## Quiz Goals
 
@@ -128,17 +131,17 @@ I pride myself on having a good environment for working and learning. It is very
 
  | Letter Grade |    Goals    | Homework Points | Presentations |
  | --------     | ----------- | --------------- | ------------- |
- |      A       | at least 28 |   at least 32   |   at least 6  |
- |      A-      | at least 27 |   at least 30   |   at least 5  |
- |      B+      | at least 25 |   at least 28   |   at least 5  |
- |      B       | at least 23 |   at least 26   |   at least 4  |
- |      B-      | at least 22 |   at least 24   |   at least 4  |
- |      C+      | at least 20 |   at least 22   |   at least 3  |
- |      C       | at least 18 |   at least 20   |   at least 3  |
- |      C-      | at least 16 |   at least 18   |   at least 2  |
- |      D+      | at least 13 |   at least 16   |   at least 2  |
- |      D       | at least 10 |   at least 14   |   at least 1  |
- |      F       | less than 10|  less than 14   |   less than 1 |
+ |      A       | at least 28 |   at least 24   |   at least 6  |
+ |      A-      | at least 27 |   at least 22   |   at least 5  |
+ |      B+      | at least 25 |   at least 21   |   at least 5  |
+ |      B       | at least 23 |   at least 20   |   at least 4  |
+ |      B-      | at least 22 |   at least 18   |   at least 4  |
+ |      C+      | at least 20 |   at least 16   |   at least 3  |
+ |      C       | at least 18 |   at least 15   |   at least 3  |
+ |      C-      | at least 16 |   at least 13   |   at least 2  |
+ |      D+      | at least 13 |   at least 11   |   at least 2  |
+ |      D       | at least 10 |   at least 10   |   at least 1  |
+ |      F       | less than 10|  less than 10   |   less than 1 |
 
 ## Tentative Schedule
 

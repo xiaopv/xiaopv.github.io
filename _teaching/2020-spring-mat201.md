@@ -26,7 +26,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
-Homework assignment will be updated here after every class meeting. Please check back later.
+  * 1/21/20
+    * Please print the goal sheet if you have not already done so.
+    * Check Perusall for reading assignments.
+    * There are no WebAssign homework for today.
+    * Go to [Section 1.1](https://activecalculus.org/single/sec-1-1-vel.html), scroll all the way down, complete Exercises 3 and 4 in 1.1.4 Exercises Section. Note that you can check your answers by clicking "Check Answers". Do not click solutions unless you absolutely need help on the problem. If you need some hint(s) on how to solve these problems, feel free to send me emails.
 
 ## Quiz Goals
 
