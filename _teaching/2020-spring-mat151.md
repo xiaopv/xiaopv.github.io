@@ -25,6 +25,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 1/23/20
+   * WebAssign homework.
+   * Complete Task 2.4 before Tuesday's class. Let me know if you would like to present.
+   
  * 1/21/20
    * Print the goal sheet if you have not already done so.
    * Check WebAssign for homework assignment. This homework assignment reminds you the concept of a slope.
