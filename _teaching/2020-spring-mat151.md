@@ -41,6 +41,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 ## Quiz Goals
 
  * Quiz 1: 3L, 13F.
+ * Quiz 2: 1L, 2L, 5Q, 13F.
 
 ## Instructor Information
 
