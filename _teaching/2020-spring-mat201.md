@@ -26,6 +26,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 1/28/20
+   * WebAssign homework.
+   * Complete Activity 1.2.3. Hint: The process is very similar to Activity 1.1.4. Make sure you use limit notation when appropriate.
+   * There is a new reading assignment in Perusall.
+   * If you want more practices for finding limits, Questions 1 to 4 at the end of [Section 1.2]{https://activecalculus.org/single/sec-1-2-lim.html} are helpful.
+
  * 1/23/20
    * WebAssign homework. This homework is very short. It will get longer next week.
    * There is a new Perusall reading assignment. Make sure you read Section 1.2 The Notation of Limits, from the beginning to Example 1.2.3. You are strongly encouraged to work on Preview Activity 1.2.1 and discuss that in Perusall before coming to class on Tuesday.
