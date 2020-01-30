@@ -26,6 +26,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 1/30/20
+   * WebAssign homework.
+   * Complete Activity 1.3.3 and let me know if you would like to present.
+   * If you want more practices for finding derivatives, Questions 1 to 5 at the end of [Section 1.2]{https://activecalculus.org/single/sec-1-3-derivative-pt.html} are helpful.
+
  * 1/28/20
    * WebAssign homework.
    * Complete Activity 1.2.3. Hint: The process is very similar to Activity 1.1.4. Make sure you use limit notation when appropriate.
