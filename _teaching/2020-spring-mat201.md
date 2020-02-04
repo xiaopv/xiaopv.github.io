@@ -26,6 +26,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 2/4/20
+   * WebAssign homework.
+   * Complete your assignment for Activity 1.4.2. Work with your teammates if you can. At the beginning of Thursday's class, each group should have one representative to put up your work on the board. If you would like to have more practices of sketching derivative graph, go to [Sketch]{http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_try_to_graph.html}. You can check the accuracy after you complete sketching. You can click reset the graph to do a new one.
+   * There is a new reading assignment in Perusall.
+
  * 1/30/20
    * WebAssign homework.
    * Complete Activity 1.3.3 and let me know if you would like to present.
