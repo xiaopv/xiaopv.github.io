@@ -50,6 +50,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
  * Quiz 1: 3L, 13F.
  * Quiz 2: 1L, 2L, 5Q, 13F.
+ * QUIZ 3: 4Q, 5Q, 6Q, 14F, 18F, 20F, 21F.
 
 ## Instructor Information
 

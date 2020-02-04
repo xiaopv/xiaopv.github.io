@@ -58,6 +58,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  
  * Quiz 1: 1
  * Quiz 2: 1, 2, 3, 4
+ * Quiz 3: 2, 3, 4, 5
  
 
 ## Instructor Information
