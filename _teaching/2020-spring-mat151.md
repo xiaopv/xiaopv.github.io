@@ -25,6 +25,15 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 2/11/20
+   * WebAssign homework.
+   * Complete Task 4.7. Let me know if you want to present.
+   * Documentary movie about Maryam Mirzakhni, Wednesday, Feb. 12, 12:30pm at Hubbard Hall 205.
+
+ * 2/6/20
+   * WebAssign homework.
+   * Complete Tasks 4.2 to 4.5. Focus on your group's priority first.
+   
  * 2/4/20
    * WebAssign homework.
    * Complete the rest of Task 3.9 and let me know if you want to present.
