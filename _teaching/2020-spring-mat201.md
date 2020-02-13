@@ -26,6 +26,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 2/13/20
+   * WebAssign homework.
+   * There is a new reading assignment in Perusall.
+   * Questions 1,2,4,5 at the end of [Section 1.6]{https://activecalculus.org/single/sec-1-6-second-d.html} are good practices.
+
  * 2/11/20
    * WebAssign homework.
    * Complete Preview Activity 1.6.1. Finish sketching the graphs!
