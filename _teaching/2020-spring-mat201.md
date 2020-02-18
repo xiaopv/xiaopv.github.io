@@ -26,6 +26,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 2/18/20
+   * WebAssign homework.
+   * There is a new reading assignment in Perusall.
+   * Complete Activity 1.7.2. Let me know if you want to present.
+   * Questions 1 to 4 at the end of [Section 1.7]{https://activecalculus.org/single/sec-1-7-lim-cont-diff.html} are good practices.
+
  * 2/13/20
    * WebAssign homework.
    * There is a new reading assignment in Perusall.
