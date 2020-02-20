@@ -26,6 +26,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 2/20/20
+   * WebAssign homework.
+   * Complete Activity 1.8.1 if you have not done so.
+   * We will switch seats on Tuesday 2/25/20. Fill out [this]{https://forms.gle/7vukAjFzh8M4ku128} survey by Saturday 2/22/20 if there is anything you would like me to know.
+
  * 2/18/20
    * WebAssign homework.
    * There is a new reading assignment in Perusall.
