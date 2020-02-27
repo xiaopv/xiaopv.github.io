@@ -26,6 +26,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 2/27/20
+   * WebAssign homework.
+   * Complete Activity 2.1.3. Each group will have a presentor to be ready for Tuesday.
+   * There is a new reading assignment in Perusall.
+   * Do Questions 1 to 9 at the end of section [Section 2.1]{https://activecalculus.org/single/sec-1-8-tan-line-approx.html} for practice.
+
  * 2/25/20
    * WebAssign homework.
    * Complete Activity 1.8.3. Let me know if you want to present.
