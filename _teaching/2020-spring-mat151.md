@@ -24,7 +24,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * Final exam: 5/9/20, 8:00 a.m. - 11:00 a.m.
 
 ## Homework Assignments
-
+ 
+ * 3/3/20
+   * WebAssign homework.
+   * Complete Task 5.14 and 5.15.
+   
  * 2/27/20
    * WebAssign homework.
    * Complete Task 5.10 using the three principles that we found in Task 5.9.
