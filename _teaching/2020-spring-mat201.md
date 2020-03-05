@@ -26,6 +26,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 3/5/20
+   * WebAssign homework.
+   * There is a new reading assignment in Perusall.
+   * Complete Activity 2.3.2. Read the quotient rule and try to do Activity 2.3.3.
+   * Stop by my office before Spring break. Bring your goal sheet so we can cross check the records.
+ 
  * 3/3/20
    * WebAssign homework.
    * Complete Activity 2.2.4.
