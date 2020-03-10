@@ -26,12 +26,19 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+ * 3/10/20
+   * WebAssign homework.
+   * There is a new reading assignment in Perusall.
+   * Complete Task 2.3.4 Part (d) and (e).
+   * Complete your assignment of finding the derviatives of various trig functions.
+   * 
+
  * 3/5/20
    * WebAssign homework.
    * There is a new reading assignment in Perusall.
    * Complete Activity 2.3.2. Read the quotient rule and try to do Activity 2.3.3.
    * Stop by my office before Spring break. Bring your goal sheet so we can cross check the records.
-   * Starting Quiz 8, no forms of calculators (including but not limited, four function calculcator, TI-XX, Desmos) will not be allowed during the quiz and the exam.
+   * Starting Quiz 8, no forms of calculators (including but not limited, four function calculcators, TI-XX, Desmos) will not be allowed during the quiz and the exam.
  
  * 3/3/20
    * WebAssign homework.
