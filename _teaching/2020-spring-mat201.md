@@ -15,6 +15,8 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * [WebAssign](https://www.webassign.net/login.html)
  * [Desmos](http://www.desmos.com/calculator)
  * [Perusall](https://perusall.com)
+ * [Zoom]()
+ * [Classroom working document](https://docs.google.com/document/d/1PThlxkvLiLsnDHfkvA7Zfwsff8SEg1DGt0QXOT8BwtI/edit?usp=sharing)
 
 ## Important Dates
 
