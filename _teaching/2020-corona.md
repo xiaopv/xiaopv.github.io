@@ -1,5 +1,5 @@
 ---
-title: "Virtual Class Information"
+title: "Virtual Learning Information"
 collection: teaching
 type: "Special Information"
 permalink: /teaching/2020-corona
