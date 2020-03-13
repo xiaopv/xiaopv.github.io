@@ -42,7 +42,7 @@ This page contains logistical information for virtual classes during the school 
 
 ## Special Accommodation
 
- If there are any special needs for you to get proper access of learning online (e.g. visual/hear help), please do not hesitate to contact me so I can try to help you.
+ If there are any special needs for you to get proper access of online learning environment (e.g. visual/hear help), please do not hesitate to contact me so I can try to help you.
 
 ## Derivative Proficiency Test (Calculus 1 Students)
 
