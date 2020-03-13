@@ -7,7 +7,7 @@ venue: "Mathematics Department, Utica College"
 date: 2020-01-21
 ---
 
-Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. You can find all the information and documents for this course on this page. Please check this page frequently for annoucements and assignments.
+Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. You can find all the information and documents for this course on this page. Please check this page frequently for announcements and assignments.
 
 ## Important Links
 
@@ -39,14 +39,14 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
    * WebAssign homework.
    * There is a new reading assignment in Perusall.
    * Complete Task 2.3.4 Part (d) and (e).
-   * Complete your assignment of finding the derviatives of various trig functions.
+   * Complete your assignment of finding the derivatives of various trig functions.
 
  * 3/5/20
    * WebAssign homework.
    * There is a new reading assignment in Perusall.
    * Complete Activity 2.3.2. Read the quotient rule and try to do Activity 2.3.3.
    * Stop by my office before Spring break. Bring your goal sheet so we can cross check the records.
-   * Starting Quiz 8, no forms of calculators (including but not limited, four function calculcators, TI-XX, Desmos) will not be allowed during the quiz and the exam.
+   * Starting Quiz 8, no forms of calculators (including but not limited, four function calculators, TI-XX, Desmos) will not be allowed during the quiz and the exam.
  
  * 3/3/20
    * WebAssign homework.
@@ -55,7 +55,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
  * 2/27/20
    * WebAssign homework.
-   * Complete Activity 2.1.3. Each group will have a presentor to be ready for Tuesday.
+   * Complete Activity 2.1.3. Each group will have a presenter to be ready for Tuesday.
    * There is a new reading assignment in Perusall.
    * Do Questions 1 to 9 at the end of section [Section 2.1]{https://activecalculus.org/single/sec-1-8-tan-line-approx.html} for practice.
 
@@ -253,7 +253,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  I have zero tolerance on dishonesty. Any forms of dishonesty such as copying homework or cheating on quizzes and examinations, will result in zero credit for that particular assignment, and will be reported to the Academic Standards Committee. The highest penalty a student can receive is "F for cheating" for the course. There might be additional sanctions by the Academic Standards Committee such as dismissal from the college. See Utica College official [page](https://www.utica.edu/academic/facultyinfo/intellectualdishonesty.cfm) for Academic Honesty for more details.
 
-## Special Accomodation
+## Special Accommodation
 
  Any student who has need of special accommodations in this class due to a documented disability should speak with me as soon as possible, preferably within the first two weeks of class. You should also contact Judy Borner, Director of Learning Services in the Academic Support Services Center (315-792-3032 or jcborner@utica.edu ) in order to determine eligibility for services and to receive an accommodation letter. We will work with you to help you in your efforts to master the course content in an effective and appropriate way. See Utica College official [page](https://www.utica.edu/student/development/learning/) for Office of Learning Services.
 

@@ -7,7 +7,7 @@ venue: "Mathematics Department, Utica College"
 date: 2020-03-13
 ---
 
-This page contains logistical information for virtual classes during the school closure due to the outbreak of COVID19. Students who are currently taking MAT 151 Precalculus and MAT 201 Calculus 1 should read this page very carefully! This document will be updated to include the latest information and decision. 
+This page contains logistical information for virtual classes during the school closure due to the outbreak of COVID19. Students who are currently taking MAT 151 Precalculus and MAT 201 Calculus 1 should read this page very carefully! This document will be updated to include the latest information and decision. If you have any questions or concerns, please do not hesitate to email me.
 
 ## Syllabus Updates
  
@@ -39,6 +39,10 @@ This page contains logistical information for virtual classes during the school 
  
  * I will hold online office hours the same time as scheduled (1:00pm-2:30pm on Tuesdays and Thursdays). Please use a different Zoom link to attend office hours.
  * If you cannot make this time and would like to get help, send me an email to make an appointment.
+
+## Special Accommodation
+
+ If there are any special needs for you to get proper access of learning online (e.g. visual/hear help), please do not hesitate to contact me so I can try to help you.
 
 ## Derivative Proficiency Test (Calculus 1 Students)
 
