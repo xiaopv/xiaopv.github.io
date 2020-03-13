@@ -29,12 +29,17 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
  
+  * 3/12/20
+   * WebAssign homework.
+   * New Perusall Assignment.
+   * Attend tech training session. If you cannot make it and don't feel comfortable about zoom, contact me.
+   * We won't be presenting the rest of the rest of Activity 2.4.4 on 3/24/20. We will start unit 2.5 immediately.
+
  * 3/10/20
    * WebAssign homework.
    * There is a new reading assignment in Perusall.
    * Complete Task 2.3.4 Part (d) and (e).
    * Complete your assignment of finding the derviatives of various trig functions.
-   * 
 
  * 3/5/20
    * WebAssign homework.

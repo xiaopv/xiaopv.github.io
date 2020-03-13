@@ -28,6 +28,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 3/12/20
+   * WebAssign homework.
+   * Attend tech training session. If you cannot make it and don't feel comfortable about zoom, contact me.
+   * Finish Task 6.5. If you want to present during the next class, please let me know by 3/23/20 and email me a picture of your work.
+
  * 3/10/20
    * WebAssign homework.
    * Finish your assignment for Task 6.4.
