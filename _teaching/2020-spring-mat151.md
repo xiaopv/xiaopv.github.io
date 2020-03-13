@@ -14,9 +14,9 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * [Course Materials](https://www.utica.edu/faculty_staff/xixiao/public/mat151/index.html)
  * [WebAssign](https://www.webassign.net/login.html)
  * [Desmos](http://www.desmos.com/calculator)
- * [Zoom](https://zoom.us/j/589539769)
- * [Classroom working document](https://docs.google.com/document/d/1iz6ow0Q0jYRPKd_SeVEIc86M34FMVB0nLoSrq-fD53s/edit?usp=sharing)
- * [Office Hours](https://zoom.us/j/592702796)
+ * [Online Class](https://zoom.us/j/589539769)
+ * [Online Working Document](https://docs.google.com/document/d/1iz6ow0Q0jYRPKd_SeVEIc86M34FMVB0nLoSrq-fD53s/edit?usp=sharing)
+ * [Online Office Hours](https://zoom.us/j/592702796)
 
 ## Important Dates
 
