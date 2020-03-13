@@ -17,6 +17,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * [Perusall](https://perusall.com)
  * [Zoom](https://zoom.us/j/695603668)
  * [Classroom working document](https://docs.google.com/document/d/1PThlxkvLiLsnDHfkvA7Zfwsff8SEg1DGt0QXOT8BwtI/edit?usp=sharing)
+ * [Office hours](https://zoom.us/j/592702796)
 
 ## Important Dates
 

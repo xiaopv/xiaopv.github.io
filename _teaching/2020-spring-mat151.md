@@ -16,6 +16,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * [Desmos](http://www.desmos.com/calculator)
  * [Zoom](https://zoom.us/j/589539769)
  * [Classroom working document](https://docs.google.com/document/d/1iz6ow0Q0jYRPKd_SeVEIc86M34FMVB0nLoSrq-fD53s/edit?usp=sharing)
+ * [Office Hours](https://zoom.us/j/592702796)
 
 ## Important Dates
 
