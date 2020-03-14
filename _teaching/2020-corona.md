@@ -1,5 +1,5 @@
 ---
-title: "Virtual Learning Information"
+title: "Online Learning Information"
 collection: teaching
 type: "Special Information"
 permalink: /teaching/2020-corona
@@ -7,7 +7,7 @@ venue: "Mathematics Department, Utica College"
 date: 2020-03-13
 ---
 
-This page contains logistical information for virtual classes during the school closure due to the outbreak of COVID19. Students who are currently taking MAT 151 Precalculus and MAT 201 Calculus 1 should read this page very carefully! This document will be updated to include the latest information and decision. If you have any questions or concerns, please do not hesitate to email me. If you did not have the chance to attend a training session, please use this [link](https://zoom.us/test) to test the Zoom environment during the spring break to make sure your computer is ready. If you have any issues, please let me know as soon as possible.
+This page contains logistical information for online classes during the school closure due to the outbreak of COVID19. Students who are currently taking MAT 151 Precalculus and MAT 201 Calculus 1 should read this page very carefully! This document will be updated to include the latest information and decision. If you have any questions or concerns, please do not hesitate to email me. If you did not have the chance to attend a training session, please use this [link](https://zoom.us/test) to test the Zoom environment during the spring break to make sure your computer is ready. If you have any issues, please let me know as soon as possible.
 
 ## Syllabus Updates
  
@@ -15,8 +15,8 @@ This page contains logistical information for virtual classes during the school 
 
 ## Online Classes
 
- * Regular on-ground classes on Tuesdays and Thursdays will be replaced with online virtual classes with the exact same schedule (MAT 151: 10:00 a.m. to 11:15 a.m. MAT 201: 11:30 a.m. to 12:45 p.m.). We will use Zoom as our platform. The course home page contains a link "Online Class" and please use that link to connect to online classes. We will use the same link to connect to the online classes for the rest of the semester. 
- * When you join the online classes, please remember use your official name in the form of First Last. Do not use any abbreviated version or nick name. Even it is possible to use phone for Zoom, I strongly discourage that. You will get a much better experience if you use a desktop, a laptop, or a tablet. The functions are much more restricted on phones and much harder to maneuver. Please make sure you open a course notes window before you join the class, you will need to refer to that throughout the class. A good practice is to use "side-by-side" window layout, or use a separate device entirely. Switching windows/tabs too frequently will make your learning more difficult.
+ * Regular on-ground classes on Tuesdays and Thursdays will be replaced with online classes with the exact same schedule (MAT 151: 10:00am to 11:15am MAT 201: 11:30am to 12:45pm). We will use Zoom as our platform. The course home page contains a link "Online Class" and please use that link to connect to online classes. We will use the same link to connect to the online classes for the rest of the semester. 
+ * When you join the online classes, please remember use your official name in the form of First Last. Do not use any abbreviated version or nick name. Even it is possible to use phone for Zoom, I strongly discourage that. You will get a much better experience if you use a desktop, a laptop, or a tablet. The functions are much more restricted on phones and much harder to maneuver. Please make sure you open a course notes window before you join the class, you will need to refer to the course notes throughout the class. A good practice is to use "side-by-side" window layout, or use a separate device entirely. Switching windows/tabs too frequently in your internet browser will make your learning more difficult.
  * All online classes will be recorded. Recording will be posted on the course home page in the homework section after the class.
  * Online classes will be opened 1 hour before the regular scheduled class time (without my presence). Consider this as a common study area. Everyone is encouraged to join to discuss homework problems with your peers.
  * When connecting to the class, make sure you connect using both audio and video. Do not turn off your camera. (If you don't have a webcam, please get in touch with me.) During the online classes, students will be automatically muted to minimize background noise. Students can ask/answer questions using multiple ways:
@@ -25,10 +25,10 @@ This page contains logistical information for virtual classes during the school 
    In the breakout room when doing group work, feel free to unmute yourself so that group members can have discussions. 
  * Find a place that is quiet with minimal distractions during your class time (such as your dorm or your room) if possible. Make sure that the background does not have anything that you don't want others to see.
  * In order for me and others to see your work during the class, you have at least three ways to communicate your work:
-   * 1) If you have a touch screen on your device (a laptop or a tablet), you can use the "share" function in Zoom to choose white board. To have a better experience using virtual white board, you want to use a stylus. This is because if you use your finger, any you write down will be way too big and you will run out of space very quickly on your virtual white board. A good stylus can help solve this problem.
+   * 1) If you have a touch screen on your device (a laptop or a tablet), you can use the "share" function in Zoom to choose white board. To have a better experience using the virtual white board, you want to use a stylus. This is because if you use your finger, anything you write down would be way too big and you will run out of space very quickly on your virtual white board. A good stylus can help solve this problem.
    * 2) If you don't have a touch screen device, you can use the common share Google Docs. There is a link on the course webpage called "Online Working Document". Everyone can work in this same document simultaneously without interfering each other. You can your name in the document and work in that area during the class time.
    * 3) If you have a chalkboard or a white board, you can set your webcam to the board so other people can see your work. Make sure the lighting is good so it is not too bright or too dark.
-   Feel free to be creative. If you can think of other ways that you think it will work for you, please let me know and I will let you know if it will work or not.
+   Feel free to be creative. If you can think of other ways that will work for you, please let me know.
 
 ## Weekly Quizzes
 
@@ -42,7 +42,7 @@ This page contains logistical information for virtual classes during the school 
 
 ## Online Office Hours
  
- * I will hold online office hours the same time as scheduled (1:00pm-2:30pm on Tuesdays and Thursdays). Please use a different Zoom link to attend office hours.
+ * I will hold online office hours the same time as scheduled (1:00pm to 2:30pm on Tuesdays and Thursdays). Please use the office hours link on the course home page to attend office hours.
  * If you cannot make this time and would like to get help, send me an email to make an appointment.
 
 ## Special Accommodation
