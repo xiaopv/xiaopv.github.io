@@ -33,7 +33,7 @@ This page contains logistical information for online classes during the school c
 ## Weekly Quizzes
 
  * Weekly quizzes will be posted on the course home page in the quiz section by 5pm on Thursdays. You have until 12pm on Fridays to submit your quiz via email.
- * The easiest way to complete your quiz is to print it, complete it, scan it with your phone, and then email to me.
+ * The easiest way to complete your quiz is to print it, complete it, scan it with your phone, and then email to me. If you don't have a printer available, please use a blank paper to submit your handwritten solution. Make sure that you clearly label the problem number and the associated goal number so both you and I will know what goal(s) you have scored.
  * Some app suggestions for scan. If there are other apps that worked well for you, please let me know so I can list them here to help other students.
    * iPhone: Notes.
    * Android: Microsoft Office Lens, Google Drive.
