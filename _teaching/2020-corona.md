@@ -38,7 +38,7 @@ This page contains logistical information for online classes during the school c
  * Weekly quizzes will be posted on the course home page in the quiz section by 5pm on Thursdays. You have until 12pm on Fridays to submit your quiz via email.
  * The easiest way to complete your quiz is to print it, complete it, scan it with your phone, and then email to me. If you don't have a printer available, please use a blank paper to submit your handwritten solution. Make sure that you clearly label the problem number and the associated goal number so both you and I will know what goal(s) you have scored.
  * Some app suggestions for scan. If there are other apps that worked well for you, please let me know so I can list them here to help other students.
-   * iPhone: Notes, Genis Scan.
+   * iPhone: Notes, Genius Scan.
    * Android: Microsoft Office Lens, Google Drive.
  * If you have an electronic way to complete your quiz such as a tablet with a stylus, feel free to use that.
  * When you send me the completed quizzes, please make sure that it is 1) in the PDF format; 2) in the upright position (no tilted or disoriented). These are crucial steps to help me process the grading smoothly so you can get timely feedback. I will email your quiz back so you can update your goal sheet.
