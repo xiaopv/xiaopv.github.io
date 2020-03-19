@@ -48,7 +48,7 @@ This page contains logistical information for online classes during the school c
  
  * I will hold online office hours the same time as scheduled (1:00pm to 2:30pm on Tuesdays and Thursdays). Please use the office hours link on the course home page to attend office hours.
  * If you cannot make this time and would like to get help, send me an email to make an appointment.
- * The Learning Commons of Library has converted all drop-in tutors online. (Here)[https://docs.google.com/spreadsheets/d/1GdYV1s5u_g-3pPht9klQXtZEPZFtHmoszt0lWKVwPRg/edit#gid=0] is their schedule. Please email the tutor during their drop in hours to setup a zoom meeting.
+ * The Learning Commons of Library has converted all drop-in tutors online. [Here](https://docs.google.com/spreadsheets/d/1GdYV1s5u_g-3pPht9klQXtZEPZFtHmoszt0lWKVwPRg/edit#gid=0) is their schedule. Please email the tutor during their drop in hours to setup a zoom meeting.
    * MAT 151
      * Alex Wang (alwang@utica.edu) Monday and Thursday 3pm - 6pm
      * Diamond Thomas (djthomas@utica.edu) Sunday 1pm - 3pm, Monday 3pm - 6pm
