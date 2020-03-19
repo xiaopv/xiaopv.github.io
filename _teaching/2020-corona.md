@@ -26,10 +26,11 @@ This page contains logistical information for online classes during the school c
    In the breakout room when doing group work, feel free to unmute yourself so that group members can have discussions. 
  * Find a place that is quiet with minimal distractions during your class time (such as your dorm or your room) if possible. Make sure that the background does not have anything that you don't want others to see.
  * In order for me and others to see your work during the class, you have at least four ways to communicate your work:
-   * 1) If you have a touch screen on your device (a laptop or a tablet), you can use the "share" function in Zoom to choose white board. To have a better experience using the virtual white board, you want to use a stylus. This is because if you use your finger, anything you write down would be way too big and you will run out of space very quickly on your virtual white board. A good stylus can help solve this problem.
-   * 2) If you don't have a touch screen device, you can use the common share Google Docs. There is a link on the course webpage called "Online Working Document". Everyone can work in this same document simultaneously without interfering each other. You can your name in the document and work in that area during the class time.
-   * 3) If you prefer to write using a traditional pen and paper, and if you have a webcam, you can just hold your paper to the webcam to share your work. One important advice: make sure you write bold (this is much more important than write large) so your work can still be read with non-perfect lighting. A black sharpie will do a pretty good job!
-   * 4) If you have a chalkboard or a white board, you can set your webcam to the board so other people can see your work. Make sure the lighting is good so it is not too bright or too dark.
+   * 1) If you have a touch screen laptop, you can use an app (e.g. Paint3D in Windows) as your virtual white board to record your work and share that app through Zoom. To have a better experience, you want to use a stylus. This is because if you use your finger, anything you write down would be way too big and you will run out of space very quickly on your virtual white board. A good stylus can help solve this problem. Zoom has a virtual white board function in share function but it is very hard to save and reload your work. So I will only recommend that you use the Zoom's virtual white board for some temporary work.
+   * 2) If you connect zoom using a computer and have an iPad, you can actually share your iPad screen using the Zoom share function. There are a lot of apps that will allow you to have a virtual white board. For example, [here](bitpaper.io) is a free choice. 
+   * 3) If you don't have a touch screen device, you can use the common share Google Docs. There is a link on the course webpage called "Online Working Document". Everyone can work in this same document simultaneously without interfering each other. You can your name in the document and work in that area during the class time.
+   * 4) If you prefer to write using a traditional pen and paper, and if you have a webcam, you can just hold your paper to the webcam to share your work. One important advice: make sure you write bold (this is much more important than write large) so your work can still be read with non-perfect lighting. A black sharpie will do a pretty good job!
+   * 5) If you have a chalkboard or a white board, you can set your webcam to the board so other people can see your work. Make sure the lighting is good so it is not too bright or too dark.
    Feel free to be creative. If you can think of other ways that will work for you, please let me know.
  * If you have technical difficulties during a class session and is disconnected from the Zoom room, you should first try to return to the Zoom room. If unsuccessful, please email me as soon as possible for information about what might have been missed. If you have smart phones, please attempt to download apps for Zoom and email. This could help in the event of technical difficulties with one of the platforms. If I have technical difficulties and the class is interrupted, please check your email immediately for instructions.
 
@@ -47,6 +48,13 @@ This page contains logistical information for online classes during the school c
  
  * I will hold online office hours the same time as scheduled (1:00pm to 2:30pm on Tuesdays and Thursdays). Please use the office hours link on the course home page to attend office hours.
  * If you cannot make this time and would like to get help, send me an email to make an appointment.
+ * The Learning Commons of Library has converted all drop-in tutors online. (Here)[https://docs.google.com/spreadsheets/d/1GdYV1s5u_g-3pPht9klQXtZEPZFtHmoszt0lWKVwPRg/edit#gid=0] is their schedule. Please email the tutor during their drop in hours to setup a zoom meeting.
+   * MAT 151
+     * Alex Wang (alwang@utica.edu) Monday and Thursday 3pm - 6pm
+     * Diamond Thomas (djthomas@utica.edu) Sunday 1pm - 3pm, Monday 3pm - 6pm
+   * MAT 201
+     * Alex Wang (alwang@utica.edu) Monday and Thursday 3pm - 6pm
+     * Clayton Coonrod (cjcoonro@utica.edu) Tuesday 6pm - 8pm, Wednesday 3pm - 5pm
 
 ## Special Accommodation
 
