@@ -31,6 +31,8 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * 3/24/20
    * WebAssign homework.
    * Try to complete Task 6.10 and 6.11. Re-Connect with your teammates if you can between classes to work on these problems. Send me email if you need help/hints for these problems. Send me an email with your work if you would like to present on Thursday.
+   * [Board work](https://bitpaper.io/go/0324_151/ryrY_KLLU). Please view the file, do not edit the file.
+   * [Video](https://drive.google.com/file/d/194E0zTotq6G0L9kS_iaXvMU9D-6mwUoy/view?usp=sharing).
 
  * 3/12/20
    * WebAssign homework.
@@ -110,6 +112,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * Quiz 6: 7E, 8E, 9E, 15F, 16F, 17F, 18F.
  * Quiz 7: 1L, 2L, 6Q, 9E, 10E, 11E, 14F, 17F.
  * Quiz 8: 1L, 10E, 12E, 15F, 17F, 20F, 23F. 
+ * Quiz 9: 14F, 16F, 1F, 18F, 19F, 20F, 21F, 22F, 23F.
 
 ## Instructor Information
 
