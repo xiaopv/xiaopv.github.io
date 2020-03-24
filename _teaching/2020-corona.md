@@ -55,6 +55,7 @@ This page contains logistical information for online classes during the school c
    * MAT 201
      * Alex Wang (alwang@utica.edu) Monday and Thursday 3pm - 6pm
      * Clayton Coonrod (cjcoonro@utica.edu) Tuesday 6pm - 8pm, Wednesday 3pm - 5pm
+ * School tutoring [page](https://www.utica.edu/tutoring).
 
 ## Special Accommodation
 
