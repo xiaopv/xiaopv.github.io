@@ -28,6 +28,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 3/26/20
+   * WebAssign homework.
+   * Finish 6.11 and send me your work if you want to present.
+   * Quiz 9 is due noon (EDT) Friday, Mar 27. Please submit your solution in one PDF file to me via email.
+   * [Board work](https://drive.google.com/open?id=19XdudFwke_l_WjJck6tj_LAIO3qkPR7R).
+   * [Video](https://drive.google.com/open?id=19dj53E-hK_l9CU0sKiif6X-YWvz1gxAt).
+
  * 3/24/20
    * WebAssign homework.
    * Try to complete Task 6.10 and 6.11. Re-Connect with your teammates if you can between classes to work on these problems. Send me email if you need help/hints for these problems. Send me an email with your work if you would like to present on Thursday.
