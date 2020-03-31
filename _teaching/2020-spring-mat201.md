@@ -152,7 +152,8 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Quiz 6: 6, 7, 8, 9, 10, 11, 12
  * Quiz 7: 4, 10, 11, 12, 13, 14, 16
  * Quiz 8: 7, 11, 12, 13, 14, 16, 18, 19
- * [Quiz 9](http://xiaopv.github.io/files/201Quiz9.pdf): 8, 11, 12, 14, 16, 18, 19, 20
+ * Quiz 9: 8, 11, 12, 14, 16, 18, 19, 20
+ * Quiz 10: 1, 2, 15, 17, 18, 19, 20, 21
  
 
 ## Instructor Information
