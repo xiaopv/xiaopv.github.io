@@ -28,13 +28,20 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Final exam: 5/7/20, 11:30 a.m. - 2:30 p.m.
 
 ## Homework Assignments
- 
+  * 3/31/20
+    * WebAssign homework.
+    * New Perusall Assignment.
+    * Complete Activity 2.6.4 and let me know if you want to present.
+    * There will be no derivative proficency test for this semester. This has been approved by the math department.
+    * [Board work](https://drive.google.com/open?id=1D85G67Rm03qfgdb7ZaX7ps7EyP3RWR7c)
+    * [Video](https://drive.google.com/open?id=1DCHi2omub_2p9-cLSOQmE209nTpKWDtZ)
+
   * 3/26/20
     * WebAssign homework.
     * Quiz 9 is due noon (EDT) Friday, Mar 27. Please submit your solution in one PDF file to me via email.
     * New Perusall Assignment.
     * Complete Activity 2.6.2 and Activity 2.6.4 (b) and (e). Send me your work if you want to present.
-    * [Board Work](https://drive.google.com/file/d/19bAT_GOeElJSu1jbxna8Rp6pYsAwcEeY/view?usp=sharing)
+    * [Board work](https://drive.google.com/file/d/19bAT_GOeElJSu1jbxna8Rp6pYsAwcEeY/view?usp=sharing)
     * [Video1](https://drive.google.com/open?id=19tY8n9nTKVnkqUJ1eJrpaN1LcE1CY2cJ) [Video2](https://drive.google.com/open?id=19uxLjj_JSy3PZVYAsE_S87gqpeLuw7Pi)
 
   * 3/24/20

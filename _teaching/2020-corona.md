@@ -11,7 +11,7 @@ This page contains logistical information for online classes during the school c
 
 ## Syllabus Updates
  
- * As of Mar. 13, 2020, no changes have been made to the syllabus. Please refer to the course home page for syllabus information such as homework assignment and quiz. Further updates will be posted here.
+ * MAT 201: There will be no Derivative Proficency Test.
 
 ## Online Classes
 
