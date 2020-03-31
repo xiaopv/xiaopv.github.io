@@ -30,25 +30,25 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 ## Homework Assignments
  
   * 3/26/20
-   * WebAssign homework.
-   * Quiz 9 is due noon (EDT) Friday, Mar 27. Please submit your solution in one PDF file to me via email.
-   * New Perusall Assignment.
-   * Complete Activity 2.6.2 and Activity 2.6.4 (b) and (e). Send me your work if you want to present.
-   * [Board Work](https://drive.google.com/file/d/19bAT_GOeElJSu1jbxna8Rp6pYsAwcEeY/view?usp=sharing)
-   * [Video1](https://drive.google.com/open?id=19tY8n9nTKVnkqUJ1eJrpaN1LcE1CY2cJ) [Video2](https://drive.google.com/open?id=19uxLjj_JSy3PZVYAsE_S87gqpeLuw7Pi)
+    * WebAssign homework.
+    * Quiz 9 is due noon (EDT) Friday, Mar 27. Please submit your solution in one PDF file to me via email.
+    * New Perusall Assignment.
+    * Complete Activity 2.6.2 and Activity 2.6.4 (b) and (e). Send me your work if you want to present.
+    * [Board Work](https://drive.google.com/file/d/19bAT_GOeElJSu1jbxna8Rp6pYsAwcEeY/view?usp=sharing)
+    * [Video1](https://drive.google.com/open?id=19tY8n9nTKVnkqUJ1eJrpaN1LcE1CY2cJ) [Video2](https://drive.google.com/open?id=19uxLjj_JSy3PZVYAsE_S87gqpeLuw7Pi)
 
   * 3/24/20
-   * WebAssign homework.
-   * Complete Activity 2.5.2 and 2.5.3. Re-Connect with your teammates if you can between classes to work on these problems. Send me email if you need help/hints for these problems. Send me an email with your work if you would like to present on Thursday.
-   * Perusall reading assignment for the chain rule unit.
-   * [Board work](https://bitpaper.io/go/0324_201/HyGmtKIUU). Please view the file, do not edit the file.
-   * [Video](https://drive.google.com/open?id=198z3yTCALI0HjjtVR0a9sn7gDuuiOLh0).
+    * WebAssign homework.
+    * Complete Activity 2.5.2 and 2.5.3. Re-Connect with your teammates if you can between classes to work on these problems. Send me email if you need help/hints for these problems. Send me an email with your work if you would like to present on Thursday.
+    * Perusall reading assignment for the chain rule unit.
+    * [Board work](https://bitpaper.io/go/0324_201/HyGmtKIUU). Please view the file, do not edit the file.
+    * [Video](https://drive.google.com/open?id=198z3yTCALI0HjjtVR0a9sn7gDuuiOLh0).
 
   * 3/12/20
-   * WebAssign homework.
-   * New Perusall Assignment.
-   * Attend tech training session. If you cannot make it and don't feel comfortable about zoom, contact me.
-   * We won't be presenting the rest of the rest of Activity 2.4.4 on 3/24/20. We will start unit 2.5 immediately.
+    * WebAssign homework.
+    * New Perusall Assignment.
+    * Attend tech training session. If you cannot make it and don't feel comfortable about zoom, contact me.
+    * We won't be presenting the rest of the rest of Activity 2.4.4 on 3/24/20. We will start unit 2.5 immediately.
 
  * 3/10/20
    * WebAssign homework.
