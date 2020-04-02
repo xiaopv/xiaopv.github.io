@@ -28,6 +28,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Final exam: 5/7/20, 11:30 a.m. - 2:30 p.m.
 
 ## Homework Assignments
+
+  * 4/2/20
+    * WebAssign homework.
+    * Quiz 10. Due Friday 4/3/20 at noon.
+    * [Board work](https://drive.google.com/open?id=1SwVNI8io6hHNcAY53UWD7oCWL0TbICdV)
+    * [Video](https://drive.google.com/open?id=1DMtbgtC7UjtnBm4uFLFlV2CT_Xu0hEap)
+
   * 3/31/20
     * WebAssign homework.
     * New Perusall Assignment.

@@ -28,6 +28,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 4/2/20
+   * WebAssign homework.
+   * Finish Task 7.5 and 7.7.
+   * Quiz 10. Due Friday 4/3/20 at noon.
+   * [Board work](https://drive.google.com/open?id=1SwVNI8io6hHNcAY53UWD7oCWL0TbICdV)
+   * [Video](https://drive.google.com/open?id=1DLgQPdDbNtqEvFNP_vx4azaiy93X0EZP)
+
  * 3/31/20
    * WebAssign homework.
    * Finish Task 7.2 and 7.3. Let me know if you want to present.
