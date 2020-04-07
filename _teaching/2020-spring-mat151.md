@@ -28,6 +28,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 4/7/20
+   * WebAssign homework.
+   * Finihs Task 7.11 and Task 7.13. Let me know if you want to present.
+   * Print a [copy](https://www.dropbox.com/s/wza3zorzem5x3dn/unitcircle.pdf?dl=0) of this unit circle. If you have softwares that you can use to annotate pdf files, you don't have to print it. If you don't have either of the above, please use a letter size blank paper to draw this. You can use a bowl to help you to get the circle right. Make sure you include all the other lines in the picture as well. [This](https://www.dropbox.com/s/db06hgscfm90jxz/trig_table.pdf?dl=0) table will also be needed as well.
+   * [Board work](https://drive.google.com/open?id=1H7C9y6EXtVI793bfDaHF_z14pDX09QNx)
+   * [Video](https://drive.google.com/open?id=1H5cuX0r3o96MX8I_rXTKfpeRKhE76ENl)
+
  * 4/2/20
    * WebAssign homework.
    * Finish Task 7.5 and 7.7.
