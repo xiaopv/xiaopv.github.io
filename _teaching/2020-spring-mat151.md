@@ -28,6 +28,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 4/21/29
+   * WebAssign homework.
+   * You do not have to any tasks in the course notes.
+   * Please go to WebAssign, eBook, and read Section 4.7, focus on the first two units "Inverse Sine Function" and "Other Inverse Trigonometric Functions". 
+   * [Board work](https://drive.google.com/file/d/1NTcAUQFzoPw_z5G8BKeSooGeqD9KF4Z-/view?usp=sharing)
+   * [Video](https://drive.google.com/file/d/1ND_MHXHEJAQVm5V-v0Qf_mik1jOjcBr0/view?usp=sharing)
+
  * 4/16/20
    * WebAssign homework.
    * Complete Tasks 8.2, 8.3, 8.4 and 8.6. Please let me know if you want to present.
@@ -160,9 +167,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * Quiz 9: 14F, 16F, 1F, 18F, 19F, 20F, 21F, 22F, 23F.
  * Quiz 10: 1L, 3L, 10E, 11E, 12E, 17F, 19F, 20F, 21F, 22F, 23F, 26T.
  * Quiz 11: 12E, 15F, 18F, 23F, 24T, 25T, 26T, 27T.
- * [Quiz 12](https://xiaopv.github.io/files/151Q12.pdf): 4Q, 17T, 19T, 24T, 25T, 26T, 27T.
+ * Quiz 12: 4Q, 17T, 19T, 24T, 25T, 26T, 27T.
+ * Quiz 13: 21F, 23F, 24T, 25T, 27T, 28T.
 
-<!-- (https://xiaopv.github.io/files/151Q11.pdf)-->
+<!-- (https://xiaopv.github.io/files/151Q13.pdf)-->
 
 ## Instructor Information
 
