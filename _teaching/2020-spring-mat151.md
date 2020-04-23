@@ -28,7 +28,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
- * 4/21/29
+ * 4/23/20
+   * WebAssign homework.
+   * Complete Task 8.12 and let me know if you want to present.
+   * [Board work](https://drive.google.com/file/d/1Nn9gCWAXBX2RHZKJF1hGGEkm_1iAi_8G/view?usp=sharing)
+   * [Video](https://drive.google.com/file/d/1NpoftDEakGxX3lY68ebCmiJZz0W0Rizy/view?usp=sharing)
+
+ * 4/21/20
    * WebAssign homework.
    * You do not have to any tasks in the course notes.
    * Please go to WebAssign, eBook, and read Section 4.7, focus on the first two units "Inverse Sine Function" and "Other Inverse Trigonometric Functions". 

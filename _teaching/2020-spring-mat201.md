@@ -29,6 +29,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Homework Assignments
 
+  * 4/23/20
+    * WebAssign homework.
+    * Complete Activity 3.3.3.
+    * [Board work](https://drive.google.com/file/d/1NxfJwSGYGkRcdLKneI4Eshwc_9icpB4o/view?usp=sharing) (Note: Please see the last page of the board work for an arithmetic error/correction)
+    * [Video](https://drive.google.com/file/d/1NvSzKM3T6Vl01c2jVH7PU9_EESR8M7Qg/view?usp=sharing)
+    
   * 4/21/20
     * WebAssign homework.
     * New Perusall Assignment.
