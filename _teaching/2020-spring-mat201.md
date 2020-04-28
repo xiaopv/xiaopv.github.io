@@ -25,9 +25,16 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Spring break: 3/16/20 - 3/20/20
  * Withdraw deadline: 3/30/20
  * SOOT: 4/27/20 - 5/4/20
- * Final exam: 5/7/20, 11:30 a.m. - 2:30 p.m.
+ * Final exam: Will be posted at noon 5/7/20, due noon 5/8/20
 
 ## Homework Assignments
+
+  * 4/28/20
+    * WebAssign homework.
+    * New Perusall Assignment.
+    * Complete Activities 3.4.2, 3.4.3 and 3.4.5.
+    * [Board work](https://drive.google.com/file/d/1QmTIyRdvCfG9c7X9tiPGF6G9aWFOTPEC/view?usp=sharing)
+    * [Video]
 
   * 4/23/20
     * WebAssign homework.
@@ -202,9 +209,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Quiz 10: 1, 2, 15, 17, 18, 19, 20, 21
  * Quiz 11: 15, 17, 21, 22
  * Quiz 12: 12, 21, 22, 25
- * [Quiz 13](https://xiaopv.github.io/files/201Q13.pdf): 22, 23, 24, 25
+ * Quiz 13: 22, 23, 24, 25
+ * Quiz 14: 23, 24, 25, 26
  
- <!-- (https://xiaopv.github.io/files/201Q13.pdf) -->
+ <!-- (https://xiaopv.github.io/files/201Q14.pdf) -->
 
 ## Instructor Information
 

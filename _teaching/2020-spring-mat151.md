@@ -24,10 +24,16 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * Spring break: 3/16/20 - 3/20/20
  * Withdraw deadline: 3/30/20
  * SOOT: 4/27/20 - 5/4/20
- * Final exam: 5/9/20, 8:00 a.m. - 11:00 a.m.
+ * Final exam: Will be posted at 11:00amm 5/9/20, due noon 5/10/20
 
 ## Homework Assignments
  
+ * 4/28/20
+   * WebAssign homework.
+   * Complete Task 8.15, 8.17, 8.19-8.24. Let me know if you want to present.
+   * [Board work](https://drive.google.com/file/d/1Qe9EWI99LGRtW5w10XDBpaPKW_fmvG82/view?usp=sharing)
+   * [Video](https://drive.google.com/file/d/1Qap-zGFj1gk7D0LieIkUNPTpEfF0ncG8/view?usp=sharing)
+
  * 4/23/20
    * WebAssign homework.
    * Complete Task 8.12 and let me know if you want to present.
@@ -174,9 +180,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * Quiz 10: 1L, 3L, 10E, 11E, 12E, 17F, 19F, 20F, 21F, 22F, 23F, 26T.
  * Quiz 11: 12E, 15F, 18F, 23F, 24T, 25T, 26T, 27T.
  * Quiz 12: 4Q, 17T, 19T, 24T, 25T, 26T, 27T.
- * [Quiz 13](https://xiaopv.github.io/files/151Q13.pdf): 21F, 23F, 24T, 25T, 27T, 28T.
+ * Quiz 13: 21F, 23F, 24T, 25T, 27T, 28T.
+ * Quiz 14: 23T, 25T, 28T, 29T, 30T.
 
-<!-- (https://xiaopv.github.io/files/151Q13.pdf)-->
+<!-- (https://xiaopv.github.io/files/151Q14.pdf)-->
 
 ## Instructor Information
 
