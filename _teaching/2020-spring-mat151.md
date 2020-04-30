@@ -28,6 +28,9 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 ## Homework Assignments
  
+ * 4/30/20
+   * One last WebAssign homework.
+   
  * 4/28/20
    * WebAssign homework.
    * Complete Task 8.15, 8.17, 8.19-8.24. Let me know if you want to present.
@@ -181,9 +184,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * Quiz 11: 12E, 15F, 18F, 23F, 24T, 25T, 26T, 27T.
  * Quiz 12: 4Q, 17T, 19T, 24T, 25T, 26T, 27T.
  * Quiz 13: 21F, 23F, 24T, 25T, 27T, 28T.
- * Quiz 14: 23T, 25T, 28T, 29T, 30T.
-
-<!-- (https://xiaopv.github.io/files/151Q14.pdf)-->
+ * [Quiz 14](https://xiaopv.github.io/files/151Q14.pdf): 23T, 25T, 28T, 29T, 30T.
 
 ## Instructor Information
 
