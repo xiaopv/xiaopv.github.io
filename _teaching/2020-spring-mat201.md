@@ -312,7 +312,9 @@ I pride myself on having a good environment for working and learning. It is very
  
 ## Evaluation
 
- In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalspercalculus.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Fridays. The goals that will be tested on a quiz will be posted at this page at least 24 hours ahead of time. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. You will be assigned the highest of the grades below for which you meet all criteria listed.
+ In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalspercalculus.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Fridays. The goals that will be tested on a quiz will be posted at this page at least 24 hours ahead of time. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. 
+
+ <!-- You will be assigned the highest of the grades below for which you meet all criteria listed. -->
 
  | Letter Grade |    Goals    | Homework Points | Presentations | Perusall Grade |
  | --------     | ----------- | --------------- | ------------- | -------------- |
@@ -334,13 +336,14 @@ I pride myself on having a good environment for working and learning. It is very
   * Determine your final letter grade according to the following rule based on your Perusall Grade.
  
  | Final Letter Grade | Perusall Grade |
+ | ------------------ | -------------- |
  | Up 1/3             | at least 2.70  |
- | remain same        | 1.70 - 2.69    |
+ | No change          | 1.70 - 2.69    |
  | Down 1/3           | 0.70 - 1.69    |
  | Down 2/3           | 0.69 or lower  |
 
  For example, if you score 19 goals, 23 homework points, 5 presentations, and 1.6 Perusall scores. Use the first table to determine that you letter grade is B-. Then because Perusall grade is 1.6, your final letter grade is down by 1/3 so final letter grade will be C+.
- 
+
 ## Tentative Schedule
 
  | Chapter 1 | Week 01-05 |
