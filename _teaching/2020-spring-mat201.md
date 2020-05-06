@@ -31,8 +31,8 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
   * 4/30/20
     * Finish your last Perusall Assignment and WebAssign homework.
-    * Board work
-    * Video
+    * [Board work](https://drive.google.com/file/d/1REZrk1qFCzdXk0jXwvd8ntcVMXUY0Yvv/view?usp=sharing)
+    * [Video](https://drive.google.com/file/d/1R1gKPcYZm5zGO6tDbeEVc_ZhJg1HPZZ7/view?usp=sharing)
 
   * 4/28/20
     * WebAssign homework.
@@ -328,6 +328,19 @@ I pride myself on having a good environment for working and learning. It is very
  |      D       | at least 10 |   at least 10   |   at least 1  |  at least 0.5  |
  |      F       | less than 10|  less than 10   |   less than 1 |  less than 0.3 |
 
+ A new grading guideline for Perusall Grade. Your final letter grade will be determined by two steps:
+
+  * Determine your letter grade based on the numbers goals, homework points and presentations number. Note that one must satisfy all three columns.
+  * Determine your final letter grade according to the following rule based on your Perusall Grade.
+ 
+ | Final Letter Grade | Perusall Grade |
+ | Up 1/3             | at least 2.70  |
+ | remain same        | 1.70 - 2.69    |
+ | Down 1/3           | 0.70 - 1.69    |
+ | Down 2/3           | 0.69 or lower  |
+
+ For example, if you score 19 goals, 23 homework points, 5 presentations, and 1.6 Perusall scores. Use the first table to determine that you letter grade is B-. Then because Perusall grade is 1.6, your final letter grade is down by 1/3 so final letter grade will be C+.
+ 
 ## Tentative Schedule
 
  | Chapter 1 | Week 01-05 |

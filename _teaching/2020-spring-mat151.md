@@ -30,6 +30,8 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  
  * 4/30/20
    * One last WebAssign homework.
+   * [Board work](https://drive.google.com/file/d/1QzEG1SZwZLZikuzsCPL0LBk2Qosg1V4Y/view?usp=sharing)
+   * [Video](https://drive.google.com/file/d/1R-wLVgkv5cCzmmGBwzJC-3T9kZc9-1tk/view?usp=sharing)
    
  * 4/28/20
    * WebAssign homework.
