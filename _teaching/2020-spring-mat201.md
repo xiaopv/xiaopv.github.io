@@ -18,6 +18,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * [Online Class](https://zoom.us/j/695603668)
  * [Online Working Document](https://docs.google.com/document/d/1PThlxkvLiLsnDHfkvA7Zfwsff8SEg1DGt0QXOT8BwtI/edit?usp=sharing)
  * [Online Office Hours](https://zoom.us/j/592702796)
+ * [Final](https://xiaopv.github.io/files/201F.pdf)
 
 ## Important Dates
 
@@ -215,7 +216,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Quiz 11: 15, 17, 21, 22
  * Quiz 12: 12, 21, 22, 25
  * Quiz 13: 22, 23, 24, 25
- * [Quiz 14](https://xiaopv.github.io/files/201Q14.pdf): 23, 24, 25, 26
+ * Quiz 14: 23, 24, 25, 26
 
 ## Instructor Information
 
