@@ -17,6 +17,8 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
  * [Online Class](https://zoom.us/j/589539769)
  * [Online Working Document](https://docs.google.com/document/d/1iz6ow0Q0jYRPKd_SeVEIc86M34FMVB0nLoSrq-fD53s/edit?usp=sharing)
  * [Online Office Hours](https://zoom.us/j/592702796)
+* [Final](https://xiaopv.github.io/files/151F.pdf)
+
 
 ## Important Dates
 
