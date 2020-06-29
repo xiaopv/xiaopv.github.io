@@ -22,6 +22,6 @@ About my name
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
 
-Test, how about \(\dfrac{-b\pm \sqrt{b^2-4ac}}{2a}\)?
+Test, how about $$\dfrac{-b\pm \sqrt{b^2-4ac}}{2a}$$?
 
 
