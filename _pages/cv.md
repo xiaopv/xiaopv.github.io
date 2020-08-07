@@ -16,7 +16,8 @@ Education
 
 Empolyment
 ======
-* 2015 - present: Associate Professor of Mathematics at Utica College
+* 2020 - present: Professor of Mathematics at Utica College
+* 2015 - 2020: Associate Professor of Mathematics at Utica College
 * 2011 - 2015: Assistant Professor of Mathematics at Utica College 
   
 Membership
