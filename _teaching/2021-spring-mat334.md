@@ -7,11 +7,11 @@ venue: "Mathematics Department, Utica College"
 date: 2021-01-25
 ---
 
-Welcome to the home page of Dr. Introduction to Abstract Algebra at Utica College. You can find all the documents for this course on this page. Due to the COVID-19 pandemic, this course will be entirely online for the Spring 2021 semester.
+Welcome to the home page of Dr. Xiao Xiao's Introduction to Abstract Algebra course at Utica College. You can find all the information for this course on this page. Due to the COVID-19 pandemic, this course will be entirely online for the Spring 2021 semester.
 
 ## Important Links
 
- * [Course Website](https://classroom.google.com/)
+ * [Google Classroom](https://classroom.google.com/)
  * [Connect to Class](https://zoom.us/j/94671214027)
 
 
@@ -33,7 +33,7 @@ Welcome to the home page of Dr. Introduction to Abstract Algebra at Utica Colleg
 
 ## An Important Course Policy
 
-I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable.
+I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Borrowed from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
 
 ## General Course Information and Policies
 
