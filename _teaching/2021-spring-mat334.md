@@ -14,7 +14,6 @@ Welcome to the home page of Dr. Xiao Xiao's Introduction to Abstract Algebra cou
  * [Google Classroom](https://classroom.google.com/)
  * [Connect to Class](https://zoom.us/j/94671214027)
 
-
 ## Important Dates
 
  * Add/Drop deadline: 1/29/21
