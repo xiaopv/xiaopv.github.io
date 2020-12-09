@@ -127,6 +127,7 @@ I pride myself on having a good environment for working and learning. It is very
 ## Evaluation
 
 Your final grade will be determined by the scores of your presentations, portfolio, journals, and exams.
+
 | Category       |  Weight |
 |  ------------- | ------- |
 | Presentations  |   20%   |
@@ -137,6 +138,7 @@ Your final grade will be determined by the scores of your presentations, portfol
 | Final Exam     |   15%   |
 
 The correspondences between percentage and letter grades are explained in the following table:
+
 | Percentage | Letter Grade |
 | ---------- | ------------ |
 | >92%       |      A       |
