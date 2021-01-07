@@ -7,7 +7,7 @@ venue: "Mathematics Department, Utica College"
 date: 2021-01-25
 ---
 
-Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. You can find all the information for this course on this page. Due to the COVID-19 pandemic, this course will be entirely online for the Spring 2021 semester.
+Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. You can find all the information for this course on this page. Due to the COVID-19 pandemic, this course will be entirely online for the Spring 2021 semester. Please find the Zoom link in Google Classroom.
 
 ## Important Links
 
@@ -15,7 +15,6 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * [Course Materials](https://activecalculus.org/single/frontmatter.html)
  * [WebAssign](https://www.webassign.net/login.html)
  * [Desmos](http://www.desmos.com/calculator)
- * [Connect to Class](https://zoom.us/j/93029299824)
 
 ## Important Dates
 
@@ -42,7 +41,7 @@ I pride myself on having a good environment for working and learning. It is very
  * Course name: MAT 201 Calculus 1
  * Course credit hours: 3 credit
  * Course Prerequisite: MAT 151, or satisfactory performance in the math placement test administered by the math department, or permission of instructor.
- * Class time and location: TR 8:30am-9:45am online. See above for connection link.
+ * Class time and location: Tuesdays and Thursdays 8:30am-9:45am online.
  * Textbook: Please see the course material link above.
  * Online homework system: We will use the WebAssign online homework system designed for Ron Larson's Calculus textbook. You do not need to purchase the hard copy of Ron Larson's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have purchase the WebAssign access. The ISBN for the WebAssign standalone access card is 9781337631853. You can also purchase the access directly from the publisher at [www.webassign.net](www.webassign.net). Note that it is very unlikely that any used Calculus textbook will come with the WebAssign access. The class key you need to self-enroll in WebAssign is "utica 9675 3260". Please use your Utica College official name and email address to register at WebAssign. Do not use nickname or your private email address. If you have not purchased the access card or have purchased it but have not received it, please still go ahead and register as soon as possible as the WebAssign website will have a grace period and you can start to work on homework problems immediately.
  * Calculator: We will be using a free graphing calculator app called Desmos. You can use Desmos directly by going to their website at [www.desmos.com](https://www.desmos.com/calculator). You are strongly encouraged to use Desmos on a computer or on a tablet. You can download Desmos at [Apple](https://itunes.apple.com/us/app/desmos-graphing-calculator/id653517540?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.desmos.calculator&amp;hl=en").
@@ -100,9 +99,9 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## Homework
 
- Homework assignments come in three different formats. 
- * The first kind is online homework assignment at WebAssign (Please purchase the access as soon as you can). There will be one WebAssign homework each week and they are due Saturday at noon. To earn credit, you must earn more than 90% on each WebAssign assignment. If you have made mistakes and would like more attempts, you can request extra attempts in WebAssign. Each WebAssign assignment is worth 1 point. 
- * The second kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You need to submit these assignments at Google Classroom every week and they will be graded on completion. Each assignment is worth 1 point.
+ Homework assignments come in two different formats. 
+ * The first kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You need to submit these assignments at Google Classroom every week (except for the first week) and they will be graded mostly on completion. Each assignment is worth 1 point.
+ * The second kind is online homework assignment at WebAssign (Please purchase the access as soon as you can). There will be one WebAssign homework each week (except for the first week) and they are due Saturday at noon each week. To earn credit, you must earn more than 90% on each WebAssign assignment. If you have made mistakes and would like more attempts, you can request extra attempts in WebAssign. Each WebAssign assignment is worth 1 point. 
  <!-- * The third kind is reading assignment. For a reading assignment, you will log in to Engage and click the Reading Assignment link. You will be forwarded to a platform called Perusall to complete the assignment. For each reading assignment, you need to make annotations on the course notes to show your understanding of the materials. Your annotations can be questions, comments or responses to other people's questions. Perusall will analyze your annotations and determine the level of your understanding. If you want to know more about the rubrics, you can check out [this](http://xiaopv.github.io/files/perusallrubric.docx) file. Note that if your comments are clustered, you will not get full credit. If your comments are past deadline, you also will not get credit. Each reading assignment is graded in 0-3 scale. -->
 
 <!-- ## Presentations
@@ -121,7 +120,7 @@ I pride myself on having a good environment for working and learning. It is very
 ## Group Participation
 
 During the class, you will be actively working in a small group with your peer classmates. Here are a few tips on how to be a productive group member:
-* Turn on your webcam and microphone when working in small groups. It really helps the efficiency of communication. For example, if you turn off your webcam and muted while talking, no one can hear you and also will be able to tell that you are trying to talk. At the same time, you might be thinking that everyone is ignoring you.
+* Turn on your webcam and microphone when working in small groups. It really improves the efficiency of communication. For example, if you turn off your webcam and muted while talking, no one can hear you and also will be able to tell that you are trying to talk. At the same time, you might be thinking that everyone is ignoring you.
 * Be helpful when your peer has a question. Also don't hesitate to ask if you have a question. The best way to learn something is to teach it.
 * It is common that the class time is not enough for you to complete all the activities, so it would be a good idea to get together with your group members between classes to work on them. Use Miro as a common space to keep track of your group work.
 * Respect others' idea. Give everyone a chance to share their opinion. Do not dominate a conversation.
@@ -133,24 +132,34 @@ About every two weeks, we will switch groups and each member of the group will h
  
 ## Evaluation
 
-In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalspercalculus.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Fridays. The goals that will be tested on a quiz will be posted at this page on Thursday evenings. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
+In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in quizzes and/or the final exam.
+<!-- either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). -->
+There is no partial credit. Once you have score a goal, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalspercalculus.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2.
+<!-- or 3/2(P) stands for presentation on March 2. -->
+If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to ask for practice problems. Quizzes are scheduled on Fridays. Participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
- |      A       | at least 19 goals and at least 26 homework points   |  
- |      B       | at least 16 goals and at least 22 homework points   | 
- |      C       | at least 13 goals and at least 18 homework points   | 
- |      D       | at least 10 goals and at least 14 homework points   |
- |      F       | less than 10 goals, or less than 14 homework points |
+ |      A       | at least 19 goals and at least 25 homework points   | 
+ |      A-      | at least 18 goals and at least 24 homework points   |
+ |      B+      | at least 17 goals and at least 22 homework points   |
+ |      B       | at least 16 goals and at least 21 homework points   |
+ |      B-      | at least 15 goals and at least 20 homework points   |
+ |      C+      | at least 14 goals and at least 18 homework points   | 
+ |      C       | at least 13 goals and at least 17 homework points   |
+ |      C-      | at least 12 goals and at least 16 homework points   |
+ |      D+      | at least 11 goals and at least 14 homework points   | 
+ |      D       | at least 10 goals and at least 13 homework points   |
+ |      F       | less than 10 goals, or less than 13 homework points |
  
 
- For Step 2, your final letter grade will be determined based on your base letter grade from Step 1 and possible adjustment based on your group participation grade.
+ For Step 2, your final letter grade could be altered based from Step 1 and possible adjustment based on your group participation grade.
  
- | Final Letter Grade | Group Participation Grade |
- | ------------------ | ------------------------  |
- | +                  | top 20%                   |
- | No change          | middle 60%                |
- | -                  | bottom 20%                |
+ | Final Letter Grade            | Group Participation Grade |
+ | ----------------------------- | ------------------------  |
+ | increase a third letter grade | top 20% (above average)   |
+ | No change                     | middle 60% (average)      |
+ | decrease a third letter grade | bottom 20% (below average)|
 
 
 ## Tentative Schedule
