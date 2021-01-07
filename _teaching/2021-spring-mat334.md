@@ -36,7 +36,7 @@ I pride myself on having a good environment for working and learning. It is very
  * Course name: MAT 334 Introduction to Abstract Algebra
  * Course credit hours: 3 credit
  * Course Prerequisite: MAT 305 or permission of instructor.
- * Class time and location: TR 10:00am-11:15am online.
+ * Class time and location: Tuesdays and Thursdays 10:00am-11:15am online.
  * Textbook: We will not use a textbook, but rather a task-sequence adopted for inquiry-based learning. The task-sequence is written by me, adapted from notes of Margaret Morrow and David Clark, and it will be available on Google Classroom. You are expected to work out all the tasks as the semester progresses.
  * Course description: Introduction to Abstract Algebra covers basic group theory. We will discuss the following concepts in this course: groups, subgroups, abelian groups, normal subgroups, product groups, quotient groups, and group isomorphisms. Standard examples such as cyclic groups, dihedral groups, permutation groups and classical theorems such as Lagrange's Theorem will be discussed.
  * Course learning objectives: In accordance to the learning goals of the Department of Mathematics of Utica College, students will demonstrate their proficiency of these abilities:
