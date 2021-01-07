@@ -72,11 +72,11 @@ I pride myself on having a good environment for working and learning. It is very
 
  * After each class, you should revise and improve your write-up for every problem of your homework to finally include it in your portfolio. Every exercise, proposition, lemma, theorem and corollary that we encounter is to be included in your portfolio. Each entry in the portfolio is intended to be complete and polished. Do not include scratch work. If you have written your homework using LaTeX, it would be much easier for your to revise it and further include it in the portfolio.
 
- * Each of us will develop her or his own mathematical voice in this class. Not every solution will look the same. The form of the portfolio will be standardized. Each student will receive an electronic LaTeX template that you can use to create your own portfolio. Begin each write-up with the statement of an exercise, a proposition, a lemma, a theorem or a corollary, followed by your solution or proof. Some write-ups will be two lines long, others may be several pages. If you have done a perfect job in your homework, then you can just insert the LaTeX code into your portfolio. Though in most cases, you will have to improve your original work.
+ * Each of us will develop our own mathematical voice in this class. Not every solution will look the same. The form of the portfolio will be standardized. Each student will receive an electronic LaTeX template that you can use to create your own portfolio. Begin each write-up with the statement of an exercise, a proposition, a lemma, a theorem or a corollary, followed by your solution or proof. Some write-ups will be two lines long, others may be several pages. If you have done a perfect job in your homework, then you can just insert the LaTeX code into your portfolio. Though in most cases, you will have to improve your original work.
  
  * The portfolio will be checked three times: Thursday, February 25, Thursday, April 1, and Thursday, May 6, 2021, at the final exam. 
 
- * Because you will have already know whether your solutions or proofs are correct or not by discussing them during presentations, portfolios will be graded solely on completeness and clarity. Clear and complete portfolios will earn a full mark, all others will be asked to resubmit within a week. Keep your portfolio current as you work, it will be too much effort to get it all organized and collated the night before it is due.
+ * Because you will have already know whether your solutions or proofs are correct or not by discussing them during presentations, portfolios will be graded mostly on completeness and clarity. Clear and complete portfolios will earn a full mark, all others will be asked to resubmit within a week. Keep your portfolio current as you work, it will be too much effort to get it all organized and collated the night before it is due.
 
  * At the end of the semester, portfolios with three full marks will earn the full 30% possible. Two full marks will earn 20%, one full mark will earn 10% and no full marks will earn 0%. In the end, you will walk away with an organized and complete collection of your work on which you can look back with pride.
 
@@ -85,11 +85,11 @@ I pride myself on having a good environment for working and learning. It is very
  * During the class, everyone (including the presenter) is expected to turn on their webcam as facial expressions is an important way to communicate and it is also a polite thing to do. Please make every effort to do so. If there are particular reasons that you would not be able to use webcam on a regular basis, please let me know in advance so we can discuss possible solutions.
  * Though the atmosphere in this class should be informal and friendly, what we do in the class is serious business. In particular, the presentations made by students are to be taken very seriously since they spearhead the work of the class.
  * The problems chosen for presentations will come from the homework. After a student has presented a proof that the class agrees is sufficient, I will often call upon another student in the audience to recap what has happened in the proof and to emphasize the salient points.
- * In order to make presentations go smoothly, presenters need to write out the proof in detail and go over the major ideas and transitions, so that he or she can make the proof clear to others.
+ * In order to make presentations go smoothly, presenters need to write out the proof in detail and go over the major ideas and transitions, so that they can make the proof clear to others.
  * The purpose of presentations is not just prove to me that the presenter has done the problem. The most important part is to make the ideas of the proof clear to the other students.
  * Presenters need to write in complete sentences, using proper English and mathematical grammar. [Here](https://www.utica.edu/faculty_staff/xixiao/ElementsOfStyle.pdf) are some suggestions on how to write a proper proof.
- * Fellow students are allowed to ask questions at any point and it is the responsibility of the presenter to answer those questions to the best of his or her ability.
- * Since the presentation is directed at the students, the presenter should frequently make eye contact with the students in order to address questions when they arise and also be able to see how well the other students are following the presentation.
+ * Fellow students are allowed to ask questions at any point and it is the responsibility of the presenter to answer those questions to the best of their ability.
+ <!-- * Since the presentation is directed at the students, the presenter should frequently make eye contact with the students in order to address questions when they arise and also be able to see how well the other students are following the presentation. -->
  * When a presenter is stuck with a question from the audience or from the instructor or when the presented proof is not generally accepted by the audience, the presenter has the following choices:
    * They can think on the fly and try to solve the problem although this should not take more than a few minutes as to save class time.
    * They can yield the time to other presenters and think about the questions. After all the presentations have been completed, they can come back and address the questions.
@@ -109,11 +109,11 @@ I pride myself on having a good environment for working and learning. It is very
    * The quality of past presentations: the better one presented in the past, the lower one is on the list.
    * Recentness of past presentations: the more recently one has presented, the lower one is on the list.
 
- * If it is a student's turn but he/she is not ready to present any problem on that day, then this is called a "pass". A student uses a "pass" in one class must make an appointment and meet with the instructor before the next class. No one shall "pass" for two consecutive classes.
+ * If it is a student's turn but they are not ready to present any problem on that day, then this is called a "pass". A student uses a "pass" in one class must make an appointment and meet with the instructor before the next class. No one shall "pass" for two consecutive classes.
  
  * In order to receive a passing grade on the presentation portion of your grade, you must present at least twice times prior to each exam (2 midterms and 1 final) for a total of at least six times during the semester. Your grade on your presentations, as well as your level of interaction during student presentations, are worth 20% of your overall grade.
 
-## Quizzes and Examinations
+## Examinations
 
  There will be two midterm exams and one final exam. Each exam is worth 15% of your overall grade. All exams will be oral. Details will be explained in class. Exams tentatively scheduled for Thursday, February 26, Thursday, April 1, and Thursday, May 6, 2021. Make-up exams will only be given under extreme circumstances, as judged by me. In general, it will be best to communicate conflicts ahead of time. 
 
@@ -123,7 +123,7 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## LaTeX
 
- We will be using OverLeaf to edit and compile LaTeX files. OverLeaf is a free online program so you don't have to pay anything to use it but you need to have an internet connection. I will run a special session on how to use LaTeX before the class starts. If you have experiences with LaTeX, then you do not have to attend the training sessions.
+ We will be using OverLeaf to edit and compile LaTeX files. OverLeaf is a free online program so you don't have to pay anything to use it but you need to have an internet connection. I will run a special session on how to use LaTeX before the class starts. If you have experiences with LaTeX, then you do not have to attend the training session.
 
 ## Evaluation
 
