@@ -136,7 +136,7 @@ In this class, we will use a system known as standards-based grading. You will h
 <!-- either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). -->
 There is no partial credit. Once you have score a goal, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalspercalculus.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2.
 <!-- or 3/2(P) stands for presentation on March 2. -->
-If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to ask for practice problems. Quizzes are scheduled on Fridays. Participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
+If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to ask for practice problems. Quizzes are scheduled on Fridays. Participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a letter grade based on the following criteria.
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
@@ -153,7 +153,7 @@ If you are unsuccessful on a quiz problem, prepare yourself to do better on the 
  |      F       | less than 10 goals, or less than 13 homework points |
  
 
- For Step 2, your final letter grade could be altered based from Step 1 and possible adjustment based on your group participation grade.
+ For Step 2, your final letter grade could be altered based on your group participation grade.
  
  | Final Letter Grade            | Group Participation Grade |
  | ----------------------------- | ------------------------  |
