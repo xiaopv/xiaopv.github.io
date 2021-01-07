@@ -157,9 +157,9 @@ If you are unsuccessful on a quiz problem, prepare yourself to do better on the 
  
  | Final Letter Grade            | Group Participation Grade |
  | ----------------------------- | ------------------------  |
- | increase a third letter grade | top 20% (above average)   |
+ | Increase a third letter grade | top 20% (above average)   |
  | No change                     | middle 60% (average)      |
- | decrease a third letter grade | bottom 20% (below average)|
+ | Decrease a third letter grade | bottom 20% (below average)|
 
 
 ## Tentative Schedule
