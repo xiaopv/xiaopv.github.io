@@ -7,12 +7,9 @@ venue: "Mathematics Department, Utica College"
 date: 2021-01-25
 ---
 
-Welcome to the home page of Dr. Xiao Xiao's Introduction to Abstract Algebra course at Utica College. You can find all the information for this course on this page. Due to the COVID-19 pandemic, this course will be entirely online for the Spring 2021 semester.
+Welcome to the home page of Dr. Xiao Xiao's Introduction to Abstract Algebra course at Utica College. You can find all the information for this course on this page. Due to the COVID-19 pandemic, this course will be entirely online for the Spring 2021 semester. Please find the Zoom link in Google Classroom.
 
-## Important Links
-
- * [Google Classroom](https://classroom.google.com/)
- * [Connect to Class](https://zoom.us/j/94671214027)
+<!-- ## Important Links -->
 
 ## Important Dates
 
@@ -39,7 +36,7 @@ I pride myself on having a good environment for working and learning. It is very
  * Course name: MAT 334 Introduction to Abstract Algebra
  * Course credit hours: 3 credit
  * Course Prerequisite: MAT 305 or permission of instructor.
- * Class time and location: TR 10:00am-11:15am online. See above for connection link.
+ * Class time and location: TR 10:00am-11:15am online.
  * Textbook: We will not use a textbook, but rather a task-sequence adopted for inquiry-based learning. The task-sequence is written by me, adapted from notes of Margaret Morrow and David Clark, and it will be available on Google Classroom. You are expected to work out all the tasks as the semester progresses.
  * Course description: Introduction to Abstract Algebra covers basic group theory. We will discuss the following concepts in this course: groups, subgroups, abelian groups, normal subgroups, product groups, quotient groups, and group isomorphisms. Standard examples such as cyclic groups, dihedral groups, permutation groups and classical theorems such as Lagrange's Theorem will be discussed.
  * Course learning objectives: In accordance to the learning goals of the Department of Mathematics of Utica College, students will demonstrate their proficiency of these abilities:
