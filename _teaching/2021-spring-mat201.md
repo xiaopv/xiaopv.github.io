@@ -100,7 +100,7 @@ I pride myself on having a good environment for working and learning. It is very
 ## Homework
 
  Homework assignments come in two different formats. 
- * The first kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You need to submit these assignments at Google Classroom every week (except for the first week) and they will be graded mostly on completion. Each assignment is worth 1 point.
+ * The first kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You need to submit these assignments at Google Classroom every week and they will be graded mostly on completion. Each assignment is worth 1 point.
  * The second kind is online homework assignment at WebAssign (Please purchase the access as soon as you can). There will be one WebAssign homework each week (except for the first week) and they are due Saturday at noon each week. To earn credit, you must earn more than 90% on each WebAssign assignment. If you have made mistakes and would like more attempts, you can request extra attempts in WebAssign. Each WebAssign assignment is worth 1 point. 
  <!-- * The third kind is reading assignment. For a reading assignment, you will log in to Engage and click the Reading Assignment link. You will be forwarded to a platform called Perusall to complete the assignment. For each reading assignment, you need to make annotations on the course notes to show your understanding of the materials. Your annotations can be questions, comments or responses to other people's questions. Perusall will analyze your annotations and determine the level of your understanding. If you want to know more about the rubrics, you can check out [this](http://xiaopv.github.io/files/perusallrubric.docx) file. Note that if your comments are clustered, you will not get full credit. If your comments are past deadline, you also will not get credit. Each reading assignment is graded in 0-3 scale. -->
 
@@ -140,17 +140,17 @@ If you are unsuccessful on a quiz problem, prepare yourself to do better on the 
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
- |      A       | at least 19 goals and at least 25 homework points   | 
- |      A-      | at least 18 goals and at least 24 homework points   |
- |      B+      | at least 17 goals and at least 22 homework points   |
- |      B       | at least 16 goals and at least 21 homework points   |
- |      B-      | at least 15 goals and at least 20 homework points   |
- |      C+      | at least 14 goals and at least 18 homework points   | 
- |      C       | at least 13 goals and at least 17 homework points   |
- |      C-      | at least 12 goals and at least 16 homework points   |
- |      D+      | at least 11 goals and at least 14 homework points   | 
- |      D       | at least 10 goals and at least 13 homework points   |
- |      F       | less than 10 goals, or less than 13 homework points |
+ |      A       | at least 19 goals and at least 26 homework points   | 
+ |      A-      | at least 18 goals and at least 25 homework points   |
+ |      B+      | at least 17 goals and at least 23 homework points   |
+ |      B       | at least 16 goals and at least 22 homework points   |
+ |      B-      | at least 15 goals and at least 21 homework points   |
+ |      C+      | at least 14 goals and at least 19 homework points   | 
+ |      C       | at least 13 goals and at least 18 homework points   |
+ |      C-      | at least 12 goals and at least 17 homework points   |
+ |      D+      | at least 11 goals and at least 15 homework points   | 
+ |      D       | at least 10 goals and at least 14 homework points   |
+ |      F       | less than 10 goals, or less than 14 homework points |
  
 
  For Step 2, your final letter grade could be altered based on your group participation grade.
