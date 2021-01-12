@@ -13,11 +13,11 @@ Welcome to the home page of Dr. Xiao Xiao's Introduction to Abstract Algebra cou
 
 ## Important Dates
 
- * Add/Drop deadline: 1/29/21
- * Withdraw deadline: 4/5/21
- * SOOT: 4/23/21 - 4/30/21
+ * Add/Drop deadline: 2/5/21
+ * Withdraw deadline: 4/12/21
+ * SOOT: 4/30/21 - 5/7/21
  * There will be no spring break.
- * Final exam: May. 3 - May. 7
+ * Final exam: May. 10 - May. 14
 
 ## Instructor Information
 
@@ -74,7 +74,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Each of us will develop our own mathematical voice in this class. Not every solution will look the same. The form of the portfolio will be standardized. Each student will receive an electronic LaTeX template that you can use to create your own portfolio. Begin each write-up with the statement of an exercise, a proposition, a lemma, a theorem or a corollary, followed by your solution or proof. Some write-ups will be two lines long, others may be several pages. If you have done a perfect job in your homework, then you can just insert the LaTeX code into your portfolio. Though in most cases, you will have to improve your original work.
  
- * The portfolio will be checked three times: Thursday, February 25, Thursday, April 1, and Thursday, May 6, 2021, at the final exam. 
+ * The portfolio will be checked three times: Thursday, March 4, Thursday, April 8, and Thursday, May 13, 2021, at the final exam. 
 
  * Because you will have already know whether your solutions or proofs are correct or not by discussing them during presentations, portfolios will be graded mostly on completeness and clarity. Clear and complete portfolios will earn a full mark, all others will be asked to resubmit within a week. Keep your portfolio current as you work, it will be too much effort to get it all organized and collated the night before it is due.
 
@@ -115,7 +115,7 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## Examinations
 
- There will be two midterm exams and one final exam. Each exam is worth 15% of your overall grade. All exams will be oral. Details will be explained in class. Exams tentatively scheduled for Thursday, February 26, Thursday, April 1, and Thursday, May 6, 2021. Make-up exams will only be given under extreme circumstances, as judged by me. In general, it will be best to communicate conflicts ahead of time. 
+ There will be two midterm exams and one final exam. Each exam is worth 15% of your overall grade. All exams will be oral. Details will be explained in class. Exams tentatively scheduled for Thursday, March 4, Thursday, April 8, and Thursday, May 13, 2021. Make-up exams will only be given under extreme circumstances, as judged by me. In general, it will be best to communicate conflicts ahead of time. 
 
 ## Journals
 

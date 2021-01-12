@@ -18,11 +18,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
 ## Important Dates
 
- * Add/Drop deadline: 1/29/21
- * Withdraw deadline: 4/5/21
- * SOOT: 4/23/21 - 4/30/21
+ * Add/Drop deadline: 2/5/21
+ * Withdraw deadline: 4/12/21
+ * SOOT: 4/30/21 - 5/7/21
  * There will be no spring break.
- * Final exam: May. 3 - May. 7
+ * Final exam: May. 10 - May. 14
 
 ## Instructor Information
 
