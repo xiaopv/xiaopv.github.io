@@ -22,6 +22,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Withdraw deadline: 4/12/21
  * SOOT: 4/30/21 - 5/7/21
  * There will be no spring break.
+ * Mental health day: Thursday March 4, Friday April 2.
  * Final exam: May. 10 - May. 14
 
 ## Instructor Information
