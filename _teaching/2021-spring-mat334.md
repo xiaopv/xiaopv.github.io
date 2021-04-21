@@ -116,7 +116,7 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## Examinations
 
- There will be two midterm exams and one final exam. Each exam is worth 15% of your overall grade. All exams will be oral. Details will be explained in class. Exams tentatively scheduled for Tuesday, March 9, Thursday, April 8, and Thursday, May 13, 2021. Make-up exams will only be given under extreme circumstances, as judged by me. In general, it will be best to communicate conflicts ahead of time. 
+ There will be two midterm exams and one final exam. Each exam is worth 15% of your overall grade. All exams will be oral. Details will be explained in class. Exams tentatively scheduled for Tuesday, March 9, Thursday, April 8, and Tuesday, May 11, 2021. Make-up exams will only be given under extreme circumstances, as judged by me. In general, it will be best to communicate conflicts ahead of time. 
 
 ## Journals
 
