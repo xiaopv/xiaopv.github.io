@@ -29,7 +29,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
 
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
- * Office hour: By [appointment](https://ucxiao.youcanbook.me)) via Zoom.
+ * Office hour: By [appointment](https://ucxiao.youcanbook.me) via Zoom.
 
 ## An Important Course Policy
 
