@@ -155,7 +155,7 @@ If you are unsuccessful on a quiz problem, prepare yourself to do better on the 
  |      C       | at least 13 goals and at least 10 homework points   |
  |      C-      | at least 12 goals and at least 10 homework points   |
  |      D+      | at least 11 goals and at least 9 homework points   | 
- |      D       | at least 10 goals and at least 9 homework points   |
+ |      D       | at least 10 goals and at least 8 homework points   |
  |      F       | less than 10 goals, or less than 8 homework points |
  
 
