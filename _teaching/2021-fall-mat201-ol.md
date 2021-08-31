@@ -22,8 +22,6 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. 
  * Fall break: 10/11/21 - 10/12/21
  * Withdraw deadline: 11/8/21
  * Thanksgiving break: 11/24/21 - 11/26/21
- * SOOT: 12/3/21 - 12/10/21
- * Final exam: 12/13/21 - 12/17/21
 
 ## Instructor Information
 
