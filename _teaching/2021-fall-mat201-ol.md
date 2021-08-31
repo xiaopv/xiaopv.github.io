@@ -146,15 +146,15 @@ If you are unsuccessful on a quiz problem, prepare yourself to do better on the 
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
- |      A       | at least 19 goals and at least 14 homework points   | 
- |      A-      | at least 18 goals and at least 14 homework points   |
- |      B+      | at least 17 goals and at least 13 homework points   |
- |      B       | at least 16 goals and at least 13 homework points   |
- |      B-      | at least 15 goals and at least 12 homework points   |
- |      C+      | at least 14 goals and at least 12 homework points   | 
- |      C       | at least 13 goals and at least 11 homework points   |
- |      C-      | at least 12 goals and at least 11 homework points   |
- |      D+      | at least 11 goals and at least 10 homework points   | 
+ |      A       | at least 19 goals and at least 13 homework points   | 
+ |      A-      | at least 18 goals and at least 13 homework points   |
+ |      B+      | at least 17 goals and at least 12 homework points   |
+ |      B       | at least 16 goals and at least 12 homework points   |
+ |      B-      | at least 15 goals and at least 11 homework points   |
+ |      C+      | at least 14 goals and at least 11 homework points   | 
+ |      C       | at least 13 goals and at least 10 homework points   |
+ |      C-      | at least 12 goals and at least 10 homework points   |
+ |      D+      | at least 11 goals and at least 9 homework points   | 
  |      D       | at least 10 goals and at least 9 homework points   |
  |      F       | less than 10 goals, or less than 8 homework points |
  
