@@ -2,7 +2,7 @@
 title: "The Arithmetic Partial Derivative"
 collection: publications
 permalink: /publication/2022-01-31-ArithmeticPartialDerivative
-excerpt: 'In this paper, we investigate the dynamical system of higher order of arithmetic partial derivatives. We show that there are infinitely many numbers with exactly n anti-partial derivatives for any nonnegative integer n. This is a joint work with Brad Emmons.'
+excerpt: 'In this paper, we investigate the dynamical system of higher order of arithmetic partial derivatives. We show that there are infinitely many numbers with exactly <var>n</var> anti-partial derivatives for any nonnegative integer <var>n</var>. This is a joint work with Brad Emmons.'
 date: January, 2022
 venue: 'Submitted'
 paperurl: 'http://arxiv.org/abs/2201.12453'
