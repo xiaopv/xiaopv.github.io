@@ -1,5 +1,5 @@
 ---
-title: "The Number Line throught Guided Inquiry"
+title: "The Number Line through Guided Inquiry"
 collection: publications
 permalink: /publication/2022-02-28-NumberLine
 excerpt: 'This is a real analysis textbook for future secondary teachers and general undergraudate mathematics major. This is a joint work with David M. Clark.'
