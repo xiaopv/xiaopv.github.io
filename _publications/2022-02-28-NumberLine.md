@@ -1,10 +1,10 @@
 ---
-title: "the Number Line throught Guided Inquiry"
+title: "The Number Line throught Guided Inquiry"
 collection: publications
 permalink: /publication/2022-02-28-NumberLine
 excerpt: 'This is a real analysis textbook for future secondary teachers and general undergraudate mathematics major. This is a joint work with David M. Clark.'
 date: Feburary, 2022
-venue: 'Submitted'
+venue: 'MAA Press: An Imprint of the American Mathematical Society'
 paperurl: 'https://bookstore.ams.org/text-69/'
 ---
 Abstract: The Number Line through Guided Inquiry is designed to give future secondary teachers a deep understanding of the real numbers and functions on the reals. By presenting just that part of the subject that underlies the high school curriculum, this book offers an alternative to a standard real analysis sequence for advanced undergraduate or beginning graduate students. It will give any student a much deeper understanding of the mathematics that they were taught in high school. 
