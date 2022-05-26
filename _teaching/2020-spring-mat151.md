@@ -9,6 +9,12 @@ date: 2020-01-21
 
 Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College. You can find all the information and documents for this course on this page. Please check this page frequently for announcements and assignments.
 
+# test
+<p>
+  <style>.a {color: red}</style>
+  <span class="a"></span>
+</p>
+
 ## Important Links
 
  * [Course Materials](https://www.utica.edu/faculty_staff/xixiao/public/mat151/index.html)
