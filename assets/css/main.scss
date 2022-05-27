@@ -37,3 +37,11 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.para-divider {
+  background-image: url("/images/paragraph seperator.jpg");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: center;
+  height: 45px;
+}
