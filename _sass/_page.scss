@@ -399,3 +399,12 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+.para-divider {
+  background-image: url("/images/paragraph seperator.jpg");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: center;
+  height: 45px;
+}
