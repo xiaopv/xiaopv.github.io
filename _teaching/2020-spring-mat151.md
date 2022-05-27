@@ -11,11 +11,15 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica College.
 
 
 <div class="para-divider"></div>
+
 paragraph 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ornare efficitur porttitor. Fusce a sodales libero. Etiam quis mattis dolor. Donec in euismod urna, sit amet volutpat est. Donec et mi a ipsum tristique blandit nec ut nibh. Nullam feugiat pulvinar est id maximus. Vestibulum felis purus, pharetra a vulputate quis, sodales vitae magna. Cras tincidunt elementum mauris in mattis. Duis eleifend egestas fringilla. Nullam varius libero sed felis dignissim bibendum. Phasellus porta dapibus sem, non convallis nibh vehicula vitae.
+
 <div class="para-divider"></div>
+
 paragraph 2
 Sed dictum, sapien ut volutpat efficitur, tellus quam lobortis orci, non bibendum sapien nunc sit amet urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vitae egestas quam. Quisque blandit, augue ut faucibus bibendum, sem eros facilisis diam, sed auctor lacus metus at diam. Donec faucibus finibus lacinia. In efficitur est sapien. Pellentesque porta arcu orci, in rutrum tortor faucibus sit amet. Donec sem dolor, sodales sit amet risus tempor, faucibus efficitur urna. Duis sit amet venenatis tortor. Aliquam et ante tempus, dictum odio sed, congue lacus. Nullam in eros ligula. Etiam auctor hendrerit ultricies.
+
 <div class="para-divider"></div>
 
 ## Important Links
