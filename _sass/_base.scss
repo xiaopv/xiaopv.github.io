@@ -317,3 +317,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   background-position: center;
   height: 45px;
 }
+
+.page__content p {
+  margin: 0 !important;
+}
