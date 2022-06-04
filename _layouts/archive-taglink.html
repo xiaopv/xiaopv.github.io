@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <style type="text/css">
+        .CUSTOM_CSS__tag-link {
+          color: darkcyan;
+        }
+
+        .CUSTOM_CSS__tag-link:hover {
+          text-decoration: underline;
+          text-decoration-color: darkcyan;
+        }
+      </style>
+      {% capture tagpage %}/tag-{{page.categories[0]}}{% endcapture %}
+      <h1 class="page__title">{{ page.title }} (<span><a href="{{tagpage}}" class="CUSTOM_CSS__tag-link">Tags</a></span>)</h1>
+      <h1>categories: {{page.categories[0]}}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+</div>
