@@ -1,11 +1,13 @@
 ---
-title: "MAT 201 Calculus 1 <h1 style=\"color: red\">test</h1>"
+title: "MAT 201 Calculus 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-mat201
 venue: "Mathematics Department, Utica College"
 date: 2022-08-15
 ---
+
+<h1 class="page__title" itemprop="headline"><a href="https://google.com">Tags</a></h1>
 
 Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. You can find all the information for this course on this page. 
 
