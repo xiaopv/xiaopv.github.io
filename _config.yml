@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiao Xiao"
   avatar           : "profile.png"
-  bio              : "A mathematician, a classical music lover, a Manchester United fan, a stamp collector, ..."
-  location         : "Utica, NY"
-  employer         : "Utica College"
+  bio              : "A mathematician, a classical music lover, a number theorist, a Manchester United fan, a stamp collector, ..."
+  location         : 
+  employer         : "Utica University"
   googlescholar    : 
   email            : "xixiao@utica.edu"
   uri              :
