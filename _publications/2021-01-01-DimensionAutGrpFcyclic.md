@@ -2,7 +2,7 @@
 title: "Dimensions of Automorphism Group Schemes of Finite Level Truncation of <var>F</var>-Cyclic <var>F</var>-Crystals"
 collection: publications
 permalink: /publication/2021-01-01-DimensionAutGrpFcyclic
-excerpt: 'In this paper, we develop a combinatorial formual to calculate the dimension of the automorphism group of <var>F</var>-cyclic <var>F</var>-crystal over an algebraically close dfield at some finite level. This is a joint work with Zeyu Ding.'
+excerpt: '(Joint work with Zeyu Ding) In this paper, we develop a combinatorial formual to calculate the dimension of the automorphism group of <var>F</var>-cyclic <var>F</var>-crystal over an algebraically close dfield at some finite level. This is a joint work with Zeyu Ding.'
 date: January, 2021
 venue: 'Transactions of the American Mathematical Society'
 paperurl: 'https://www.ams.org/journals/tran/2021-374-01/S0002-9947-2020-08243-9/'
