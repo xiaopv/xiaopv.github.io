@@ -1,5 +1,5 @@
 ---
-title: "Computing Isomorphism Numbers of <var>F</var>-crystals Using the Level Torsions "
+title: "Computing isomorphism numbers of <var>F</var>-crystals using the level torsions "
 collection: publications
 permalink: /publication/2012-12-01-ComputingIsomorphismNumbers
 excerpt: In this paper, we use the level torions to compute isomorphism numbers of various <var>F</var>-crystals.

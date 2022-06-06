@@ -1,5 +1,5 @@
 ---
-title: "Subtle Invariants of <var>F</var>-crystals"
+title: "Subtle invariants of <var>F</var>-crystals"
 collection: publications
 permalink: /publication/2014-12-01-SubtleInvariants
 excerpt: In this paper, we prove Vasiu's conjecture that the isomorphism number of an <var>F</var>-crystal is equal to its level torsion.

@@ -1,5 +1,5 @@
 ---
-title: "Minimal <var>F</var>-crystals and Isomorphism Numbers of Isosimple <var>F</var>-crystals"
+title: "Minimal <var>F</var>-crystals and isomorphism numbers of isosimple <var>F</var>-crystals"
 collection: publications
 permalink: /publication/2017-06-01-MinimalFcrystals
 excerpt: 'In this paper, we generalize minimal <var>p</var>‐divisible groups to minimal <var>F</var>-crystals. Using minimal heights, we give an estimate of isomorphism number of isosimple <var>F</var>-crystals.'

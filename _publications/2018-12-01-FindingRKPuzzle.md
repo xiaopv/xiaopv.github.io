@@ -1,5 +1,5 @@
 ---
-title: "Finding a Unique Finding a Unique Solution to Radon-Kaczmarz Puzzles"
+title: "Finding a unique solution to Radon-Kaczmarz puzzles"
 collection: publications
 permalink: /publication/2018-12-01-FindingRKPuzzle
 excerpt: 'In this paper, we determine the size of a Radon-Kaczmarz Puzzle so that it has a unique solution when give a fixed set of clues. This is a joint work with Steven Rossi.'
