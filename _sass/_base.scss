@@ -310,6 +310,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
+
+/*
+   Custom classes
+   ========================================================================== */
+
 .para-divider {
   background-image: url("/images/paragraph seperator.jpg");
   background-repeat: no-repeat;
@@ -318,6 +323,6 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   height: 45px;
 }
 
-.page__content p {
-  margin: 0 !important;
+.iframe[src^="/pdf"] {
+  min-width: 670;
 }
