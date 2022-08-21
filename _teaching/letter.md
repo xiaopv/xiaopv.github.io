@@ -1,5 +1,5 @@
 ---
-title: "Guidelines for letter of recommendations"
+title: "Guidelines for letters of recommendation"
 collection: teaching
 type: "General advice"
 permalink: /teaching/letter
