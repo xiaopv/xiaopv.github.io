@@ -1,9 +1,7 @@
 ---
 title: "Guidelines for letter of recommendations"
 collection: teaching
-type: "Advice"
 permalink: /teaching/letter
-venue: "Mathematics Department, Utica College"
 date: 2022-08-21
 ---
 
