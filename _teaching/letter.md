@@ -35,6 +35,6 @@ This page contains advice for people asking for a letter of recommendation from 
 
 * Feel free to email me one week before the letter is due or even earlier if I haven't told you the letter has been submitted.
 
-Credits: Many of the ideas above are borrowed from the recommendation letter webpages of [Keith Congrad](https://kconrad.math.uconn.edu/letterwriting/) and [Ravi Vakil](http://math.stanford.edu/~vakil/recommendations.html).
+Credits: Many of the ideas above are borrowed from the recommendation letter webpages of [Keith Conrad](https://kconrad.math.uconn.edu/letterwriting/) and [Ravi Vakil](http://math.stanford.edu/~vakil/recommendations.html).
 
 
