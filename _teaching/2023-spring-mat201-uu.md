@@ -17,21 +17,18 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Important Dates
 
-<!-- * Add/Drop deadline: 9/2/22 -->
- * UAS Winter break: 02/20/23 - 02/24/23
- * UU Spring break: 03/13/23 - 03/17/23
- * UAS Spring break: 04/10/23 - 04/14/23
-<!-- * Withdraw deadline: 11/7/22 -->
-<!-- * Thanksgiving break: 11/23/22 - 11/25/22 -->
+ * Add/Drop deadline: 01/20/23
+ * Spring break: 03/13/23 - 03/17/23
+ * Withdraw deadline: 03/27/22
  * SOOT: 04/24/23 - 05/01/23
- * Final exam: 05/01/23 - 05/01/23
+ * Final exam: 05/02/23 - 05/06/23
 
 ## Instructor Information
 
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Via zoom by appointment.
+ * Office hour: Tuesdays, Thursdays 1-2pm, Wedneaday 10-11am
 
 ## An Important Course Policy
 
@@ -45,13 +42,11 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course Prerequisite: MAT 151, or satisfactory performance in the math placement test administered by the math department.
 
- * Class time and location: M-F 8:49am-9:31am at UAS. On Mondays, Tuesdays, and Thursdays, lessons will be taught by Prof. Xiao. On Wednesdays, students should spend the time in groups completing classroom activities. On Fridays (except for the first Friday), students will spend the entire time on weekly quizzes.
+ * Class time and location: Tuesdays and Thursdays 10:00-11:15am at Hubbard 210
 
  * Textbook: Please see the course material link above.
-
- * Online homework system: We will use the WileyPLUS online homework system designed for Hughes-Hallett's Calculus textbook. You do not need to purchase the hard copy of Hughes-Hallett's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have signed up the WileyPLUS access. All of you should be automatically enrolled in the university's book bundle program so you should have access to WileyPLUS as soon as you sign up for it. Keep in mind that you need to use your official Utica University email address when signing up at WileyPLUS. Do not use nickname or your private email address. The class key you need to self-enroll in WileyPLUS is "B81178".
-
- <!-- * Online homework system: We will use the WileyPLUS online homework system designed for Hughes-Hallett's Calculus textbook. You do not need to purchase the hard copy of Hughes-Hallett's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have signed up the WileyPLUS access. The ISBN for the WileyPLUS standalone access card is 9781119777847. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used Calculus textbook will come with the WileyPLUS access. The class key you need to self-enroll in WileyPLUS is "A05946". Please use your Utica College official name and email address to register. Do not use nickname or your private email address. -->
+ 
+ * Online homework system: We will use the WileyPLUS online homework system designed for Hughes-Hallett's Calculus textbook. You do not need to purchase the hard copy of Hughes-Hallett's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have signed up the WileyPLUS access. The ISBN for the WileyPLUS standalone access card is 9781119777847. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used Calculus textbook will come with the WileyPLUS access. The class key you need to self-enroll in WileyPLUS is "B71652". Please use your Utica College official name and email address to register. Do not use nickname or your private email address.
 
  * Calculator: We will be using a free graphing calculator app called Desmos. You can use Desmos directly by going to their website at [www.desmos.com](https://www.desmos.com/calculator). You are strongly encouraged to use Desmos on a computer or on a tablet. You can download Desmos at [Apple](https://itunes.apple.com/us/app/desmos-graphing-calculator/id653517540?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.desmos.calculator&amp;hl=en").
 

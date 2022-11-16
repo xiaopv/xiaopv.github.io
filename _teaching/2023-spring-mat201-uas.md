@@ -24,7 +24,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 <!-- * Withdraw deadline: 11/7/22 -->
 <!-- * Thanksgiving break: 11/23/22 - 11/25/22 -->
  * SOOT: 04/24/23 - 05/01/23
- * Final exam: 05/01/23 - 05/01/23
+ * Final exam: 05/01/23 - 05/05/23
 
 ## Instructor Information
 
