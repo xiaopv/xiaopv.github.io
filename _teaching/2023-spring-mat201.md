@@ -1,5 +1,5 @@
 ---
-title: "MAT 201 Calculus 1"
+title: "MAT 201 Calculus 1 - UAS"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-mat201-uas
