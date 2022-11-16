@@ -45,7 +45,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course Prerequisite: MAT 151, or satisfactory performance in the math placement test administered by the math department.
 
- * Class time and location: M-F 8:49am-9:31am at UAS. On Mondays, Tuesdays, and Thursdays, lessons will be taught by Prof. Xiao. On Wednesdays, students should spend the time in groups completing classroom activities. On Fridays, students will spend the entire time on weekly quizzes.
+ * Class time and location: M-F 8:49am-9:31am at UAS. On Mondays, Tuesdays, and Thursdays, lessons will be taught by Prof. Xiao. On Wednesdays, students should spend the time in groups completing classroom activities. On Fridays (except for the first Friday), students will spend the entire time on weekly quizzes.
 
  * Textbook: Please see the course material link above.
 
@@ -128,12 +128,6 @@ I pride myself on having a good environment for working and learning. It is very
 ## Presentations
 
  * You will spend most of the time in class solving tasks in the course materials in groups of three or four. Each group can choose their own presenter when asked. If there are more than one group member that wants to present, the one with fewest presentations achieved at that time has the first dibs. The instructor reserves the right to choose any member from a group that he deemed necessary.
- 
- <!-- * All presentations will be done in the virtualy format. The prensenter will record a video explaining solution of desigated tasks with the following requirements: 
-   * Detail work can be clearly read by the audience
-   * Explantions should be clear for every single step, no matter how small the step is
-   * The presenter should include a brief introduction in the beginning of the presentation to talk about the general strategy
-   * In general, the presentation/recording should be less than 10 minutes. Please re-record if more than 10 minutes. If you must use more than 10 minutes because the solution is very long, contact the instructor. -->
  * You will earn credit for a presentation if you are able to correctly explain your solution. It is not enough to have a correct answer.
  * The purpose of presentations is not to prove to me that the presenter or their group has done the problem. It is to make the ideas of the solution clear to the other students.
  * Confusions and mistakes are very common when learning new mathematics and they should be handled positively to stimulate your thinking. The audience should feel free to ask questions in the discussion forum but please respect the ideas and opinions of others. For example, instead of using the phrase "You should change XYZ.", start your sentence like "Do we want to change ... ?"
@@ -153,7 +147,7 @@ During the class, you will be actively working in a small group with your peer c
  
 ## Evaluation
 
- In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalspercalculus.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Thursdays. The goals that will be tested on a quiz will be posted at this page on Wednesday evenings. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
+ In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](http://xiaopv.github.io/file/learninggoalscalculus1.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Thursdays. The goals that will be tested on a quiz will be posted at this page on Wednesday evenings. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
