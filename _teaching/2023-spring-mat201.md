@@ -2,34 +2,36 @@
 title: "MAT 201 Calculus 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-mat201
+permalink: /teaching/2023-spring-mat201-uas
 venue: "Mathematics Department, Utica University"
 date: 2023-01-01
 ---
 
-Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica College. You can find all the information for this course on this page. 
+Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica University. You can find all the information for this course on this page. Note that this is the course home page for the Utica Academy of Science bridge program. If you are a student of Utica University registered for Calculus 1, please check out the other Calculus 1 home page.
 
 ## Important Links
 
  * [Course Materials](https://activecalculus.org/single/frontmatter.html)
- * [WebAssign](https://www.webassign.net/login.html)
+ * [WileyPLUS](https://www.wileyplus.com)
  * [Desmos](http://www.desmos.com/calculator)
 
 ## Important Dates
 
- * Add/Drop deadline: 9/2/22
- * Fall break: 10/10/22 - 10/11/22
- * Withdraw deadline: 11/7/22
- * Thanksgiving break: 11/23/22 - 11/25/22
- * SOOT: 12/2/22 - 12/9/22
- * Final exam: 12/12/22 - 12/16/22
+<!-- * Add/Drop deadline: 9/2/22 -->
+ * UAS Winter break: 02/20/23 - 02/24/23
+ * UU Spring break: 03/13/23 - 03/17/23
+ * UAS Spring break: 04/10/23 - 04/14/23
+<!-- * Withdraw deadline: 11/7/22 -->
+<!-- * Thanksgiving break: 11/23/22 - 11/25/22 -->
+ * SOOT: 04/24/23 - 05/01/23
+ * Final exam: 05/01/23 - 05/01/23
 
 ## Instructor Information
 
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Make [appointment](https://ucxiao.youcanbook.me)).
+ * Office hour: Via zoom by appointment.
 
 ## An Important Course Policy
 
@@ -41,13 +43,15 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course credit hours: 3 credit
 
- * Course Prerequisite: MAT 151, or satisfactory performance in the math placement test administered by the math department, or permission of instructor.
+ * Course Prerequisite: MAT 151, or satisfactory performance in the math placement test administered by the math department.
 
- * Class time and location: TBD
+ * Class time and location: M-F 8:49am-9:31am at UAS. On Mondays, Tuesdays, and Thursdays, lessons will be taught by Prof. Xiao. On Wednesdays, students should spend the time in groups completing classroom activities. On Fridays, students will spend the entire time on weekly quizzes.
 
  * Textbook: Please see the course material link above.
 
- * Online homework system: We will use the WileyPLUS online homework system designed for Hughes-Hallett's Calculus textbook. You do not need to purchase the hard copy of Hughes-Hallett's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have signed up the WileyPLUS access. The ISBN for the WileyPLUS standalone access card is 9781119777847. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used Calculus textbook will come with the WileyPLUS access. The class key you need to self-enroll in WileyPLUS is "A05946". Please use your Utica College official name and email address to register. Do not use nickname or your private email address.
+ * Online homework system: We will use the WileyPLUS online homework system designed for Hughes-Hallett's Calculus textbook. You do not need to purchase the hard copy of Hughes-Hallett's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have signed up the WileyPLUS access. All of you should be automatically enrolled in the university's book bundle program so you should have access to WileyPLUS as soon as you sign up for it. Keep in mind that you need to use your official Utica University email address when signing up at WileyPLUS. Do not use nickname or your private email address. The class key you need to self-enroll in WileyPLUS is "B81178".
+
+ <!-- * Online homework system: We will use the WileyPLUS online homework system designed for Hughes-Hallett's Calculus textbook. You do not need to purchase the hard copy of Hughes-Hallett's Calculus textbook. If you want to have that textbook as a reference, you will have the access to an electronic version of it after you have signed up the WileyPLUS access. The ISBN for the WileyPLUS standalone access card is 9781119777847. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used Calculus textbook will come with the WileyPLUS access. The class key you need to self-enroll in WileyPLUS is "A05946". Please use your Utica College official name and email address to register. Do not use nickname or your private email address. -->
 
  * Calculator: We will be using a free graphing calculator app called Desmos. You can use Desmos directly by going to their website at [www.desmos.com](https://www.desmos.com/calculator). You are strongly encouraged to use Desmos on a computer or on a tablet. You can download Desmos at [Apple](https://itunes.apple.com/us/app/desmos-graphing-calculator/id653517540?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.desmos.calculator&amp;hl=en").
 
@@ -64,7 +68,7 @@ I pride myself on having a good environment for working and learning. It is very
    * reason, model, and draw conclusions or make decisions with mathematical and quantitative information, including estimating and checking answers to determine reasonableness, identifying alternatives, and selecting optimal results.
    * critique and evaluate quantitative arguments that utilize mathematical, statistical, and quantitative information.
 
- * Class organization: This course will likely be different from any other math course you have taken before. As an instructor, I will not be lecturing most of the time although I love lecturing very much. Scientific research shows that most people do not learn mathematics by listening, instead, they learn by doing it! I am sure you have said to yourself before "It looked so easy when the professor was doing it, but now I am confused when I have to do it by myself." Why? Because the knowledge belongs to your professor and does not belong to you. You do not learn the knowledge simply by hearing it once or twice from somebody else. In order for you to have a more thorough understanding of the knowledge, we will use a pedagocial practice called [inquiry-based learning](http://www.inquirybasedlearning.org). Most of the time during the class, students will be working in groups and presenting solutions that they have produced by themselves and not by other people or textbooks. Attendance is mandatory. Attending class meetings will have a direct impact on your learning as well as your grade. If you miss class for any reason, you are responsible for getting the information from a classmate, and checking the course web page for any handouts and assignments. 
+ * Class organization: This course will likely be different from any other math course you have taken before. As an instructor, I will not be lecturing most of the time although I love lecturing very much. Scientific research shows that most people do not learn mathematics by listening, instead, they learn by doing it! I am sure you have said to yourself before "It looked so easy when the professor was doing it, but now I am confused when I have to do it by myself." Why? Because the knowledge belongs to your professor and does not belong to you. You do not learn the knowledge simply by hearing it once or twice from somebody else. In order for you to have a more thorough understanding of the knowledge, we will use a pedagocial practice called [inquiry-based learning](http://www.inquirybasedlearning.org). Most of the time during the class, students will be working in groups and presenting solutions that they have produced by themselves and not by other people or textbooks. 
 
  * Attendance is mandatory. Attending class meetings will have a direct impact on your learning as well as your grade. If you miss class for any reason, you are responsible for getting the information from a classmate, and checking the course web page for any handouts and assignments. You will not be able to make up the quiz for the day if you were not in class unless you have met the makeup policy below.
 
@@ -74,12 +78,12 @@ I pride myself on having a good environment for working and learning. It is very
    * You can only make up the quiz or the exam after the scheduled date.
  
 ## Your Role and My Role
- * Professor Xiao's role: I want you to succeed and I am here to help you succeed, but I cannot succeed for you! I have designed the structure of the course to help you learn. The class format will challenge you but it will be exhilarating and even fun at times. I will do what I think is the best to help you understand the material in the course. I hold office hours to provide you the opportunity to get additional help, and I check and respond to email frequently.
+ * Professor Xiao's role: I want you to succeed and I am here to help you succeed, but I cannot succeed for you! I have designed the structure of the course to help you learn. The class format will challenge you but it will be exhilarating and even fun at times. I will do what I think is the best to help you understand the material in the course.
  * Student's Role:
    * You are responsible for making sense of the concepts and processes in this course. Success in mathematics is less about "ability" and more about willingness to think and to work hard to make sense of things.
    * Attend every class meeting, participate, present whenever you can and work on the assignments outside of class.
    * Please respect the ideas and opinions of others.
-   * If you are having trouble, please come to office hours or make an appointment to visit me.
+   * If you are having trouble, please make an appointment to visit me.
    * Cell phones should be off or set to vibrate. Do not place a call or send a text during class, and do not answer a phone call without first leaving the room.
 
 ## Intellectual Property
@@ -119,16 +123,17 @@ I pride myself on having a good environment for working and learning. It is very
   
   * The first kind is online homework assignment at WileyPLUS (Please get the access as soon as you can). There will be one WileyPLUS homework each week and they are due Saturday at noon. To earn credit, you must earn more than 90% on each assignment. You have 10 attempts for each question and that should be plenty before you can answer the question correctly. Each assignment is worth 1 point. 
   
-  * The second kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You will need to submit these work in Google Classrom on a weekly basis.
+  * The second kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You will be asked to present your work during the class as part of the evlautions. 
 
 ## Presentations
 
- * You will spend most of the time in class solving tasks in the course materials in groups of three or four. Each group can choose their own presenter when asked. If there are more than one group member that wants to present, the one with fewest goals achieved at that time has the first dibs. The instructor reserves the right to choose any member from a group that he deemed necessary.
- * All presentations will be done in the virtualy format. The prensenter will record a video explaining solution of desigated tasks with the following requirements: 
+ * You will spend most of the time in class solving tasks in the course materials in groups of three or four. Each group can choose their own presenter when asked. If there are more than one group member that wants to present, the one with fewest presentations achieved at that time has the first dibs. The instructor reserves the right to choose any member from a group that he deemed necessary.
+ 
+ <!-- * All presentations will be done in the virtualy format. The prensenter will record a video explaining solution of desigated tasks with the following requirements: 
    * Detail work can be clearly read by the audience
    * Explantions should be clear for every single step, no matter how small the step is
    * The presenter should include a brief introduction in the beginning of the presentation to talk about the general strategy
-   * In general, the presentation/recording should be less than 10 minutes. Please re-record if more than 10 minutes. If you must use more than 10 minutes because the solution is very long, contact the instructor.
+   * In general, the presentation/recording should be less than 10 minutes. Please re-record if more than 10 minutes. If you must use more than 10 minutes because the solution is very long, contact the instructor. -->
  * You will earn credit for a presentation if you are able to correctly explain your solution. It is not enough to have a correct answer.
  * The purpose of presentations is not to prove to me that the presenter or their group has done the problem. It is to make the ideas of the solution clear to the other students.
  * Confusions and mistakes are very common when learning new mathematics and they should be handled positively to stimulate your thinking. The audience should feel free to ask questions in the discussion forum but please respect the ideas and opinions of others. For example, instead of using the phrase "You should change XYZ.", start your sentence like "Do we want to change ... ?"
@@ -139,12 +144,12 @@ I pride myself on having a good environment for working and learning. It is very
 
 During the class, you will be actively working in a small group with your peer classmates. Here are a few tips on how to be a productive group member:
 * Be helpful when your peer has a question. Also don't hesitate to ask if you have a question. The best way to learn something is to teach it.
-* It is common that the class time is not enough for you to complete all the activities, so it would be a good idea to get together with your group members between classes to work on them. Use Miro as a common space to keep track of your group work.
+* It is common that the class time is not enough for you to complete all the activities, so it would be a good idea to get together with your group members between classes to work on them.
 * Respect others' idea. Give everyone a chance to share their opinion. Do not dominate a conversation.
 
 ## Quizzes and Examinations
 
-  There will be a quiz every week on Thursday except for the first week. There will be one cumulative final exam.
+  There will be a quiz every week on Friday except for the first week. There will be one cumulative final exam.
  
 ## Evaluation
 
@@ -180,7 +185,7 @@ During the class, you will be actively working in a small group with your peer c
  
  There are two kinds of (free) tutoring services offered by the college.
 
- * The first kind is to [make an appointment](https://www.utica.edu/tutoring) at the learning commons for a virtual one-on-one tutoring service.
+ * The first kind is at the [learning commons](https://www.utica.edu/tutoring) at the Utica University Library.
  * The second kind is [Smarthinking](https://www.utica.edu/tutoring/smarthinking-online-tutoring), which is a 24/7 online tutoring service.
  
 ## Academic Integrity
