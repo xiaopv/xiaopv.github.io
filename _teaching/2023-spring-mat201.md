@@ -87,8 +87,8 @@ I pride myself on having a good environment for working and learning. It is very
    * Cell phones should be off or set to vibrate. Do not place a call or send a text during class, and do not answer a phone call without first leaving the room.
 
 ## Intellectual Property
- * My lectures and course materials, including powerpoint presentations, tests, outlines, and similar materials, are protected by U.S. copyright law and by Utica College policy. I am the exclusive owner of the copyright in those materials I create. You may take notes and make copies of course materials for your own use. You may also share those materials with another student who is registered and enrolled in this course.
- * You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials in any other way — whether or not a fee is charged — without my express written consent. You also may not allow others to do so. If you do so, you may be subject to student conduct proceedings under the Utica College Student Code of Conduct
+ * My lectures and course materials, including powerpoint presentations, tests, outlines, and similar materials, are protected by U.S. copyright law and by Utica University policy. I am the exclusive owner of the copyright in those materials I create. You may take notes and make copies of course materials for your own use. You may also share those materials with another student who is registered and enrolled in this course.
+ * You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials in any other way — whether or not a fee is charged — without my express written consent. You also may not allow others to do so. If you do so, you may be subject to student conduct proceedings under the Utica University Student Code of Conduct
  * Similarly, you own the copyright in your original work. If I am interested in posting your solution on the course web site, I will ask for your written permission.
 
 <!-- “This content is protected and may not be shared, uploaded or distributed.” © Faculty Name 2020 -->
@@ -183,20 +183,20 @@ During the class, you will be actively working in a small group with your peer c
 
 ## Tutoring Services
  
- There are two kinds of (free) tutoring services offered by the college.
+ There are two kinds of (free) tutoring services offered by the university.
 
  * The first kind is at the [learning commons](https://www.utica.edu/tutoring) at the Utica University Library.
  * The second kind is [Smarthinking](https://www.utica.edu/tutoring/smarthinking-online-tutoring), which is a 24/7 online tutoring service.
  
 ## Academic Integrity
 
- I have zero tolerance on dishonesty. Any forms of dishonesty such as copying homework or cheating on quizzes and examinations, will result in zero credit for that particular assignment, and will be reported to the Academic Standards Committee. The highest penalty a student can receive is "F for cheating" for the course. There might be additional sanctions by the Academic Standards Committee such as dismissal from the college. See Utica College official [page](https://www.utica.edu/academic/facultyinfo/intellectualdishonesty.cfm) for Academic Honesty for more details.
+ I have zero tolerance on dishonesty. Any forms of dishonesty such as copying homework or cheating on quizzes and examinations, will result in zero credit for that particular assignment, and will be reported to the Academic Standards Committee. The highest penalty a student can receive is "F for cheating" for the course. There might be additional sanctions by the Academic Standards Committee such as dismissal from the university. See Utica University official [page](https://www.utica.edu/academic/facultyinfo/intellectualdishonesty.cfm) for Academic Honesty for more details.
 
 ## Special Accommodation
 
  The stuff just below is the University approved language, and is a bit... ``legalese''.  The point is, if you need accommodations to succeed in this course, talk to me and we can make sure you get what you need. And the social environment of this course is important to me, too. Let’s work together to make a welcoming and affirming space for everyone.
 
- Any student who has need of special accommodations in this class due to a documented disability should speak with me as soon as possible, preferably within the first two weeks of class. You should also contact Judy Borner, Director of Learning Services in the Academic Support Services Center (315-792-3032 or jcborner@utica.edu ) in order to determine eligibility for services and to receive an accommodation letter. We will work with you to help you in your efforts to master the course content in an effective and appropriate way. See Utica College official [page](https://www.utica.edu/student/development/learning/) for Office of Learning Services.
+ Any student who has need of special accommodations in this class due to a documented disability should speak with me as soon as possible, preferably within the first two weeks of class. You should also contact Judy Borner, Director of Learning Services in the Academic Support Services Center (315-792-3032 or jcborner@utica.edu ) in order to determine eligibility for services and to receive an accommodation letter. We will work with you to help you in your efforts to master the course content in an effective and appropriate way. See Utica University official [page](https://www.utica.edu/student/development/learning/) for Office of Learning Services.
 
 ## Disclaimer
 
