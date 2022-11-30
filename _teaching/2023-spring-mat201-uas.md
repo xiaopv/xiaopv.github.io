@@ -1,5 +1,5 @@
 ---
-title: "MAT 201 Calculus 1 - UAS"
+title: "MAT 201 Calculus 1 - Utica Science Academy"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-mat201-uas
@@ -35,7 +35,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## An Important Course Policy
 
-I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapated from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
+I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapted from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
 
 ## General Course Information and Policies
 
@@ -45,7 +45,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course Prerequisite: MAT 151, or satisfactory performance in the math placement test administered by the math department.
 
- * Class time and location: M-F 8:49am-9:31am at UAS. On Mondays, Tuesdays, and Thursdays, lessons will be taught by Prof. Xiao. On Wednesdays, students should spend the time in groups completing classroom activities. On Fridays (except for the first Friday), students will spend the entire time on weekly quizzes.
+ * Class time and location: M-F 8:49 am-9:31 am at UAS. On Mondays, Tuesdays, and Thursdays, lessons will be taught by Prof. Xiao. On Wednesdays, students should spend the time in groups completing classroom activities. On Fridays (except for the first Friday), students will spend the entire time on weekly quizzes.
 
  * Textbook: Please see the course material link above.
 
@@ -123,7 +123,7 @@ I pride myself on having a good environment for working and learning. It is very
   
   * The first kind is online homework assignment at WileyPLUS (Please get the access as soon as you can). There will be one WileyPLUS homework each week and they are due Saturday at noon. To earn credit, you must earn more than 90% on each assignment. You have 10 attempts for each question and that should be plenty before you can answer the question correctly. Each assignment is worth 1 point. 
   
-  * The second kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You will be asked to present your work during the class as part of the evlautions. 
+  * The second kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers. You will be asked to present your work during the class as part of the evaluations. 
 
 ## Presentations
 
@@ -188,7 +188,7 @@ During the class, you will be actively working in a small group with your peer c
 
 ## Special Accommodation
 
- The stuff just below is the University approved language, and is a bit... ``legalese''.  The point is, if you need accommodations to succeed in this course, talk to me and we can make sure you get what you need. And the social environment of this course is important to me, too. Let’s work together to make a welcoming and affirming space for everyone.
+ The stuff just below is the University approved language, and is a bit... "legalese''.  The point is, if you need accommodations to succeed in this course, talk to me and we can make sure you get what you need. And the social environment of this course is important to me, too. Let’s work together to make a welcoming and affirming space for everyone.
 
  Any student who has need of special accommodations in this class due to a documented disability should speak with me as soon as possible, preferably within the first two weeks of class. You should also contact Judy Borner, Director of Learning Services in the Academic Support Services Center (315-792-3032 or jcborner@utica.edu ) in order to determine eligibility for services and to receive an accommodation letter. We will work with you to help you in your efforts to master the course content in an effective and appropriate way. See Utica University official [page](https://www.utica.edu/student/development/learning/) for Office of Learning Services.
 
