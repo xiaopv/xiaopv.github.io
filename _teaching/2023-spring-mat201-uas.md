@@ -36,9 +36,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 ## Homework
 
  * Jan. 3, 2023
-   * Sign up at WileyPLUS, [instruction](https://www.dropbox.com/s/9mboo87mhyomr0m/courseflyer_A05946.pdf?dl=0).
-   * Print learning goal [sheet](http://xiaopv.github.io/files/learninggoalscalculus1.pdf), carry this with you to class.
    * Complete [Preview Activity 1.1.1](https://activecalculus.org/single/sec-1-1-vel.html), you can use Desmos to construct the graph in part (a).
+   * Sign up at [WileyPLUS](https://www.dropbox.com/s/9mboo87mhyomr0m/courseflyer_A05946.pdf?dl=0) (if you have not done so).
+   * Print learning goal [sheet](http://xiaopv.github.io/files/learninggoalscalculus1.pdf) (if you have not done so), carry this with you to class.
+   * Complete the placement exam (if you have not done so).
+   * Complete the introduction survey (if you have not done so).
 
 ## An Important Course Policy
 
