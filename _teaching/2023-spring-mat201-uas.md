@@ -33,6 +33,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office: White Hall 255
  * Office hour: Via zoom by appointment.
 
+## Homework
+
+ * Jan. 3, 2023
+   * Sign up at WileyPLUS, [instruction](https://www.dropbox.com/s/9mboo87mhyomr0m/courseflyer_A05946.pdf?dl=0).
+   * Print learning goal [sheet](http://xiaopv.github.io/files/learninggoalscalculus1.pdf), carry this with you to class.
+   * Complete [Preview Activity 1.1.1](https://activecalculus.org/single/sec-1-1-vel.html), you can use Desmos to construct the graph in part (a).
+
 ## An Important Course Policy
 
 I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapted from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
