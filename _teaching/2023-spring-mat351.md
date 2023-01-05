@@ -53,7 +53,7 @@ I pride myself on having a good environment for working and learning. It is very
  
 * Regular attendance is mandatory and is vital to success in this course, but you will not explicitly be graded on attendance. Yet, repeated absences may impact your participation grade.
 
-* You need to get a set of straight and compass (e.g., like [this](https://www.amazon.com/eBoot-Drawing-Compass-Protractor-Geometry/dp/B0746GRPCV/ref=sr_1_5?crid=GZ56RDBNM2RK&keywords=straight+and+compass&qid=1672935623&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=straight+and+compass%2Caps%2C126&sr=1-5)). We will do a lot of straight and compass construction during this course.
+* You need to get a set of straight and compass (e.g., like [this](https://www.amazon.com/eBoot-Drawing-Compass-Protractor-Geometry/dp/B0746GRPCV/ref=sr_1_5?crid=GZ56RDBNM2RK&keywords=straight+and+compass&qid=1672935623&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=straight+and+compass%2Caps%2C126&sr=1-5)). We will do a lot of straight and compass constructions during this course.
  
 ## Homework
 
