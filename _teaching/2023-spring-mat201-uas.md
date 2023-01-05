@@ -35,6 +35,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+ * Jan. 5, 2023
+   * Complete [Activity 1.1.3](https://activecalculus.org/single/sec-1-1-vel.html). For part (b), you have two different methods to estimate the instantaneous velocity. Take t=1.5 as an example. You can 1) either zoom in repeatedly at t=1.5 until you see a straight line and then estimate the slope of the line or 2) compute the average velocity of small intervals near t=1.5 such as from 1.4999 to 1.5 or from 1.5 to 1.50001 and guess what the instantaneous velocity will be. 
+   * You should start working on the problems in the Week 1 assignment in WileyPLUS. You are expected to complete the Week 1 assignment before Quiz 1 (see the next bullet point).
+   * Since you will have async on Friday Jan. 13, we will have in-person lessons next week on Monday, Tuesday, and Wednesday. Quiz 1 is scheduled on Thursday Jan. 12 (not the usual Friday).
+
  * Jan. 4, 2023
    * Try your best to complete [Activity 1.1.2](https://activecalculus.org/single/sec-1-1-vel.html). Here is a Desmos [template](https://www.desmos.com/calculator/xcjwpxfa9g) that will be helpful for this activity. A hint for Part (b): to sketch the required line, you need to first figure out the line equation. A review question: given two points, how do you get the equation of the line that goes through those two points?
    * Presentations will be a big part of this course so we need to start to get comfortable talking in front of others. If you feel like you can present your solution (does not matter if it is not completely correct) for Activity 1.1.2 (or any part of activity, e.g., just one part), please let me know either by email or at the beginning of the next class. I hope to see many volunteers.
