@@ -34,7 +34,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Via zoom by appointment.
 
 ## Homework
-
+ 
+ * Jan. 10, 2023
+   * Complete Week 1 assignment in WileyPLUS.
+   * Watch this [video](https://youtu.be/K-UfnLArCSU) on the basic concept of limits.
+   * Here is another [video](https://www.youtube.com/watch?v=j8kJubOTkME&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=3) example of how to compute instantaneous velocity if you want a review or extra practice.
+   * Quiz 1 will on be Thursday. There will be two questions on Quiz 1.
  * Jan. 9, 2023
    * Watch this [video](https://youtu.be/GLCKGS53SPI) on computing instantaneous velocity as a review.
    * Complete [Activity 1.1.4](https://activecalculus.org/single/sec-1-1-vel.html). If you got stuck, refer to the example we did today in class.
