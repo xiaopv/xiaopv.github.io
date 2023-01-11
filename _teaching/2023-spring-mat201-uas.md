@@ -34,6 +34,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Via zoom by appointment.
 
 ## Homework
+
+ * Jan. 11, 2023
+   * Goal 1 and 3 will be on Quiz 1.
+   * You should complete week 1 assignment in WileyPLUS before the quiz on Thursday. Each homework assignment is worth 1 point, and in order to earn 1 point, you need to get above 90% for that assignment.
+   * Complete [Activity 1.2.2](https://activecalculus.org/single/sec-1-2-lim.html). Part (c) of this activity is a little bit tricker than Part (a) and (b). You will need to use a trick call rationalizing the numerator. If you don't remember this trick, here is a quick [video](https://www.youtube.com/watch?v=nJmXhc2odik) for review.
+   * Complete [Activity 1.2.3](https://activecalculus.org/single/sec-1-2-lim.html). This activity is very similar to Activity 1.1.4 except that you need to use the limit notation now.
+   * You should start working on week 2 assignment in WileyPLUS.   
  
  * Jan. 10, 2023
    * Complete Week 1 assignment in WileyPLUS.
