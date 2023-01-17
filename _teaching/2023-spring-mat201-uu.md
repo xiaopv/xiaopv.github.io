@@ -30,6 +30,15 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office: White Hall 255
  * Office hour: Tuesdays, Thursdays 1-2 pm, Wednesday 10-11 am
 
+## Homework
+
+* Jan. 3, 2023
+   * Complete [Activity 1.1.2](https://activecalculus.org/single/sec-1-1-vel.html). Here is a Desmos [template](https://www.desmos.com/calculator/xcjwpxfa9g) that will be helpful for this activity. A hint for Part (b): to sketch the required line, you need to first figure out the line equation. A review question: given two points, how do you get the equation of the line that goes through those two points?
+   * Presentations will be a big part of this course so we need to start to get comfortable talking in front of others. If you feel like you can present your solution (does not matter if it is not completely correct) for Activity 1.1.2 (or any part of activity, e.g., just one part), please let me know either by email or at the beginning of the next class. I hope to see many volunteers.
+   * A [video](https://youtu.be/G9mFDMl28f8) on average velocity. Good for review.
+   * Sign up at [WileyPLUS](https://www.dropbox.com/s/h206dr3uxfi61g5/courseflyer_B71652.pdf?dl=0) (if you have not done so). You should start trying problems in Week 1 assignment in WileyPLUS. Note that you have 10 attempts for each problem so don't be afriad to try if you think you know how to do a problem. In the meantime, if you don't know how to start a problem, we probably have not discussed the topic yet so wait until we have covered the materials.
+   * Print learning goal [sheet](http://xiaopv.github.io/files/learninggoalscalculus1.pdf) (if you have not done so), carry this with you to class.
+
 ## An Important Course Policy
 
 I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapted from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
