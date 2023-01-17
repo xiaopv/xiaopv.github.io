@@ -32,7 +32,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
-* Jan. 3, 2023
+* Jan. 17, 2023
    * Complete [Activity 1.1.2](https://activecalculus.org/single/sec-1-1-vel.html). Here is a Desmos [template](https://www.desmos.com/calculator/xcjwpxfa9g) that will be helpful for this activity. A hint for Part (b): to sketch the required line, you need to first figure out the line equation. A review question: given two points, how do you get the equation of the line that goes through those two points?
    * Presentations will be a big part of this course so we need to start to get comfortable talking in front of others. If you feel like you can present your solution (does not matter if it is not completely correct) for Activity 1.1.2 (or any part of activity, e.g., just one part), please let me know either by email or at the beginning of the next class. I hope to see many volunteers.
    * A [video](https://youtu.be/G9mFDMl28f8) on average velocity. Good for review.
