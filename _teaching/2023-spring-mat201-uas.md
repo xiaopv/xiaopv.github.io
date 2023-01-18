@@ -35,6 +35,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+ * Jan. 18, 2023
+   * Complete Activity 1.3.2. Let me know if you would like to present.
+   * Complete Week 2 Assignment in WileyPLUS.
+   * Watch this [video](https://youtu.be/1O6h7XAHyxE) on how to compute derivative at a point.
+
  * Jan. 17, 2023
    * You should complete week 2 assignment in WileyPLUS before the quiz on Friday.
    * Watch this [video](https://youtu.be/rnwfXakNv88) about the definition of derivative at a point.
