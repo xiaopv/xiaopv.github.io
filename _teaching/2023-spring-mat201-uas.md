@@ -34,7 +34,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Via zoom by appointment.
 
 ## Homework
-
+ 
  * Jan. 18, 2023
    * Complete Activity 1.3.2. Let me know if you would like to present.
    * Complete Week 2 Assignment in WileyPLUS.
