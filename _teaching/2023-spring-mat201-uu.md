@@ -37,7 +37,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
    * Complete [Preview Activity 1.2.1](https://activecalculus.org/single/sec-1-2-lim.html). 
    * Watch this[video](https://youtu.be/GLCKGS53SPI) on computing instantaneous velocity as a review. 
    * Complete Week 1 Assignment in WileyPLUS.
-   * No quiz for this week. Quiz 1 will be on next Thursday.
+   * No quiz for this week. Quiz 1 is scheduled next week.
 
  * Jan. 17, 2023
    * Complete [Activity 1.1.2](https://activecalculus.org/single/sec-1-1-vel.html). Here is a Desmos [template](https://www.desmos.com/calculator/xcjwpxfa9g) that will be helpful for this activity. A hint for Part (b): to sketch the required line, you need to first figure out the line equation. A review question: given two points, how do you get the equation of the line that goes through those two points?
