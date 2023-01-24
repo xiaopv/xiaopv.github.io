@@ -31,6 +31,9 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Tuesdays, Thursdays 1-2 pm, Wednesday 10-11 am
 
 ## Homework
+ * Jan. 24, 2023
+   * Complete [Activity 1.2.2](https://activecalculus.org/single/sec-1-2-lim.html) if you have not completed it during the class. Let me know if you would like to present.
+   * Start working on Week 2 Assignment in WileyPLUS. Aim to complete at least half of the assignment before Thursday.
 
  * Jan. 19, 2023
    * Complete [Activity 1.1.4](https://activecalculus.org/single/sec-1-1-vel.html). Let me know if you would like to present.
