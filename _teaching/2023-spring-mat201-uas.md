@@ -35,6 +35,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Jan. 31, 2023
+   * Complete Activity 1.4.3. If you get stuck for Parts (e) and (f), you can skip those two parts for now.
+   * Continue to work on Week 3 Asssignment in WileyPLUS. You should expect to complete that assignment before Friday's quiz.
+   * Watch this [video](https://youtu.be/MyvSWhNC_dk) on derivative of a function as a review.
+   * You will get 4 questions on Quiz 3 on Friday, addressing Goal 1, 2, 3, 4. We will discuss the materials for Goal 4 on Wednesday and Thursday.
+
  * Jan. 30, 2023
    * Complete Activity 1.3.3 and Preview Activity 1.4.1.
    * Start to work on Week 3 Assignment in WileyPLUS.

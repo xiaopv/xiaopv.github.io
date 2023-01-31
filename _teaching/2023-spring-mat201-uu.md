@@ -32,6 +32,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Jan. 31, 2023
+   * Complete Activity 1.3.3. Let me know if you want to present.
+   * Complete the hand out sheet on sketching graph of the derivative.
+   * Start working on Week 3 Assignment in WileyPLUS.
+   * Watch this [video](https://youtu.be/MyvSWhNC_dk) on derivative of a function as a review.
+   * There are three questions on Quiz 2, addressing Goal 1, 2, and 3.
+
  * Jan. 26, 2023
    * Try to work on [Activity 1.3.2](https://activecalculus.org/single/sec-1-3-derivative-pt.html).
    * Complete Week 2 Assignment in WileyPLUS.
