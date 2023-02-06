@@ -35,6 +35,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 6, 2023
+   * Complete the question that was left at the end of the class.
+   * Start to work on Week 4 Assignment in WileyPLUS.
+   
  * Feb. 2, 2023
    * Finish the handout on sketching graphs of derivatives. They will help you prepare Quiz 3.
    * Watch [video](https://youtu.be/bubLif5V2Pk) to review graph sketching of derivatives.
