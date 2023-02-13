@@ -35,6 +35,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 13, 2023
+   * Complete Activity 1.7.3. Let me know if you want to present.
+   * Keep working on Week 5 Assignment.
+   
  * Feb. 9, 2023
    * Work on Activity 1.7.2.
    * Watch [this](https://youtu.be/_mZc3UzJsf0) video on continuous function, and [this](https://youtu.be/lt8hhfjoHbg) video on differentiable function. 
