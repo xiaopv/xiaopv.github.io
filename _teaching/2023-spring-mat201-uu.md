@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 14, 2023
+   * Complete Activity 1.7.2. Let me know if you want to present.
+   * Work on Week 5 Assignment in WileyPLUS.
+   * Watch [this](https://youtu.be/tBnTJGOlQd8) video to review interpretation of first derivative, and [this](https://youtu.be/k8fzHeA6teA) video to review interpretation of second derivative.
+
  * Feb. 9, 2023
    * Complete Activity 1.6.2. Let me know if you want to present.
    * Complete Week 4 Assignment in WileyPLUS.
