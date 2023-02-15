@@ -35,6 +35,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 15, 2023
+   * Watch [this](https://youtu.be/E6P67pjf8Jc) video to review how to use tangent line approximation.
+   * Continue to work on Activity 1.8.3. We will discuss this on Thursday.
+   * Start working on Week 6 Assignmment in WileyPLUS.
+
  * Feb. 14, 2023
    * Complete Week 5 Assignment in WileyPLUS.
    * The goals for Friday's quiz are 4,5,6,7,8,9.
