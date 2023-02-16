@@ -35,6 +35,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 16, 2023
+   * Keep working on Week 6 Assignment in WileyPLUS. 
+   * Watch [this](https://youtu.be/c4TFkrc7TaE) video to see an example of how to use linear approximation in practical problems.
+   * If you have previous assignments in WileyPLUS that you were not able to complete on time, the winter break is a great opportunity to catch up. I will still be teaching next week at the university. If you want to meet and discuss math problems with me, just email me and we can make an appointment.
+
+
  * Feb. 15, 2023
    * Watch [this](https://youtu.be/E6P67pjf8Jc) video to review how to use tangent line approximation.
    * Continue to work on Activity 1.8.3. We will discuss this on Thursday.
