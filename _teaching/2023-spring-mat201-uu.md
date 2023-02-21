@@ -36,6 +36,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
    * Complete Activity 1.8.3 and let me know if you want to present.
    * Work on  Week 6 Assignment in WileyPLUS.
    * Watch this [video](https://youtu.be/c4TFkrc7TaE) for an example of using linear approximation application.
+   * Goals for this week's quiz: 4, 5, 6, 7, 8, 9.
 
  * Feb. 16, 2023
    * Complete Week 5 Assignment in WileyPLUS.
