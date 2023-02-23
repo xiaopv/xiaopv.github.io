@@ -32,6 +32,9 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 23, 2023
+   * Complete most of Week 6 Assignment in WileyPLUS except for the problems on calculating derivatives. We will cover that next week.
+   
  * Feb. 21, 2023
    * Complete Activity 1.8.3 and let me know if you want to present.
    * Work on  Week 6 Assignment in WileyPLUS.
