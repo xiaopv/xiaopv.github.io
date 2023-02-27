@@ -35,6 +35,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 27, 2023
+   * Complete Activity 2.1.2 and let me know if you want to present. Each presenter must present at three parts, one constant function, one power function, and one exponential function.
+   * You should be able to complete Week 6 Assignment in WileyPLUS now.
+
  * Feb. 16, 2023
    * Keep working on Week 6 Assignment in WileyPLUS. 
    * Watch [this](https://youtu.be/c4TFkrc7TaE) video to see an example of how to use linear approximation in practical problems.
