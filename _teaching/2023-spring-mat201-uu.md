@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Feb. 28, 2023
+   * Watch three videos to learn basic differentiation principles. [Video 1](https://youtu.be/l9xARvXbrKA) on differentiate power functions, [Video 2](https://youtu.be/InTm0xZFrM8) on differentiate expoential functions, [Video 3](https://youtu.be/lammmGrmApY) on basic differentiation rules.
+   * Work on Week 7 Assignment in WileyPLUS.
+   * There will be no quiz this Thursday. The next quiz will be next Thursday Mar. 9.
+
  * Feb. 23, 2023
    * Complete most of Week 6 Assignment in WileyPLUS except for the problems on calculating derivatives. We will cover that next week.
    
