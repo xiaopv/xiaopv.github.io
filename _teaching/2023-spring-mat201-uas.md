@@ -35,6 +35,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Mar. 1, 2023
+   * Complete Actvity 2.2.4 and let me know if you want to present.
+   * Keep working on Week 7 Assignment in WileyPLUS.
+   * Review the unit circle if you are rusty.
+   * Friday quiz goal: 5,6,7,8,9,10.
+   * Watch [this](https://youtu.be/QGkOEjQkQoY) video to review differentiation of sine and cosine.
+
  * Feb. 28, 2023
    * Complete Activity 2.1.3 and let me know if you want to present.
    * Start work on Week 7 Assignment in WileyPLUS.
