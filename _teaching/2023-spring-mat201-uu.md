@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Mar. 2, 2023
+   * Work on Week 7 Assignment in WileyPLUS although you won't be able to fully complete it yet.
+   * Watch [this](https://youtu.be/QGkOEjQkQoY) video to learn how to differentiate sine and cosine functions.
+   * Complete Activity 2.1.3 if you have not already done so.
+
  * Feb. 28, 2023
    * Watch three videos to learn basic differentiation principles. [Video 1](https://youtu.be/l9xARvXbrKA) on differentiate power functions, [Video 2](https://youtu.be/InTm0xZFrM8) on differentiate expoential functions, [Video 3](https://youtu.be/lammmGrmApY) on basic differentiation rules.
    * Work on Week 7 Assignment in WileyPLUS.

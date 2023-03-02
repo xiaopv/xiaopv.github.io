@@ -35,6 +35,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Mar. 2, 2023
+   * Keep working on Week 7 Assignment in WileyPLUS. 
+   * If you want to present Activity 2.2.4 Part (c) or (e), please let me know.
+   * Watch this [video](https://youtu.be/73Bf5MhpDaw) to learn about product rule.
+
  * Mar. 1, 2023
    * Complete Actvity 2.2.4 and let me know if you want to present.
    * Keep working on Week 7 Assignment in WileyPLUS.
