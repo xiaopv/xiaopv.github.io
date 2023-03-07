@@ -38,6 +38,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Mar. 7, 2023
    * Complete Activity 2.3.3 and 2.3.4. Let me know if you want to present.
    * Work on Week 8 Assignment in WileyPLUS.
+   * Goal for Friday's quiz, 8, 9, 10, 11, 12, 13
 
  * Mar. 6, 2023
    * Complete Activity 2.2.4 Part (c) and (e), 2.3.2 Part (c) and (d), 2.3.3 Part (a) and (b) and let me know if you want to present.
