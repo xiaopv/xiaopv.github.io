@@ -34,7 +34,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Via zoom by appointment.
 
 ## Homework
- 
+
+ * Mar. 6, 2023
+   * Complete Activity 2.2.4 Part (c) and (e), 2.3.2 Part (c) and (d), 2.3.3 Part (a) and (b) and let me know if you want to present.
+   * Watch this [video](https://youtu.be/Q1RJWGeeDtg) to review the quotient rule.
+   * Complete Week 7 Assignment in WileyPLUS and start working on Week 8 Assignment.
+
  * Mar. 2, 2023
    * Keep working on Week 7 Assignment in WileyPLUS. 
    * If you want to present Activity 2.2.4 Part (c) or (e), please let me know.
