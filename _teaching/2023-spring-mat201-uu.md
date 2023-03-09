@@ -32,10 +32,9 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
- * Mar. 8, 2023
-   * Keep working on Week 8 WileyPLUS assignment. You are expected to complete it by the end of this week.
-   * Check your email for the pictures of your work today.
-   * I will host an online WileyPLUS Q&A office hour today at 5pm. Check your email for the zoom link.
+ * Mar. 9, 2023
+   * I apoglize for the wrong homework annoucement on Mar. 8. If you saw that, please ignore it. That was a mistake.
+   * Keep working on Week 8 Assignment. You should be able to complete all the questions except for the questions that involve derivatives of tangent, cotangent, secant, and cosecant. We will discuss these after the spring break.
 
  * Mar. 7, 2023
    * Complete Activity 2.3.2 and 2.3.3. Let me know if you would like to present.
