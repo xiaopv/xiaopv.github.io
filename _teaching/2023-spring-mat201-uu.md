@@ -32,10 +32,15 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Apr. 18, 2023
+   * Complete Activity 3.3.3 Part (a) to (c), Activity 3.1.2 and 3.1.3. Let me know if you want to present.
+   * Start working on Week 13 Assignment in WileyPLUS. 
+
  * Apr. 13, 2023
    * Complete the rest of Activity 3.5.4. If you want further practice on related rates, you should also do Activity 3.5.2. Feel free to do stop by my office if you want me to check your work.
    * Complete Week 12 Assignment in WileyPLUS.
-   
+   * Complete Preview Activity 3.1.1. 
+
  * Apr. 11, 2023
    * Complete Activity 3.5.3.
    * Goal for this week's quiz, 5,6,7,15,16,19.
