@@ -36,6 +36,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
    * Complete Activity 3.4.2. Let me know if you want to present.
    * Start working on Week 14 Assignment in WileyPLUS.
    * Goal for this week's quiz: 8,9,17,18,19,20.
+   * Please don't forget to fill out the [SOOT](https://soot.utica.edu).
    
  * Apr. 20, 2023
    * Finish Week 13 Assignment in WileyPLUS.
