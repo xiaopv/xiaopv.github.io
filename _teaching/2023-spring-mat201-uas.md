@@ -35,6 +35,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Apr. 28, 2023
+   * Complete WileyPLUS Assignment 13.
+   * Don't forget to fill out [SOOT](https://soot.utica.edu).
+
+ * Apr. 27, 2023
+   * Please start working on WileyPLUS Assignment 13.
+
  * Apr. 24, 2023
    * Complete Actvity 3.1.2.
    * Check out [this video](https://youtu.be/sNtJQQeuPp4) for a review of global/local max/min, [this video](https://youtu.be/xJ15l-VvfS0) for first derivative test, and [this video](https://youtu.be/lilsi2exrmQ) for second derivative test.

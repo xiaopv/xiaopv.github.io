@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
+ * Apr. 27, 2023
+   * Complete WileyPLUS Week 14 Assignment. 
+   * Final exam will be on Tuesday May 2 8am at Hubbard 210.
+
  * Apr. 25, 2023
    * Complete Activity 3.4.2. Let me know if you want to present.
    * Start working on Week 14 Assignment in WileyPLUS.
