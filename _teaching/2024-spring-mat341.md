@@ -40,7 +40,7 @@ Welcome to the home page of Prof. Xiao Xiao's Number Theory course at Utica Univ
 
  * Textbook: We will use Number Theory Through Inquiry, by David C. Marshall, Edward Odell, and Michael Starbird. The ISBN of the book is 978-1-4704-6159-1.
 
- * Course description: Elementary number theory including prime numbers, greatest common divisors, congruences, modular arithmetic, Fermat's and Euler's Theorem, and its related application in RSA cryptology.
+ * Course description: Elementary number theory including prime numbers, greatest common divisors, congruences, modular arithmetic, Fermat's and Euler's Theorem, and its related application in RSA cryptography.
 
  * Program learning goals: In accordance to the learning goals of the Department of Mathematics of Utica University, MAT 401 will introduce and reinforce students' ability of:
    * (PLG1) Reading and analyzing mathematical proofs.
@@ -48,7 +48,11 @@ Welcome to the home page of Prof. Xiao Xiao's Number Theory course at Utica Univ
    * (PLG5) Communicating mathematics in written form.
 
  * Course learning objectives: Upon successful completion of this course, students will be able to:
-   * To be completed
+   * understand and prove basic results involve greatest common divisors;
+   * understand and apply fundamental theorem of arithmetic;
+   * understand modular arithmetic and be able to solve linear congruences equations;
+   * understand and apply Fermat's little theorem, Euler's theorem, and Wilson's theorem;
+   * understand RSA public key cryptography.
  
  * Class organization: This course will likely be different from any other math course you have taken before. As an instructor, I will not be lecturing most of the time although I love lecturing very much. Scientific research shows that most people do not learn mathematics by listening, instead, they learn by doing it! I am sure you have said to yourself before "It looked so easy when the professor was doing it, but now I am confused when I have to do it by myself." Why? Because the knowledge belongs to your professor and does not belong to you. You do not learn the knowledge simply by hearing it once or twice from somebody else. In order for you to have a more thorough understanding of the knowledge, we will incorporate ideas from an educational philosophy called the Moore method (after R. L. Moore). More precisely, we will use the modified Moore method, also known as inquiry-based learning. Most of the time during the class, students will be presenting proofs of theorems that they have produced by themselves, and not by other people or textbooks. A significant portion of your grade will be determined by how much mathematics you produce.
  
