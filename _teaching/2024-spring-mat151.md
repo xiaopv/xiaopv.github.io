@@ -32,6 +32,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * Jan. 16, 2024
+   * Sign up at WileyPLUS. [Instructions](https://www.dropbox.com/scl/fi/d7k3vm5d0j1kr45g5940t/courseflyer_B40781.pdf?rlkey=z9b8xmhvngmq41yas9546naz3&dl=0). Make sure using your Utica University email when signing up.
+   * Complete Task 1.1. Let me know if you would like to present the problem on Thursday.
+   * Start working on Homework 1 in WileyPLUS.
+   * If you have not printed the learning goal [sheet](http://xiaopv.github.io/files/learninggoalsprecalculus.pdf), please do so asap.
+   * If you have not completed the course [survey](https://forms.gle/RyxUuLEFbCfLwdAK6), please do so asap.
+
 ## An Important Course Policy
 
   I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapated from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
