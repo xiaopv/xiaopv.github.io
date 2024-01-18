@@ -84,7 +84,7 @@ Welcome to the home page of Prof. Xiao Xiao's Number Theory course at Utica Univ
 
   * The object is to maintain a current account of the work we do. Every task that we encounter in the class needs to be typed up using LaTeX and is to be included in a (class-shared) portfolio. Each entry in the portfolio is intended to be complete and polished. Do not include scratch work.
 
-  * At the end of each week, you should type up the problem that you have presented during the week in the shared portfolio. This is considered the first draft and naturally it won't be perfect. Therefore there should be further revisions by the rest of the class. Please use [LaTeX](https://en.wikipedia.org/wiki/LaTeX) to type the portfolio. Please use the following Overleaf [template](https://www.overleaf.com/7799424239knnkpsffhcnr#706d43) as a start. 
+  * At the end of each week, you should type up the problem that you have presented during the week in the shared portfolio. This is considered the first draft and naturally it won't be perfect. Therefore there should be further revisions by the rest of the class. Please use [LaTeX](https://en.wikipedia.org/wiki/LaTeX) to type the portfolio. Please use the following Overleaf template as a start. 
 
   * Each student will receive a class grade of the portfolio (based on the overall quality of the entire portfolio) and a personal grade of the portfolio (based on the problems from that particular student).
 

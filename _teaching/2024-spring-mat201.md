@@ -36,7 +36,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
    * Complete Preview Activity 1.1.1. Let me know if you would like to present the problem on Thursday.
    * If you have not printed the learning goal [sheet](http://xiaopv.github.io/files/learninggoalscalculus1.pdf), please do so asap.
    * If you have not completed the course [survey](https://forms.gle/qp5UNQnoUGHjWmea6), please do so asap.
- 
+ * Jan. 18, 2024
+   * Complete Activity 1.1.3. If you would like to present, please let me know by email.
+   * Keep working on homework 1 in WileyPLUS.
+   
+
 ## An Important Course Policy
 
 I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapted from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)

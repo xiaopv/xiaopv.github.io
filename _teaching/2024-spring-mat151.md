@@ -39,6 +39,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
    * If you have not printed the learning goal [sheet](http://xiaopv.github.io/files/learninggoalsprecalculus.pdf), please do so asap.
    * If you have not completed the course [survey](https://forms.gle/RyxUuLEFbCfLwdAK6), please do so asap.
 
+ * Jan. 18, 2024
+   * Complete Task 1.4. If your group would like to present (will be a group presentation), please have one representative email me to let me know. Also attach your group work in the email so I can check before Tuesday.
+   * Complete Homework 1 in WileyPLUS. We will start Chapter 2 on Tuesday.
+
 ## An Important Course Policy
 
   I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapated from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
