@@ -31,14 +31,21 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Tuesdays and Thursdays 1-2pm, Wednesdays 10-11am or by appointment.
 
 ## Homework
+
+ * Jan. 23, 2024
+   * Complete Preview Activity 1.2.1.
+   * Complte Homework 1 and start working on Homework 2 WileyPLUS.
+   * Quiz 1 on Thursday will cover Goal 1.
+
+* Jan. 18, 2024
+   * Complete Activity 1.1.3. If you would like to present, please let me know by email.
+   * Keep working on homework 1 in WileyPLUS.
+
  * Jan. 16, 2024
    * Sign up at WileyPLUS. [Instructions](https://www.dropbox.com/scl/fi/xx6teuajv7n035ja25epk/courseflyer_B40783.pdf?rlkey=48eg6ucbtzltbb02w6th6y1we&dl=0). Make sure using your Utica University email when signing up.
    * Complete Preview Activity 1.1.1. Let me know if you would like to present the problem on Thursday.
    * If you have not printed the learning goal [sheet](http://xiaopv.github.io/files/learninggoalscalculus1.pdf), please do so asap.
    * If you have not completed the course [survey](https://forms.gle/qp5UNQnoUGHjWmea6), please do so asap.
- * Jan. 18, 2024
-   * Complete Activity 1.1.3. If you would like to present, please let me know by email.
-   * Keep working on homework 1 in WileyPLUS.
    
 
 ## An Important Course Policy

@@ -32,6 +32,15 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * Jan. 23, 2024
+   * Complete Task 2.2. Let me know if you would like to present.
+   * Start working on Homework 2 in WileyPLUS.
+   * Quiz 1 on Thursday will cover Goal 1.
+
+ * Jan. 18, 2024
+   * Complete Task 1.4. If your group would like to present (will be a group presentation), please have one representative email me to let me know. Also attach your group work in the email so I can check before Tuesday.
+   * Complete Homework 1 in WileyPLUS. We will start Chapter 2 on Tuesday.
+
  * Jan. 16, 2024
    * Sign up at WileyPLUS. [Instructions](https://www.dropbox.com/scl/fi/d7k3vm5d0j1kr45g5940t/courseflyer_B40781.pdf?rlkey=z9b8xmhvngmq41yas9546naz3&dl=0). Make sure using your Utica University email when signing up.
    * Complete Task 1.1. Let me know if you would like to present the problem on Thursday.
@@ -39,9 +48,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
    * If you have not printed the learning goal [sheet](http://xiaopv.github.io/files/learninggoalsprecalculus.pdf), please do so asap.
    * If you have not completed the course [survey](https://forms.gle/RyxUuLEFbCfLwdAK6), please do so asap.
 
- * Jan. 18, 2024
-   * Complete Task 1.4. If your group would like to present (will be a group presentation), please have one representative email me to let me know. Also attach your group work in the email so I can check before Tuesday.
-   * Complete Homework 1 in WileyPLUS. We will start Chapter 2 on Tuesday.
+
 
 ## An Important Course Policy
 
