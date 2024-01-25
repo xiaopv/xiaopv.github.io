@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+* Jan. 25, 2024
+   * Complete Activity 1.2.3. Let me know if you want to present.
+   * Complte Homework 2 in WileyPLUS.
+
  * Jan. 23, 2024
    * Complete Preview Activity 1.2.1.
    * Complte Homework 1 and start working on Homework 2 WileyPLUS.

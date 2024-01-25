@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * Jan. 25, 2024
+   * Complete Task 2.6. Let me know if you would like to present.
+   * Complete Homework 2 in WileyPLUS.
+
  * Jan. 23, 2024
    * Complete Task 2.2. Let me know if you would like to present.
    * Start working on Homework 2 in WileyPLUS.
