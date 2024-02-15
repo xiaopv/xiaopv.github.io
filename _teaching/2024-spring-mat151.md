@@ -32,10 +32,14 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+* Feb. 13, 2024
+   * Complete Homework 5 in WileyPLUS.
+   * Try to complete Task 4.1
+     
  * Feb. 13, 2024
    * Complete Task 3.9 and let me know if you want to present (part 5 to part 8).
    * Start working on Homework 5 in WileyPLUS.
-   * Quiz 4 on Thursday will cover Goal 3, 4, 7, 10, 12, 13, 
+   * Quiz 4 on Thursday will cover Goal 3, 4, 7, 10, 12, 13. 
 
  * Feb. 8, 2024
    * Complete Task 3.8 and let me know if you want to present.
