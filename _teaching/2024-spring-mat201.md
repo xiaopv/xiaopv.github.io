@@ -31,7 +31,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Tuesdays and Thursdays 1-2pm, Wednesdays 10-11am or by appointment.
 
 ## Homework
- 
+
+ * Feb. 15, 2024
+   * Try to complete Activity 1.8.2
+   * Complete Homework 5 in WileyPLUS.
+     
  * Feb. 13, 2024
    * Complete Activity 1.7.2 and let me know if you want to present.
    * Work on Homework 5 in WileyPLUS.
