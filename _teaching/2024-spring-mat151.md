@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
  * Office hour: Tuesdays and Thursdays 1-2pm, Wednesdays 10-11am or by appointment.
 
 ## Homework
+ 
+
+ * Feb. 22, 2024
+   * Complete Homework 6 in WileyPLUS.
 
  * Feb. 20, 2024
    * Start working on Homework 6 in WileyPLUS.
