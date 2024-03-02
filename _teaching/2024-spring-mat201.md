@@ -183,7 +183,7 @@ I pride myself on having a good environment for working and learning. It is very
   19. I can solve related rates problems.
   20. I can solve optimization problems.
 
- You are strongly encouraged to download and print a [copy](https://xiaopv.com/learninggoalscalculus1.pdf) of the learning goals to record your grade.
+ You are strongly encouraged to download and print a [copy](https://files.xiaopv.com/learninggoalscalculus1.pdf) of the learning goals to record your grade.
 
 ## Homework
 
@@ -220,7 +220,7 @@ During the class, you will be actively working in a small group with your peer c
  
 ## Evaluation
 
- In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](https://xiaopv.com/learninggoalscalculus1.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Thursdays. The goals that will be tested on a quiz will be posted at this page on Wednesday evenings. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
+ In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in either (a) quizzes, or (b) on one quiz and one other (final exam or a presentation). There is no partial credit. Once you have score a goal from a quiz or a presentation, you should put a note in one of the boxes before the relevant goal on [this](https://files.xiaopv.com/learninggoalscalculus1.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2, or 3/2(P) stands for presentation on March 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Thursdays. The goals that will be tested on a quiz will be posted at this page on Wednesday evenings. Presenting problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined in two steps. For Step 1, you will be assigned a base letter grade based on the following criteria.
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
