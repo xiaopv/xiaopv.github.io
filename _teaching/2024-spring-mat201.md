@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+ * Mar. 5, 2024
+   * Start working on Homework 8 in WileyPLUS.
+   * Quiz 7 on Thursday will cover Goal 8, 9, 10, 11, 12, 13.
+
  * Feb. 29, 2024
    * Quiz 6 will be postponed to Tuesday March 5. Quiz 7 is still scheduled on Thursday March 7.
    * Please check your email for today's class notes if you miss the zoom meeting.

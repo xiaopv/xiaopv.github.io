@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
  
+ * Mar. 5, 2024
+   * Complete your assignment in Task 5.4 and find a presenter from your group to present on Thursday.
+   * Start working on Homework 8 in WileyPLUS.
+   * Quiz 7 on Thursday will cover Goal 5, 6, 8, 9, 10, 12, 14.
+
  * Feb. 29, 2024
    * Quiz 6 will be postponed to Tuesday March 5. Quiz 7 is still scheduled on Thursday March 7.
    * Please check your email for today's class notes if you miss the zoom meeting.
