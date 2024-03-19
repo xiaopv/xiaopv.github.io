@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+ * Mar. 19, 2024
+   * Complete Activity 2.5.3 and Activity 2.6.2. Let me know if you want to present.
+   * Start working on Homework 9 (and Homework 10 where there are derivatives involving log) in WileyPLUS.
+   * Quiz 8 on Thursday will cover Goal 8, 9, 10, 11, 12, 13, 14.
+
  * Mar. 7, 2024
    * Complete Activity 2.3.4 part b, c, e. Activity 2.4.4 part b, c, d. Let me know if you want to present.
    * Commplete Hommework 8 in WileyPLUS.
