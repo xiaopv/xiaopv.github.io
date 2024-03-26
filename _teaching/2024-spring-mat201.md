@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+ * Mar. 26, 2024
+   * Complete Activity 2.7.4 and let me know if you would like to present.
+   * Complete Homework 10 and start working on Homework 11 in WileyPLUS.
+   * Quiz 9 on Thursday will cover Goal 1, 2, 3, 4, 11, 12, 13, 14, 15, 16.
+
  * Mar. 21, 2024
    * Complete Activity 2.6.3.
    * If you are rusty in finding the tangent line equation and chain rule or if you want to see some application problems, you should also complete Activity 2.5.4.
