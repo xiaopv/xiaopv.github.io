@@ -32,6 +32,9 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
  
+ * Apr. 11, 2024
+   * Complete Homework 12 in WileyPLUS.
+   
  * Apr. 9, 2024
    * Start working on Homework 12 in WileyPLUS.
    * Quiz 11 on Thursday will cover Goal 2, 3, 7, 10, 11, 16, 17.
