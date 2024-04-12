@@ -35,6 +35,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Apr. 11, 2024
    * Start working on Homework 13 in WileyPLUS.
    * Complete Activity 3.1.2, and let me know if you want to present.
+   * Quiz 12 on Thursday will cover Goal 16, 17, 18, 19.
 
  * Apr. 9, 2024
    * Finish Homework 12 in WileyPLUS.
