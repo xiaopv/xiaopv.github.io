@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+ * Apr. 16, 2024
+   * Complete Homework 13 in WileyPLUS.
+   * We will discuss Activity 3.1.2 on Thursday and then the optimization problem.
+   
  * Apr. 11, 2024
    * Start working on Homework 13 in WileyPLUS.
    * Complete Activity 3.1.2, and let me know if you want to present.
