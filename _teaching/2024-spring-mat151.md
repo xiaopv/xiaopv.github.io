@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
  
+ * Apr. 23, 2024
+   * This is the last homework assignment.
+   * Complete all trig identities proofs in the notes. We will have a presentation on Thursday.
+   * Complete Homework 14 (and all) in WileyPLUS.
+
  * Apr. 18, 2024
    * Complete Homework 13 in WileyPLUS.
    * Quiz 13 (last quiz) on Thursday will cover Goal 17, 18, 19, 20.

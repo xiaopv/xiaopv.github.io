@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
 
+  * Apr. 23, 2024
+   * This is the last homework assignment.
+   * Complete Activities 3.4.4 and 3.4.5. We may have a presentation on Thursday.
+   * Complete Homework 14 (and all) in WileyPLUS.
+
  * Apr. 18, 2024
    * Start working on Homework 14 in WileyPLUS.
    * Quiz 13 (last quiz) on Thursday will cover Goal 17, 18, 19, 20 (two questions).
