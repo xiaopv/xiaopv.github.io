@@ -32,6 +32,12 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
  
+ * Apr. 25, 2024
+   * Please complete SOOT by Monday Apr. 29.
+   * Final Exam is on Thursday May 2, 11:30am at Hubbard Hall 210. If you do not plan to take the final, please email me.
+   * All WileyPLUS homework is due on Sunday May 5.
+   * Offce hours for the final exam week: M: 10am-11am, 1pm-2pm, T: 1pm-2pm, W: 11am-12pm. 
+
  * Apr. 23, 2024
    * This is the last homework assignment.
    * Complete all trig identities proofs in the notes. We will have a presentation on Thursday.

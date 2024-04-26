@@ -21,7 +21,7 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Spring break: 3/11/24 - 3/15/24
  * Withdraw deadline: 3/25/24
  * SOOT: 4/22/24 - 4/29/24
- * Final exam: 8:00am, 4/30/24 
+ * Final exam: 8:30am, 4/30/24 
 
 ## Instructor Information
 
@@ -31,6 +31,12 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
  * Office hour: Tuesdays and Thursdays 1-2pm, Wednesdays 10-11am or by appointment.
 
 ## Homework
+ 
+  * Apr. 25, 2024
+   * Please complete SOOT by Monday Apr. 29.
+   * Final Exam is on Tuesday Apr. 30, 8:30am at Hubbard Hall 210. If you do not plan to take the final, please email me.
+   * All WileyPLUS homework is due on Sunday May 5.
+   * Offce hours for the final exam week: M: 10am-11am, 1pm-2pm, T: 1pm-2pm, W: 11am-12pm.
 
   * Apr. 23, 2024
    * This is the last homework assignment.
