@@ -32,13 +32,13 @@ Welcome to the home page of Dr. Xiao Xiao's Calculus 1 course at Utica Universit
 
 ## Homework
  
-  * Apr. 25, 2024
+ * Apr. 25, 2024
    * Please complete SOOT by Monday Apr. 29.
    * Final Exam is on Tuesday Apr. 30, 8:30am at Hubbard Hall 210. If you do not plan to take the final, please email me.
    * All WileyPLUS homework is due on Sunday May 5.
    * Offce hours for the final exam week: M: 10am-11am, 1pm-2pm, T: 1pm-2pm, W: 11am-12pm.
 
-  * Apr. 23, 2024
+ * Apr. 23, 2024
    * This is the last homework assignment.
    * Complete Activities 3.4.4 and 3.4.5. We may have a presentation on Thursday.
    * Complete Homework 14 (and all) in WileyPLUS.
