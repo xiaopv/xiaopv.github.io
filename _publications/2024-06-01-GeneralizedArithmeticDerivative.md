@@ -2,7 +2,7 @@
 title: "A Generalization of Arithmetic Derivative to <var>p</var>-adic Fields and Number Fields"
 collection: publications
 permalink: /publication/2024-06-01-GeneralizedArithmeticDerivative
-excerpt: 'In this paper, we generalize the arithmetic partial derivative to local fields like the <var>p</var>-adic fields, and the arithmetic derivative to global fields like the number fields.
+excerpt: 'In this paper, we generalize the arithmetic partial derivative to local fields like the <var>p</var>-adic fields, and the arithmetic derivative to global fields like the number fields.'
 date: June, 2024
 venue: 'to appear Notes on Number Theory and Discrete Mathematics'
 paperurl: 'https://arxiv.org/abs/2307.04912'
