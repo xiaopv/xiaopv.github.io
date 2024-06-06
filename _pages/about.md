@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am currently a Professor of Mathematics at Utica University in Utica, NY. My main research interest is arithmetic algebraic geometry and number theory. In particular, I am interested in the classification of <var>F</var>-crystals over an algebraically closed field of positive characteristic. I am also interested in inquiry-based learning in undergraduate education. In my spare time, I enjoy classical music, alpine skiing, collecting stamps, and root for Manchester United. 
+I am currently a Professor of Mathematics and the chair of math department at Utica University in Utica, NY. My main research interest is arithmetic algebraic geometry and number theory. In particular, I am interested in the classification of <var>F</var>-crystals over an algebraically closed field of positive characteristic. I am also interested in inquiry-based learning in undergraduate education. In my spare time, I enjoy classical music, alpine skiing, collecting stamps, and root for Manchester United. 
 
 About my name
 ======
