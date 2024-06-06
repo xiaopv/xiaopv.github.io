@@ -16,9 +16,10 @@ Education
 
 Empolyment
 ======
-* 2020 - present: Professor of Mathematics at Utica College
-* 2015 - 2020: Associate Professor of Mathematics at Utica College
-* 2011 - 2015: Assistant Professor of Mathematics at Utica College 
+* 2024 - present: Chair of Mathematics Department at Utica University
+* 2020 - present: Professor of Mathematics at Utica University
+* 2015 - 2020: Associate Professor of Mathematics at Utica University
+* 2011 - 2015: Assistant Professor of Mathematics at Utica University
   
 Membership
 ======
