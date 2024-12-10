@@ -1,13 +1,13 @@
 ---
-title: "MAT 351 Euclidean and Non-Euclidean Geometry"
+title: "MAT 334 Introduction to Abstract Algebra"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-mat351
+permalink: /teaching/2025-spring-mat334
 venue: "Mathematics Department, Utica University"
 date: 2025-01-01
 ---
 
-Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidean Geometry course at Utica University. You can find all the information for this course on this page.
+Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract Algebra course at Utica University. You can find all the information for this course on this page.
 
 ## Important Dates
 
@@ -22,7 +22,7 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Wednesdays 10-noon, Thursdays 2:30-3:30 pm, or by appointment
+ * Office hour: Wednesdays 10-noon, Thursdays 2:30-3:30pm, or by appointment
 
 ## Homework
 
@@ -32,17 +32,17 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## General Course Information and Policies
 
- * Course name: MAT 351 Euclidean and Non-Euclidean Geometry
+ * Course name: MAT 334 Introduction to Abstract Algebra
 
  * Course credit hours: 3 credit
 
- * Course Prerequisite: MAT 151
+ * Course Prerequisite: MAT 1305
 
- * Class time and location: Tuesdays and Thursdays 10:00 am - 11:15 am at Hubbard 210
+ * Class time and location: Tuesdays and Thursdays 8:30 am - 9:45 am at Hubbard 210
 
- * Textbook: Euclidean Geometry, A Guided Inquiry Approach, by David M. Clark
+ * Textbook: [Introduction to Abstract Algebra, by Margaret Morrow](http://jiblm.org/downloads/jiblmjournal/V120326S/V120326S.pdf)
 
- * Course description (Catalog): Euclidean geometry examined as a system of carefully formulated axioms, precise definitions, and rigorous proofs of theorems in plane and solid geometry. Additional topics may include history, foundation, and application of non-Euclidean geometries.
+ * Course description: Introduction to Abstract Algebra covers basic group theory. We will discuss the following concepts in this course: groups, subgroups, abelian groups, normal subgroups, product groups, quotient groups, and group isomorphisms. Standard examples such as cyclic groups, dihedral groups, permutation groups and classical theorems such as Lagrange's Theorem will be discussed.
 
  * Program learning goals: In accordance to the learning goals of the Department of Mathematics of Utica College, MAT 351 will introduce and reinforce students' ability of:
    * (PLG1) Reading and analyzing mathematical proofs.
@@ -54,8 +54,6 @@ I pride myself on having a good environment for working and learning. It is very
 * You should not look to resources outside the context of this course for help. That is, you should not be consulting the web, other texts, other faculty, or students outside of our course. On the other hand, you may use each other in this course, the course notes, me, and your own intuition.
  
 * Regular attendance is mandatory and is vital to success in this course, but you will not explicitly be graded on attendance. Yet, repeated absences may impact your participation grade.
-
-* You need to get a set of straight and compass (e.g., like [this](https://www.amazon.com/eBoot-Drawing-Compass-Protractor-Geometry/dp/B0746GRPCV/ref=sr_1_5?crid=GZ56RDBNM2RK&keywords=straight+and+compass&qid=1672935623&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=straight+and+compass%2Caps%2C126&sr=1-5)). We will do a lot of straight and compass constructions during this course.
  
 ## Homework
 
@@ -80,7 +78,7 @@ I pride myself on having a good environment for working and learning. It is very
 
      You are allowed and encouraged to work together on homework. However, each student is expected to turn in their own work. In general, late homework will not be accepted. However, you are allowed to turn in up to 3 homework assignments (daily or weekly) late with no questions asked. Unless you have made arrangements in advance with me, homework turned in after class will be considered late.
 
-     All of your Weekly Homework must be typed using [LaTeX](https://en.wikipedia.org/wiki/LaTeX). LaTeX is the industrial standard for typing scientific works in mathematics, physics, computer sciences, among others. The best way to learn how to use LaTeX is just like how you learn everything else: by using it! Fortunately, there is a website called [Overleaf](https://www.overleaf.com/) so you can use LaTeX online for free without having to install any software. I have also created a [template](https://www.overleaf.com/read/gtyjkjmjtfdz#6f2d96) for your Weekly Homework that should make things much easier for you. If you don't have any background using LaTeX, please reach out immediately to schedule a training session during week 1.
+     All of your Weekly Homework must be typed using [LaTeX](https://en.wikipedia.org/wiki/LaTeX). LaTeX is the industrial standard for typing scientific works in mathematics, physics, computer sciences, among others. The best way to learn how to use LaTeX is just like how you learn everything else: by using it! Fortunately, there is a website called [Overleaf](https://www.overleaf.com/) so you can use LaTeX online for free without having to install any software. I have also created a [template](https://www.overleaf.com/read/gstjknzrgfgk#e5b8dd) for your Weekly Homework that should make things much easier for you. I will try to schedule a training session during week 1 to prepare you with some basics.
 
 
 ## Presentations
@@ -112,8 +110,8 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## Portfolio
 
- The portfolio is a curated collection of your work that tells a story of you as a mathematician and student of geometry from the first day of class to the last. The portfolio is due at the start of the final exam, but you should work on assembling this portfolio throughout the semester. You are welcome to visit me and ask for feedback. Here are the main parts of your portfolio.
-   * Growth: Describe how you've improved as a mathematician and student of geometry this semester. Focus on how you have changed or grown over the course of this semester. Write 2-3 paragraphs that describe your growth, both in terms of geometric knowledge and in terms of your understand of how mathematics works. Include at least three specific examples of work that illustrate this growth and explain why they show what you've described.
+ The portfolio is a curated collection of your work that tells a story of you as a mathematician and student of abstract algebra from the first day of class to the last. The portfolio is due at the start of the final exam, but you should work on assembling this portfolio throughout the semester. You are welcome to visit me and ask for feedback. Here are the main parts of your portfolio.
+   * Growth: Describe how you've improved as a mathematician and student of abstract algebra this semester. Focus on how you have changed or grown over the course of this semester. Write 2-3 paragraphs that describe your growth, both in terms of abstract algebra knowledge and in terms of your understand of how mathematics works. Include at least three specific examples of work that illustrate this growth and explain why they show what you've described.
    * Productive Failure: Show me a failure that ended up supporting and fostering your learning. Write a description of an important mistake or error that you made (in a presentation, a homework problem, or an exam). Clearly describe your error. Then describe how this mistake was productive -- what you learned or how you grew as a result of this mistake. Use specific examples and include work to describe the growth. 2-3 paragraphs total.
    * Process: Select a problem from this semester that required you to do a significant amount of scratch work. Include the scratch work and annotate it (using different colors) to indicate what insights or key ideas each piece represents. Be sure to annotate errors, dead-ends, ideas that didn't work out. INclude your final proof that should be written as good as you can. Write a narrative (1-2 paragraphs) describing the process you underwent to get from reading the theorem to writing your finished proof. 
    * Assumptions and Axioms: Choose a proof from this semester that illustrates the importance and use of assumptions in mathematics. Annotate (using different colors) your work as follows: Point out where you make explicit assumptions and then also point out where you use them in the proof. Point out where you use implicit assumptions, such as axioms, that are not explicitly assumed in your writing. Be clear and be specific. Write a clear, thorough, and general explanation of the role of assumptions and axioms in mathematics. (2-3 paragraphs)
@@ -141,7 +139,7 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## Academic Integrity and Collaboration
 
- Your primary goal in this course is to develop a deep personal understanding and expertise in geometry. Collaboration and cooperation are extremely helpful in the learning process and encouraged in most circumstances! However you may only collaborate with students currently enrolled in the same section of the course. When collaboration has occurred, you must acknowledge this clearly (state the name(s) of the person(s) you collaborated with on each problem.) You are permitted to collaborate on big ideas and hints with classmates, however, you must work independently when writing up solutions. All collaborations should occur when your collaborator is at essentially the same stage of the problem solution as yourself. In particular, if you have not yet started a problem and you ask a friend who has already completed it, how do you do this problem. This counts as plagiarism. The resulting work is not and cannot be considered your own. Regarding to outside resources: all work (including daily, weekly etc.), unless directly stated otherwise, the only resources you may use are our course textbook and your class notes. You are not permitted to go looking for completed solutions to problems in other texts or resources. In particular, use of internet resources is completely off limits for homework problems. If you see a solution, there is no way that you can claim to have an original solution. Evidence of using internet sources in your work will result in a minimum penalty of failing the assignment. Copying a solution, or any part of a solution, from any source (friend, internet, book, etc.) in any setting, constitutes plagiarism. You may not seek the help of an instructor or tutor (other than me) unless you first discuss this with me in advance. If you do not verify that this is acceptable before seeking help, this will be considered plagiarism as well. I am always willing to discuss any aspect of the course with you. Evidence of dishonest behavior on any assignment will be grounds for a minimum penalty of failing the entire assignment. In severe cases, the minimum penalty will be failure of the course. Peers who willingly assist others in acts of plagiarism are equally guilty, and will suffer similar penalties. All academic dishonesty will be reported to the Academic Standards Committee. There might be additional sanctions by the Academic Standards Committee such as dismissal from the university. See Utica University official [page](https://www.utica.edu/academic/facultyinfo/intellectualdishonesty.cfm) for Academic Honesty for more details.
+ Your primary goal in this course is to develop a deep personal understanding and expertise in abstract algebra. Collaboration and cooperation are extremely helpful in the learning process and encouraged in most circumstances! However you may only collaborate with students currently enrolled in the same section of the course. When collaboration has occurred, you must acknowledge this clearly (state the name(s) of the person(s) you collaborated with on each problem.) You are permitted to collaborate on big ideas and hints with classmates, however, you must work independently when writing up solutions. All collaborations should occur when your collaborator is at essentially the same stage of the problem solution as yourself. In particular, if you have not yet started a problem and you ask a friend who has already completed it, how do you do this problem. This counts as plagiarism. The resulting work is not and cannot be considered your own. Regarding to outside resources: all work (including daily, weekly etc.), unless directly stated otherwise, the only resources you may use are our course textbook and your class notes. You are not permitted to go looking for completed solutions to problems in other texts or resources. In particular, use of internet resources is completely off limits for homework problems. If you see a solution, there is no way that you can claim to have an original solution. Evidence of using internet sources in your work will result in a minimum penalty of failing the assignment. Copying a solution, or any part of a solution, from any source (friend, internet, book, etc.) in any setting, constitutes plagiarism. You may not seek the help of an instructor or tutor (other than me) unless you first discuss this with me in advance. If you do not verify that this is acceptable before seeking help, this will be considered plagiarism as well. I am always willing to discuss any aspect of the course with you. Evidence of dishonest behavior on any assignment will be grounds for a minimum penalty of failing the entire assignment. In severe cases, the minimum penalty will be failure of the course. Peers who willingly assist others in acts of plagiarism are equally guilty, and will suffer similar penalties. All academic dishonesty will be reported to the Academic Standards Committee. There might be additional sanctions by the Academic Standards Committee such as dismissal from the university. See Utica University official [page](https://www.utica.edu/academic/facultyinfo/intellectualdishonesty.cfm) for Academic Honesty for more details.
 
 ## Special Accommodation
 
