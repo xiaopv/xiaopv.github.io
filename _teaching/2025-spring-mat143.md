@@ -77,7 +77,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  * My lectures and course materials, including powerpoint presentations, tests, outlines, and similar materials, are protected by U.S. copyright law and by Utica University policy. I am the exclusive owner of the copyright in those materials I create. You may take notes and make copies of course materials for your own use. You may also share those materials with another student who is registered and enrolled in this course.
 
- * You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials in any other way — whether or not a fee is charged — without my express written consent. You also may not allow others to do so. If you do so, you may be subject to student conduct proceedings under the Utica University Student Code of Conduct
+ * You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials in any other way — whether or not a fee is charged — without my express written consent. You also may not allow others to do so. If you do so, you may be subject to student conduct proceedings under the Utica University Student Code of Conduct.
 
  * Similarly, you own the copyright in your original work. If I am interested in posting your solution on the course web site, I will ask for your written permission.
 
