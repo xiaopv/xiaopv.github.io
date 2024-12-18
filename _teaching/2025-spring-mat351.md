@@ -128,7 +128,7 @@ I pride myself on having a good environment for working and learning. It is very
 
 ## Evaluation
 
- In this class, we will use a system known as standards-based grading. In order to achieve a certain letter, you have to meet all the criteria on that row. For example, if satisfies the criteria for daily preparation, presentation, weekly homework, and exams for A but only satisfies the criteria for porfolio for B, then your final grade will be B.
+ In this class, we will use a system known as standards-based grading. In order to achieve a certain letter, you have to meet all the criteria on that row. For example, if satisfies the criteria for daily preparation, presentation, weekly homework, and exams for A but only satisfies the criteria for portfolio for B, then your final grade will be B.
 
  | Letter Grade |    Daily Preparation                                   | Presentation |                                  Weekly Homework                                        |                  Exams               | Portfolio                             |
  | ------------ | -----------------------------------------------------  |------------- | --------------------------------------------------------------------------------------- | ------------------------------------ | --------------------------------------|

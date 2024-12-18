@@ -53,7 +53,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course description: We will discuss various elementary functions and their applications in business. We will also cover linear programming as well as mathematics of finance.
 
- * Class organization: This course will likely be different from any other math course you have taken before. As an instructor, I will not be lecturing most of the time although I love lecturing very much. Scientific research shows that most people do not learn mathematics by listening, instead, they learn by doing it! I am sure you have said to yourself before "It looked so easy when the professor was doing it, but now I am confused when I have to do it by myself." Why? Because the knowledge belongs to your professor and does not belong to you. You do not learn the knowledge simply by hearing it once or twice from somebody else. In order for you to have a more thorough understanding of the knowledge, we will use a pedagocial practice called [inquiry-based learning](http://www.inquirybasedlearning.org). Most of the time during the class, students will be working in groups and presenting solutions that they have produced by themselves and not by other people or textbooks. 
+ * Class organization: This course will likely be different from any other math course you have taken before. As an instructor, I will not be lecturing most of the time although I love lecturing very much. Scientific research shows that most people do not learn mathematics by listening, instead, they learn by doing it! I am sure you have said to yourself before "It looked so easy when the professor was doing it, but now I am confused when I have to do it by myself." Why? Because the knowledge belongs to your professor and does not belong to you. You do not learn the knowledge simply by hearing it once or twice from somebody else. In order for you to have a more thorough understanding of the knowledge, we will use a pedagogical practice called [inquiry-based learning](http://www.inquirybasedlearning.org). Most of the time during the class, students will be working in groups and presenting solutions that they have produced by themselves and not by other people or textbooks. 
 
  * Attendance is mandatory. Attending class meetings will have a direct impact on your learning as well as your grade. If you miss class for any reason, you are responsible for getting the information from a classmate, and checking the course web page for any handouts and assignments. You will not be able to make up the quiz for the day if you were not in class unless you have met the makeup policy below.
 
@@ -84,7 +84,7 @@ I pride myself on having a good environment for working and learning. It is very
 <!-- “This content is protected and may not be shared, uploaded or distributed.” © Faculty Name 2020 -->
 
 ## Course Learning Goals
- 1. I can solve lineaer equation in one variable.
+ 1. I can solve linear equation in one variable.
  2. I can perform basic operations such as sum, difference, product, quotient, and composition of functions.
  3. I can find the linear equation given necessary conditions.
  4. I can solve a system of linear equations.
@@ -98,12 +98,12 @@ I pride myself on having a good environment for working and learning. It is very
  12. I can model a situation in business and economics context with appropriate quadratic functions and interpret the solution.
  13. I can model a situation in business and economics context with appropriate exponential functions and interpret the solution.
  14. I can model a situation in business and economics context with appropriate logarithmic functions and interpret the solution.
- 15. I can use linear programming method to find the optimal value of a linear function subject to constriants in business and economics context.
+ 15. I can use linear programming method to find the optimal value of a linear function subject to constraints in business and economics context.
  16. I can find simple interests when given enough relevant information and interpret the solution.
  17. I can find compound interests when given enough relevant information and interpret the solution.
- 18. I can find the future values of annuities and use it to solve related application problem, and intepret the solution.
- 19. I can find the present values of annuities and use it to solve related application problem, and intepret the solution.
- 20. I can find the regular payments required to amortize a debt and the amount that can borrowed for a speficied payment, as well as developing an amortization schedule.
+ 18. I can find the future values of annuities and use it to solve related application problem, and interpret the solution.
+ 19. I can find the present values of annuities and use it to solve related application problem, and interpret the solution.
+ 20. I can find the regular payments required to amortize a debt and the amount that can borrowed for a specified payment, as well as developing an amortization schedule.
 
 
  You are strongly encouraged to download and print a [copy](https://files.xiaopv.com/learninggoalsbusmath.pdf) of the learning goals to record your grade.
