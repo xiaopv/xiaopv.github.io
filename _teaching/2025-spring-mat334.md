@@ -38,7 +38,7 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course Prerequisite: MAT 1305
 
- * Class time and location: Tuesdays and Thursdays 8:30 am - 9:45 am at Hubbard 210
+ * Class time and location: Hubbard Hall 210 Tuesdays and Thursdays 8:30 am - 9:45 am at Hubbard 210
 
  * Textbook: [Introduction to Abstract Algebra, by Margaret Morrow](http://jiblm.org/downloads/jiblmjournal/V120326S/V120326S.pdf)
 
@@ -113,16 +113,17 @@ I pride myself on having a good environment for working and learning. It is very
  The portfolio is a curated collection of your work that tells a story of you as a mathematician and student of abstract algebra from the first day of class to the last. The portfolio is due at the start of the final exam, but you should work on assembling this portfolio throughout the semester. You are welcome to visit me and ask for feedback. Here are the main parts of your portfolio.
    * Growth: Describe how you've improved as a mathematician and student of abstract algebra this semester. Focus on how you have changed or grown over the course of this semester. Write 2-3 paragraphs that describe your growth, both in terms of abstract algebra knowledge and in terms of your understand of how mathematics works. Include at least three specific examples of work that illustrate this growth and explain why they show what you've described.
    * Productive Failure: Show me a failure that ended up supporting and fostering your learning. Write a description of an important mistake or error that you made (in a presentation, a homework problem, or an exam). Clearly describe your error. Then describe how this mistake was productive -- what you learned or how you grew as a result of this mistake. Use specific examples and include work to describe the growth. 2-3 paragraphs total.
-   * Process: Select a problem from this semester that required you to do a significant amount of scratch work. Include the scratch work and annotate it (using different colors) to indicate what insights or key ideas each piece represents. Be sure to annotate errors, dead-ends, ideas that didn't work out. INclude your final proof that should be written as good as you can. Write a narrative (1-2 paragraphs) describing the process you underwent to get from reading the theorem to writing your finished proof. 
-   * Assumptions and Axioms: Choose a proof from this semester that illustrates the importance and use of assumptions in mathematics. Annotate (using different colors) your work as follows: Point out where you make explicit assumptions and then also point out where you use them in the proof. Point out where you use implicit assumptions, such as axioms, that are not explicitly assumed in your writing. Be clear and be specific. Write a clear, thorough, and general explanation of the role of assumptions and axioms in mathematics. (2-3 paragraphs)
+   * Process: Select a problem from this semester that required you to do a significant amount of scratch work. Include the scratch work and annotate it (using different colors) to indicate what insights or key ideas each piece represents. Be sure to annotate errors, dead-ends, ideas that didn't work out. Include your final proof that should be written as good as you can. Write a narrative (1-2 paragraphs) describing the process you underwent to get from reading the theorem to writing your finished proof. 
+   * Connections: Choose a concept, a theorem, or a result from this semester that illustrates the connection between abstract algebra and other areas of mathematics. Be specific. (2-3 paragraphs)
    * Overall reflection: This component is a self-evaluation of your performance in this course. Write thorough but concise answers, 2 pages total. I am interested in your growth throughout the semester so please be honest. This part is graded for completion and thoughtful effort only. Here are some important criteria for evaluating your performance. Briefly answer each of these questions:
      * Daily Preparation and Homework. Did you complete these? On time? How much time and effort did you spend? Was your homework correct? Did you take extra time to think about difficult problems, or do the bare minimum?
      * Attendance, Participation, and Collaboration. Did you attend class regularly> Were you an active participant during the class? (Such as presenting, asking questions, helping your peers?) In what ways did you collaborate with others, both in and our of class?
      * Development of proof, presentation, and writing abilities: How did (or didn't) your skills improve in discovering, presenting, and writing proofs? Please address all three separate things. What other skills have you developed, and how did you demonstrate them?
-     * Are there other important criteria that I should use to evaluate your performance? Explain what they are and why they are useful criteria. Then state how well you met them.
-     * Based on the above criteria, give yourself a grade for this course. Explain and be honest. I am very interested in your reasoning.
+     * How has your understanding of groups evolved over the semester? 
+     * What obstacles did you face while learning abstract algebra, and how did you address them? Were there any moments where a challenging concept suddenly "clicked" for you? If so, describe the experience.
+     * Give yourself a grade for this course. Explain and be honest. I am very interested in your reasoning.
      * Fill in the blank with another student's name: "If ___ doesn't get an A, then nobody should." Explain and I am very interested in your reasoning.
-     * What was the most difficult topic in class for you? What was the easiest? Which topic surprised or interested you the most?
+     * What was the most difficult topic in class for you and how did you work to understand it? What was the easiest? Which topic surprised or interested you the most?
 
 ## Evaluation
 

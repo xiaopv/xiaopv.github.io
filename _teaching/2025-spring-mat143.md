@@ -27,9 +27,12 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Wednesdays 10-noon, Thursdays 2:30-3:30pm, or by appointment
+ * Office hour: Wednesdays 10am-noon, Thursdays 2:30-3:30pm, or by appointment
 
-## Homework  
+## Homework 
+
+ * Jan. 14
+   * This course is participating in a research study assessing the impacts of AI-based tutors on learning. The research team will analyze your de-identified data. Please complete the following [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_djnjJKttF1RH8vY?Q_CHL=gl&RID=CGC_27dFU6k1vcdAIz5&_g_=g) and the compeletion of the survey will count towards your homework credit. 
 
 ## An Important Course Policy
 
@@ -43,11 +46,11 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course Prerequisite: MAT 100, or satisfactory performance in the math placement test administered by the math department.
 
- * Class time and location: Tuesdays and Thursdays 11:30pm - 12:45pm (Section A), 1:00pm - 2:15pm (Section B)
+ * Class time and location: Hubbard Hall 210, Tuesdays and Thursdays 11:30pm - 12:45pm (Section A), 1:00pm - 2:15pm (Section B)
 
  * Textbook: Mathematical Applications for the Management, Life, and Social Sciences, 12th Edition by Ronald J. Harshbarger, James J. Reynolds, Rosemary Karr, Marilyn Massey.
  
- * Online homework system: We will use the WebAssign online homework system designed for our textbook. You do not need to purchase the hard copy and you will have the access to an electronic version of it after you have signed up the WebAssign access. The ISBN for the WebAssign standalone access card 9780357865095. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used textbook will come with the WebAssign access. You can click [this](https://www.getenrolled.com/?courseKey=utica34268354) to self-enroll or use the class key "utica 3426 8354". Please use your Utica University official name and email address to register. Do not use nickname or your personal email address.
+ * Online homework system: We will use the WebAssign online homework system designed for our textbook. You do not need to purchase the hard copy of the textbook and you will have the access to an electronic version of it after you have signed up the WebAssign access. The ISBN for the WebAssign standalone access card 9780357865095. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used textbook will come with the WebAssign access. You can click [this](https://www.getenrolled.com/?courseKey=utica34268354) to self-enroll or use the class key "utica 3426 8354". Please use your Utica University official name and email address to register. Do not use nickname or your personal email address.
 
  * Calculator: We will be using a free graphing calculator app called Desmos. You can use Desmos directly by going to their website at [www.desmos.com](https://www.desmos.com/calculator). You are strongly encouraged to use Desmos on a computer or on a tablet. You can download Desmos at [Apple](https://itunes.apple.com/us/app/desmos-graphing-calculator/id653517540?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.desmos.calculator&amp;hl=en").
 
@@ -114,7 +117,7 @@ I pride myself on having a good environment for working and learning. It is very
   
   * The first kind is online homework assignment at WebAssign. There will be one WebAssign homework for each section. To earn credit, you must earn more than 90% on each assignment. You have 5 attempts for each question and that should be plenty before you can answer the question correctly. Each assignment is worth 1 point. 
   
-  * The second kind is completing tasks in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers.
+  * The second kind is completing problems in the course materials assigned every week. You will be working on these assignments during the class time and discuss them with your peers.
 
 ## Group Participation
 
@@ -160,6 +163,8 @@ There are two kinds of (free) tutoring services offered by the university.
 * The first kind is the tutoring service at the learning commons of library. Please visit the learning commons for detail schedules.
 
 * The second kind is an online tutoring service provided by the university called ThinkingStorm. You can access the service [here](https://www.utica.edu/thinkingstorm) with your university username and password. 
+
+* In this course, we will also experiment an 
 
 ## Academic Integrity
 
