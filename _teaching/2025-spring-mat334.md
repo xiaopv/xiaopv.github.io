@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Jan. 14
+   * Complete the table for D4 and problems 1 to 4 (on page 4 to 5). 
+
 ## An Important Course Policy
 
 I pride myself on having a good environment for working and learning. It is very important to me that we all treat each other with care and respect, in equal measure. I know that I ask students to take risks in class almost every day, and this can be challenging for many. I ask that you help me keep our classroom a supportive place for each of the people in it. Each of us deserves the space to bring our full, authentic selves to class and be comfortable. (Adapted from [T.J. Hitchman](https://sites.uni.edu/theron/about/).)
