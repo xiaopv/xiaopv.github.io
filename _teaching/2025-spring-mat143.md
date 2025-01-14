@@ -32,6 +32,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 ## Homework 
 
  * Jan. 14
+   * [Section 1.1 problem set.](https://www.dropbox.com/scl/fi/s2db0ebu7rdcf46mncl7z/MAT_143_Section_1_1.pdf?rlkey=mc6teco42acl0kvkli3zoaw14&dl=0)
    * This course is participating in a research study assessing the impacts of AI-based tutors on learning. The research team will analyze your de-identified data. Please complete the following [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_djnjJKttF1RH8vY?Q_CHL=gl&RID=CGC_27dFU6k1vcdAIz5&_g_=g) and the compeletion of the survey will count towards your homework credit. 
 
 ## An Important Course Policy
