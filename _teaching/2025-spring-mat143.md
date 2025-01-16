@@ -31,6 +31,13 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Jan. 16
+   * Complete the [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_djnjJKttF1RH8vY?Q_CHL=gl&RID=CGC_27dFU6k1vcdAIz5&_g_=g) if you have not done so.
+   * Print the goal sheet.
+   * Start working on Section 1.1 homework in WebAssign. Aim to finish most of them.
+   * Complete the rest of the problems in Section 1.1. Problem set.
+   * [Section 1.2 problem set.](https://www.dropbox.com/scl/fi/isammsvo5clrygl2az5bt/MAT_143_Section_1_2.pdf?rlkey=ko5nyukt0y94o7gy03nzbgmre&dl=0). We will start this on Tuesday.
+
  * Jan. 14
    * [Section 1.1 problem set.](https://www.dropbox.com/scl/fi/s2db0ebu7rdcf46mncl7z/MAT_143_Section_1_1.pdf?rlkey=mc6teco42acl0kvkli3zoaw14&dl=0) We will do this on Thursday.
    * Print out the [goal sheet](https://files.xiaopv.com/learninggoalsbusmath.pdf).
