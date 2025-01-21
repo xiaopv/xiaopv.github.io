@@ -26,11 +26,14 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Jan. 21
+  * Complete problems 11 to 14.
+
 * Jan. 16
-   * Complete problems 5 to 10.
+  * Complete problems 5 to 10.
 
 * Jan. 14
-   * Complete the table for D4 and problems 1 to 4 (on page 4 to 5). 
+  * Complete the table for D4 and problems 1 to 4 (on page 4 to 5). 
 
 ## An Important Course Policy
 
