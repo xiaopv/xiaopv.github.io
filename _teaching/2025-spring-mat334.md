@@ -26,6 +26,11 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Jan. 23
+  * Complete problems 12, 14 to 18.
+  * Pick one starred problem and then complete the following problem.
+  * [The second problem](https://www.dropbox.com/scl/fi/q5dqeskh8ytb2juwrzjr0/Weekly_Homework_1__algebra_.pdf?rlkey=kmkp77z7ddj9t67qzrz7am1xs&dl=0).
+  
 * Jan. 21
   * Complete problems 11 to 14.
 
