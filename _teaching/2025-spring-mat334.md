@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Jan. 28
+  * Complete problems 19, 20, and 21.
+  
 * Jan. 23
   * Complete problems 12, 14 to 18.
   * Pick one starred problem and then complete the following problem.
