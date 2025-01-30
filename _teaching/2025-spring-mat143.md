@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Jan. 30
+   * Complete Exercises 6 and 7 in Section 1.5 problem set.
+   * Complete Section 1.4 and 1.5 homework in WebAssign.
+
  * Jan. 28
    * Complete Section 1.3 homework and start working on Section 1.4 homework in WebAssign.
    * Quiz 2 on Thursday will cover Goal 1, 2, and 3.

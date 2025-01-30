@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
 
+ * Jan. 30
+   * Complete Theorem 39 to Theorem 43.
+   
  * Jan. 28
    * Read Theorems 29 to 35 carefully.
    * Complete Theorem 36, 37, and Corollary 38.
