@@ -34,6 +34,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * Jan. 30
    * Complete Exercises 6 and 7 in Section 1.5 problem set.
    * Complete Section 1.4 and 1.5 homework in WebAssign.
+   * [Section 1.6 problem set.](https://www.dropbox.com/scl/fi/ro7vbpu0lv2k3tss1o5pp/MAT_143_Section_1_6.pdf?rlkey=8wx3y7hz0jq483ayivt117dl1&dl=0)
 
  * Jan. 28
    * Complete Section 1.3 homework and start working on Section 1.4 homework in WebAssign.
