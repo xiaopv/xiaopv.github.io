@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Feb. 4
+  * Complete problems 30 to 36.
+  
 * Jan. 30
   * Complete problem 23 to 29.
   

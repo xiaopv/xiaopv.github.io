@@ -25,6 +25,16 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
  * Office hour: Wednesdays 10-noon, Thursdays 2:30-3:30 pm, or by appointment
 
 ## Homework
+ 
+ * Learning Objectives for Exam 1
+   * Be able to determine whether two figures are congruent and describe a sequence of basic isometries that will make one figure to coincide the other figure.
+   * Be able to conduct set operation with points, line segments, rays, and lines.
+   * Be able to do elementary straight-compass construction. (2 questions)
+   * Be able to proof results from the textbook. (2 questions)
+   * Be able to apply results from the textbook to prove elementary results about triangles.
+
+ * Feb. 4
+   * Complete Theorems 44 to 47.
 
  * Jan. 30
    * Complete Theorem 39 to Theorem 43.
