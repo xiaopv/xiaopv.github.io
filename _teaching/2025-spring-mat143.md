@@ -35,6 +35,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
    * Complete Example 5.
    * Complete Section 1.5 and 1.6 homework in WebAssign.
    * Quiz 3 on Thursday will cover Goal 1, 2, 3, 4, and 11.
+   * [Section 2.1 problem set.](https://www.dropbox.com/scl/fi/b5ema4pvymjfpgte0dc13/MAT_143_Section_2_1.pdf?rlkey=ivs8jj424gmw5ujp7ffm92nr7&dl=0)
    
  * Jan. 30
    * Complete Exercises 6 and 7 in Section 1.5 problem set.
