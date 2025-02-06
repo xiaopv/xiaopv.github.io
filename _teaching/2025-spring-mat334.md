@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Feb. 6
+  * Redo 33, 35, 36 if you have not completed them. Complete 37.
+
 * Feb. 4
   * Complete problems 30 to 36.
   

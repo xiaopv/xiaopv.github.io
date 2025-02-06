@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+ * Feb. 6
+   * Redo Theorem 44, 45, 47 if you have not completed them. Complete Theorem 48 and 49.
+
  * Learning Objectives for Exam 1
    * Be able to determine whether two figures are congruent and describe a sequence of basic isometries that will make one figure to coincide the other figure.
    * Be able to conduct set operation with points, line segments, rays, and lines.
