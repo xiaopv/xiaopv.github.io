@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+ * Feb. 11
+   * No new problems for today.
+   * Office hours on Thursdays Feb. 13 and Feb. 20 will be moved to Fridays 9am-10am Feb. 14 and Feb. 21 (respectively).
+
  * Feb. 6
    * Redo Theorem 44, 45, 47 if you have not completed them. Complete Theorem 48 and 49.
 

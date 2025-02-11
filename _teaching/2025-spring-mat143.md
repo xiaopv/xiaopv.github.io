@@ -31,6 +31,11 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Feb. 11
+   * Complete Section 2.1 homework in WebAssign.
+   * Quiz 4 on Thursday will cover Goal 3, 4, 5, 11.
+   * Office hours on Thursdays Feb. 13 and Feb. 20 will be moved to Fridays 9am-10am Feb. 14 and Feb. 21 (respectively).
+
  * Feb. 6
    * Start working on Section 2.1 homework in WebAssign.
    * [Section 2.2 problem set.](https://www.dropbox.com/scl/fi/7vulg1qcw7yxwo8900mlo/MAT_143_Section_2_2.pdf?rlkey=khxg3dsznsr6f05843kxa4ynd&dl=0)
