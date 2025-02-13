@@ -31,6 +31,11 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Feb. 13
+   * Complete Section 2.2 homework in WebAssign.
+   * Complete Example 4 in Section 2.2 problem set.
+   * [Section 2.3 problem set.](https://www.dropbox.com/scl/fi/96f8950ajydvl7m5ejnjo/MAT_143_Section_2_3.pdf?rlkey=afr2lp6dnywegmjalig2kgy8z&dl=0)
+
  * Feb. 11
    * Complete Section 2.1 homework in WebAssign.
    * Quiz 4 on Thursday will cover Goal 3, 4, 5, 11.
