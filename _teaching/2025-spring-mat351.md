@@ -28,7 +28,8 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
  
  * Feb. 13
    * Complete Corollary 50 - 52, Theorem 53 and 54.
-   
+   * A brief study [guide](https://www.dropbox.com/scl/fi/tufxcyi24qp91zsrtyv43/Spring_25_Geometry_Exam_1_Review.pdf?rlkey=7i7odgifyk89o7jc5c4dgcato&dl=0) for Exam 1.
+
  * Feb. 11
    * No new problems for today.
    * Office hours on Thursdays Feb. 13 and Feb. 20 will be moved to Fridays 9am-10am Feb. 14 and Feb. 21 (respectively).
