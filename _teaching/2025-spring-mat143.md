@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Feb. 18
+   * Class is canceled today due to severe weather condition.
+   * Quiz 5 on Thursday will cover Goal 4, 5, 6, 7, 11.
+
  * Feb. 13
    * Complete Section 2.2 homework in WebAssign.
    * Complete Example 4 in Section 2.2 problem set.
