@@ -222,8 +222,6 @@ There are two kinds of (free) tutoring services offered by the university.
 
 * The second kind is an online tutoring service provided by the university called ThinkingStorm. You can access the service [here](https://www.utica.edu/thinkingstorm) with your university username and password. 
 
-* In this course, we will also experiment an 
-
 ## Academic Integrity
 
  I have zero tolerance on dishonesty. Any forms of dishonesty such as copying homework or cheating on quizzes and examinations, will result in zero credit for that particular assignment, and will be reported to the Academic Standards Committee. The highest penalty a student can receive is "F for cheating" for the course. There might be additional sanctions by the Academic Standards Committee such as dismissal from the university. See Utica University official [page](https://www.utica.edu/academic/facultyinfo/intellectualdishonesty.cfm) for Academic Honesty for more details.
