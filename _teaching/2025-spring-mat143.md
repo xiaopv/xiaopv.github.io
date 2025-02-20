@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Feb. 20
+   * Complete Section 2.3 homework in WebAssign.
+   * [Section 4.1 problem set.](https://www.dropbox.com/scl/fi/lx6gql5uxq08sh21cybw9/MAT_143_Section_4_1.pdf?rlkey=ebc1m26mvpjqw3rf0v3ruw2np&dl=0)
+
  * Feb. 18
    * Class is canceled today due to severe weather condition.
    * Quiz 5 on Thursday will cover Goal 4, 5, 6, 7, 11.
