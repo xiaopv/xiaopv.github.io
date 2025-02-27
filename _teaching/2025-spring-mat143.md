@@ -34,6 +34,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * Feb. 27
    * Complete the rest of the problems in Section 4.2 problem set.
    * Complete Section 4.2 homework in WebAssign.
+   * Office hours on March 6 will be rescheduled to March 3, 9:30am - 10:30am
 
  * Feb. 25
    * Complete Section 4.1 homework in WebAssign.

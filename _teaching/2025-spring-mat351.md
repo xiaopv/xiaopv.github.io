@@ -28,6 +28,7 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
  
  * Feb. 27
    * Complete Corollary 61 to Problem 67.
+   * Office hours on March 6 will be rescheduled to March 3, 9:30am - 10:30am
 
  * Feb. 25
    * See Feb. 20 for homework.

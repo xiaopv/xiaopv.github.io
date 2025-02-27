@@ -26,8 +26,17 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Learning Objectives for Exam 1:
+  * Be able to conduct group operations in dihedral groups.
+  * Be able to determine whether a set equipped with a binary operation is a group or not.
+  * Be able to prove elementary properties of a group.
+  * Be able to prove whether a subset of a group is a subgroup or not.
+  * Be able to prove elementary results about order of a group and order of an element.
+  * Be able to prove elementary results about cyclic group.
+
 * Feb. 27
   * Complete problem 60 to 65.
+  * Office hours on March 6 will be rescheduled to March 3, 9:30am - 10:30am
 
 * Feb. 25
   * Complete problems 54 to 59.
