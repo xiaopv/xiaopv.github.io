@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Mar. 4
+  * We will finish 64 and 65 on Thursday.
+  * Complete 66 to 68.
+
 * Learning Objectives for Exam 1:
   * Be able to conduct group operations in dihedral groups.
   * Be able to determine whether a set equipped with a binary operation is a group or not.

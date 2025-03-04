@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+ * Mar. 4
+   * We will cover Theorem 64, 65, Problem 66 and 67 on Thursday
+   * Complete Problem 68 to Theorem 71.
+
  * Feb. 27
    * Complete Corollary 61 to Problem 67.
    * Office hours on March 6 will be rescheduled to March 3, 9:30am - 10:30am
