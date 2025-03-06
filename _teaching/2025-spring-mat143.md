@@ -34,6 +34,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * Mar. 4
    * Start working on Section 5.1 homework in WebAssign.
    * Quiz 7 will cover Goal 6, 7, 8, 12, 15.
+   * [Section 5.2 problem set.](https://www.dropbox.com/s/f00lilz9u3or6t6/MAT_143_Section_5_2.pdf?st=eb4j6at1&dl=0)
    
  * Feb. 27
    * Complete the rest of the problems in Section 4.2 problem set.
