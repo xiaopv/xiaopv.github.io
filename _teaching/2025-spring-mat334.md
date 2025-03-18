@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Mar. 18
+  * Complete 74 to 79.
+  * Reminder: Exam 1 is scheduld on March 25.
+
 * Mar. 6
   * Complete 69 to 76.
   * Have a great spring break!
