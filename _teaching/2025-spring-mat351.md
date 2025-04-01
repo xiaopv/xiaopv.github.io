@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+ * Apr. 1
+   * Complete Problem 107 to Theorem 112.
+
  * Mar. 27
    * Complete Theorem 100 to Problem 106.
 
