@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Apr. 3
+  * Complete 96 to 101.
+
 * Apr. 1
   * Complete 91 to 94.
   
