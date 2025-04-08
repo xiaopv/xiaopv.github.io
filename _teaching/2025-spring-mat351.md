@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+ * Apr. 8
+   * Complete Theorem 116 to Theorem 120.
+   * Office hours on Wednesday 9 will be switched from 10am-12pm to 1pm-2:30pm due to a last minute meeting schedule. Sorry about the inconvenience.
+
  * Apr. 3
    * Complete Problem 113 to Problem 115.
 

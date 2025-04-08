@@ -31,6 +31,15 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Apr. 8
+   * Start working on Section 6.3 homework in WebAssign.
+   * Quiz 11 will cover Goal 8, 9, 10, 11, 12, 14, 16, 17, 18.
+   * [Section 6.4 problem set.](https://www.dropbox.com/scl/fi/5a9j689ibjthx3jx41zzi/MAT_143_Section_6_4.pdf?rlkey=2ki1ozym9lx5df4twy8ilrmnq&dl=0)
+   * Office hours on Wednesday 9 will be switched from 10am-12pm to 1pm-2:30pm due to a last minute meeting schedule. Sorry about the inconvenience.
+
+ * Apr. 3
+   * Complete Section 6.2 homework in WebAssign.
+
  * Apr. 1
    * Complete Section 6.1 homework in WebAssign.
    * [Section 6.3 problem set.](https://www.dropbox.com/scl/fi/zqzwsh0ys9ebclvjnuhnl/MAT_143_Section_6_3.pdf?rlkey=nyhnlp6xhiaubck3bghc1c16j&dl=0)
