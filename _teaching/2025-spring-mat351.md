@@ -26,6 +26,15 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+  * Learning Objectives for Exam 2:
+   * Be able to find the area of a polygon region on a plane.
+   * Be able to do elementary straight-compass construction (second half of the course, from Theorem 48 to Problem 131, 2 questions).
+   * Be able to prove results from the textbook (second half of the course, from Theorem 48 to Problem 131, 1 question).
+   * Be able to apply results from the textbook to prove elementary results about angle measure.
+   * Be able to apply results from the textbook to prove elementary results about similar figures.
+   * A brief study [guide](https://www.dropbox.com/scl/fi/dmy3xvxg7vg8b45hj8gqi/Spring_25_Geometry_Exam_2_Review.pdf?rlkey=5hpdiqekdzr1jz1gjw47w5dsl&dl=0) for Exam 2.
+
+
  * Apr. 8
    * Complete Theorem 116 to Theorem 120.
    * Office hours on Wednesday 9 will be switched from 10am-12pm to 1pm-2:30pm due to a last minute meeting schedule. Sorry about the inconvenience.
