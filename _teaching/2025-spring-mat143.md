@@ -31,6 +31,9 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Apr. 10
+   * Complete Section 6.3 homework in WebAssign.
+
  * Apr. 8
    * Start working on Section 6.3 homework in WebAssign.
    * Quiz 11 will cover Goal 8, 9, 10, 11, 12, 14, 16, 17, 18.
