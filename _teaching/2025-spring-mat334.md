@@ -26,6 +26,14 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Learning Objectives for Exam 2:
+  * Be able to determine the kernel and the image of a homomorphism.
+  * Be able to prove elementary results about group homomorphisms and isomorphisms.
+  * Be able to determine whether two groups are isomorphic or non-isomorphic using elementary properties of groups.
+  * Be able to compute left and right cosets.
+  * Be able to determine whether a subgroup is a normal subgroup, compute and identify quotient groups up to isomorphism.
+  * Be able to show that two groups are isomorphic by using the First Isomorphism Theorem.
+
 * Apr. 10
   * Complete 106 to 111.
 
