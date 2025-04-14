@@ -36,7 +36,7 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
    * Be able to prove results from the textbook (second half of the course, from Theorem 48 to Problem 131, 1 question).
    * Be able to apply results from the textbook to prove elementary results about angle measure.
    * Be able to apply results from the textbook to prove elementary results about similar figures.
-   * A brief study [guide](https://www.dropbox.com/scl/fi/dmy3xvxg7vg8b45hj8gqi/Spring_25_Geometry_Exam_2_Review.pdf?rlkey=5hpdiqekdzr1jz1gjw47w5dsl&dl=0) for Exam 2.
+   * A brief study [guide](https://www.dropbox.com/scl/fi/387lqlvh3pyk1ilkrf2ta/Spring_25_Geometry_Exam_2_Review.pdf?rlkey=k75853y5xwqsq48zhaypvcj1e&dl=0) for Exam 2.
 
 
  * Apr. 8
