@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Apr. 15
+  * Complete 112 to 115.
+
 * Learning Objectives for Exam 2:
   * Be able to determine the kernel and the image of a homomorphism.
   * Be able to prove elementary results about group homomorphisms and isomorphisms.
