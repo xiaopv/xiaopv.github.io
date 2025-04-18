@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+  * Apr. 17
+    * Exam on Tuesday. No weekly homework this week.
+    
   * Apr. 15
     * Complete Corollary 127 to Problem 131.
     

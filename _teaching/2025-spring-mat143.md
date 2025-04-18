@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Apr. 17
+   * Complete Section 6.4 homework in WebAssign.
+   * [Section 6.5 problem set.](https://www.dropbox.com/scl/fi/f1xa24zpaqcl94alxr4oa/MAT_143_Section_6_5.pdf?rlkey=o73jq7mxgxhmidm9yg4oko0rq&dl=0)
+   
  * Apr. 15
    * Start working on Section 6.4 homework in WebAssign.
    * Quiz 12 will cover Goal 13, 14, 15, 16, 17, 18, 19.

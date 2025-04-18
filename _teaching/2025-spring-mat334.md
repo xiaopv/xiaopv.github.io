@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 ## Homework
 
+* Apr. 17
+  * Finish the rest of the book.
+
 * Apr. 15
   * Complete 112 to 115.
 
