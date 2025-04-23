@@ -20,7 +20,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * Spring break: 03/10/25 - 03/14/25
  * Withdraw deadline: 03/24/25
  * SOOT: 04/21/25 - 04/28/25
- * Final exam: TBA
+ * Final exam: 04/29/25 11:30am (1-2:15 section), 05/01/25 11:30am (11:30-12:45 section)
 
 ## Instructor Information
 
