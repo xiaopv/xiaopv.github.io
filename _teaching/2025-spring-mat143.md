@@ -38,7 +38,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
  * Apr. 17
    * Complete Section 6.4 homework in WebAssign.
-   * [Section 6.5 problem set.](https://www.dropbox.com/scl/fi/f1xa24zpaqcl94alxr4oa/MAT_143_Section_6_5.pdf?rlkey=o73jq7mxgxhmidm9yg4oko0rq&dl=0)
+   * [Section 6.5 problem set.](https://www.dropbox.com/scl/fi/3lro36hk9t1ivv0hwbh1u/MAT_143_Section_6_5.pdf?rlkey=2vish13n2ql70khr8odojirwb&st=tpy3pbpr&dl=0)
    
  * Apr. 15
    * Start working on Section 6.4 homework in WebAssign.
