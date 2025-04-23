@@ -31,6 +31,11 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * Apr. 22
+   * Complete *all* homework in WebAssign before the final exam.
+   * Quiz 13 will cover Goal 16, 17, 18, 19, 20
+   * Final exam will cover Goal 1 to 20 with two questions for Goals 18, 19, and 20.
+
  * Apr. 17
    * Complete Section 6.4 homework in WebAssign.
    * [Section 6.5 problem set.](https://www.dropbox.com/scl/fi/f1xa24zpaqcl94alxr4oa/MAT_143_Section_6_5.pdf?rlkey=o73jq7mxgxhmidm9yg4oko0rq&dl=0)

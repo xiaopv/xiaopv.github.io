@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 351 Euclidean and Non-Euclidea
 
 ## Homework
  
+  * Apr. 22
+    * Exam rescheduled on Thursday.
+    
   * Apr. 17
     * Exam on Tuesday. No weekly homework this week.
     
