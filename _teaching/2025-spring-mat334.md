@@ -28,9 +28,9 @@ Welcome to the home page of Prof. Xiao Xiao's MAT 334 Introduction to Abstract A
 
 * Final Exam Plan:
   * The final exam is a reassessment for the goals that you have missed on Exam 2.
-  * The final exam is scheduled on May 1 8:30am.
+  * The final exam is scheduled on May 1 8:00am.
   * The format of the final exam will be written and oral.
-  * To prepare for the final exam, you need to redo all the problems that you got incorrectly on Exam 2. Prepare two copies of your written solutions. Submit one copy to the instructor by 8:30am on May 1.
+  * To prepare for the final exam, you need to redo all the problems that you got incorrectly on Exam 2. Prepare two copies of your written solutions. Submit one copy to the instructor by 8:00am on May 1.
   * Each student will present problems chosen by the instructor and answer any related questions posed by the instructor. The only audience of the presentation will be the instructor.
 
 * Apr. 22
