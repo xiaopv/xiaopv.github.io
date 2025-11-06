@@ -2,9 +2,9 @@
 title: "MAT 143: Mathematical Analysis for Business and Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-fall-mat143
+permalink: /teaching/2025-spring-mat143
 venue: "Mathematics Department, Utica University"
-date: 2025-08-15
+date: 2025-01-01
 ---
 
 Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business and Economics course at Utica University. You can find all the information for this course on this page. Please check this page frequently for announcements and assignments.
@@ -13,161 +13,151 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
  * [WebAssign](https://www.webassign.net)
  * [Desmos](http://www.desmos.com/calculator)
- * [PingPong](https://pingpong.hks.harvard.edu/group/437?assistant=1666)
 
 ## Important Dates
 
- * Add/Drop deadline: 8/29/25
- * Fall break: 10/13/25 - 10/14/25
- * Withdraw deadline: 11/3/25
- * Thanksgiving break: 11/26/25 - 11/28/25
- * SOOT: 11/28/25 - 12/5/25
- * Final exam: 12/8/25 - 12/12/25
+ * Add/Drop deadline: 01/17/25
+ * Spring break: 03/10/25 - 03/14/25
+ * Withdraw deadline: 03/24/25
+ * SOOT: 04/21/25 - 04/28/25
+ * Final exam: 04/29/25 11:30am (1-2:15 section), 05/01/25 11:30am (11:30-12:45 section)
 
 ## Instructor Information
 
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Monday and Wednesday 12:30-2pm or by appointment.
+ * Office hour: Wednesdays 10am-noon, Thursdays 2:30-3:30pm, or by appointment
 
 ## Homework 
 
- * 11/5/26
-   * Complete Section 6.1 WebAssign assignment.
-   * Preview [Section 6.2](https://www.dropbox.com/scl/fi/m29a5tvn3h2jah65m8wsr/MAT_143_Section_6_2.pdf?rlkey=wnut4nodlcbv0ftlds6oo2w1l&dl=0) worksheet.
-    
- * 11/3/25
-   * Complete Section 5.3 WebAssign assignment.
-   * Preview [Section 6.1](https://www.dropbox.com/scl/fi/hulu3ows8iiewwq6mhdwf/MAT_143_Section_6_1.pdf?rlkey=ul14fne1xu776ww2chxfcga78&dl=0) worksheet.
+ * Apr. 22
+   * Complete *all* homework in WebAssign before the final exam.
+   * Quiz 13 will cover Goal 16, 17, 18, 19, 20
+   * Final exam will cover Goal 1 to 20 with two questions for Goals 18, 19, and 20.
 
- * 10/31/25
-   * Catch up WebAssign homework.
+ * Apr. 17
+   * Complete Section 6.4 homework in WebAssign.
+   * [Section 6.5 problem set.](https://www.dropbox.com/scl/fi/3lro36hk9t1ivv0hwbh1u/MAT_143_Section_6_5.pdf?rlkey=2vish13n2ql70khr8odojirwb&st=tpy3pbpr&dl=0)
+   
+ * Apr. 15
+   * Start working on Section 6.4 homework in WebAssign.
+   * Quiz 12 will cover Goal 13, 14, 15, 16, 17, 18, 19.
+
+ * Apr. 10
+   * Complete Section 6.3 homework in WebAssign.
+
+ * Apr. 8
+   * Start working on Section 6.3 homework in WebAssign.
+   * Quiz 11 will cover Goal 8, 9, 10, 11, 12, 14, 16, 17, 18.
+   * [Section 6.4 problem set.](https://www.dropbox.com/scl/fi/5a9j689ibjthx3jx41zzi/MAT_143_Section_6_4.pdf?rlkey=2ki1ozym9lx5df4twy8ilrmnq&dl=0)
+   * Office hours on Wednesday 9 will be switched from 10am-12pm to 1pm-2:30pm due to a last minute meeting schedule. Sorry about the inconvenience.
+
+ * Apr. 3
+   * Complete Section 6.2 homework in WebAssign.
+
+ * Apr. 1
+   * Complete Section 6.1 homework in WebAssign.
+   * [Section 6.3 problem set.](https://www.dropbox.com/scl/fi/zqzwsh0ys9ebclvjnuhnl/MAT_143_Section_6_3.pdf?rlkey=nyhnlp6xhiaubck3bghc1c16j&dl=0)
    * Quiz 10 will cover Goal 6, 7, 9, 10, 13, 14, 16.
 
- * 10/29/25
-   * Start working on Section 5.3 WebAssign.
+ * Mar. 27
+   * Complete Section 5.3 homework and start Section 6.1 homework in WebAssign.
+   * [Section 6.2 problem set.](https://www.dropbox.com/scl/fi/udecbos9o1oupf40q0no9/MAT_143_Section_6_2.pdf?rlkey=ktwe71epyh7yatohnyvfebrky&dl=0)
+
+ * Mar. 25
+   * Start working on Section 5.3 homework in WebAssign.
+   * [Section 6.1 problem set.](https://www.dropbox.com/scl/fi/msvhebhqjkvdjn6ea41oe/MAT_143_Section_6_1.pdf?rlkey=17adxzc81zbywr6nshq0c8r4x&dl=0)
    * Quiz 9 will cover Goal 3, 4, 5, 9, 10, 13, 14, 15.
 
- * 10/27/25
-   * Preview [Section 5.3](https://www.dropbox.com/scl/fi/3rnuenxgpww7exyydskgw/MAT_143_Section_5_3.pdf?rlkey=blk2p32grwl2j5uldilfvpnt2&dl=0) worksheet.
+ * Mar. 20
+   * Complete Section 5.2 homework in WebAssign.
+   * [Section 5.3 problem set.](https://www.dropbox.com/scl/fi/tpdybmphsl5gshlbpip9r/MAT_143_Section_5_3.pdf?rlkey=zz0p59nuob905o8hbo8h55tz6&dl=0)
 
- * 10/24/25
-   * Try to complete Secton 5.2 WebAssign homework.
-   * Complete the PingPong assignment following [this](https://docs.google.com/document/d/1PWyLoZGqJ00ND4A0j36yTCAFK57PMS8mWiRnw_w5beI/edit?usp=sharing) instruction. This assignment is due Friday Oct. 31. Please print out a copy of your work and submit. The reward for completion is to get one chance to pick a goal for a re-assessment.
-
- * 10/22/25
-   * Start working on Section 5.2 WebAssign homework.
-   * Complete Example 5 in Section 5.2 worksheet.
-
- * 10/20/25
-   * Complete Section 5.1 WebAssign homework.
-   * Complete the last example in Section 5.1 worksheet.
-
- * 10/17/25
-   * Start working on Section 5.1 WebAssign homework.
+ * Mar. 18
+   * Start working on Section 5.2 homework in WebAssign.
    * Quiz 8 will cover Goal 1, 2, 8, 12, 13, 15.
-   * [Section 5.2](https://www.dropbox.com/scl/fi/ftf6tzr05bp90ptrtep2d/MAT_143_Section_5_2.pdf?rlkey=0oqg1y1ckchlgo4oxtien8dq6&dl=0)
 
- * 10/15/25
-   * Continue to work on catching up WebAssign homework.
-   * Quiz 7 will cover Goal 6, 7, 8, 12, 15.
- 
- * 10/10/25
-   * Catch up your WebAssign homework. Bring WebAssign homework questions to class on Wednesday. We will have a homework catch up day on Oct. 15. Enjoy your fall break.
-
- * 10/8/25
-   * Complete Section 4.2 homework in WebAssign.
-   * [Section 5.1](https://www.dropbox.com/scl/fi/x7b9l4ubhanhep2gu1ch2/MAT_143_Section_5_1.pdf?rlkey=201lw48x0chf57t7ezuqwgqtm&dl=0)
-
- * 10/6/25
-   * Start working on Section 4.2 homework in WebAssign.
-   * Quiz 6 will cover Goal 5, 6, 7, 8, 11, 12.
-
- * 10/3/25
-   * Complete Section 4.1 homework in WebAssign.
-   * [Section 4.2](https://www.dropbox.com/scl/fi/q7mthsq0cycbn1pgrkf0l/MAT_143_Section_4_2.pdf?rlkey=6yc8uqqp28k2mkxi8ac4e8bc0&dl=0)
-
- * 10/1/25
-   * Complete Section 2.3 homework and start Section 4.1 homework in WebAssign.
-   * Quiz 5 will cover Goal 4, 5, 6, 7, 11.
-
- * 9/29/25
-   * Continue to work on Section 2.3 homework in Webassign. Aim to finish them by the end of Wednesday.
-
- * 9/26/25
-   * Start Section 2.3 homework in WebAssign.
-   * [Section 4.1](https://www.dropbox.com/scl/fi/xxiw76ckziue62oyzhtzl/MAT_143_Section_4_1.pdf?rlkey=b6w2qs9t3uzix2dbsivfsxmmm&dl=0)
-
- * 9/24/25
-   * Complete Section 2.2 homework in WebAssign.
-   * Preview [Secton 2.3](https://www.dropbox.com/scl/fi/40yqs3xt2a25cf3j6azdz/MAT_143_Section_2_3.pdf?rlkey=10jgf53jx7nesp3hzxu975n3d&dl=0) worksheet.
-   * Quiz 4 will cover Goal 3, 4, 5, 11.
-
- * 9/22/25
-   * Complete Section 2.1 homework in WebAssign.
-   * Preview [Section 2.2](https://www.dropbox.com/scl/fi/hzmpflyinz9mqnva58ewy/MAT_143_Section_2_2.pdf?rlkey=bu1wcdxbwn9xt17z1w53jupq4&dl=0) worksheet.
-
- * 9/19/25
-   * Start working on Section 2.1 homework in WebAssign.
-   * Keep working on Section 2.1 worksheet as much as you can. We will complete Section 2.1 on Monday.
-
- * 9/17/25
-   * Complete Chapter 1 homework in WebAssign.
-   * Start working on Section 2.1 worksheet.
-   * Quiz 3 will cover goal 1, 2, 3, 4, 11.
-
- * 9/15/25
-   * Complete the rest of the Section 1.6 worksheet.
-   * Complete Section 1.6 homework in WebAssign.
-   * Preview [Section 2.1](https://www.dropbox.com/scl/fi/3x3d2q3rc45kho0uk1qe4/MAT_143_Section_2_1.pdf?rlkey=g5eb42v4yezu7imsldla4jm63&dl=0)
-
- * 9/12/25
-   * Complete 1.5 homework in WebAssign.
-
- * 9/10/25
-   * Complete Section 1.4 homework and start Section 1.5 homework in WebAssign.
-   * Complete Exercise 7 in Section 1.5 worksheet.
-   * Preview [Secton 1.6](https://www.dropbox.com/scl/fi/xtz22ovpuiylrxb9zr593/MAT_143_Section_1_6.pdf?rlkey=ie6dwwrtplra92n6o9dwsil05&dl=0).
-
- * 9/8/25
-   * Complete Section 1.3 homework and start Section 1.4 homework in WebAssign.
-   * Complete Example 2 and 3 in Section 1.4 worksheet.
-   * Preview [Section 1.5](https://www.dropbox.com/scl/fi/l0krnbip6hc4lqqprg1n7/MAT_143_Section_1_5.pdf?rlkey=84f98gievj52w3td4ofnkbhj2&dl=0)
-
- * 9/5/25
-   * Start Section 1.3 homework in WebAssign.
-   * Complete Example 5 in Section 1.3 worksheet.
-   * Preview [Section 1.4](https://www.dropbox.com/scl/fi/4rnxicxhqzzz1v7mz91xw/MAT_143_Section_1_4.pdf?rlkey=573iw4f2uyb7pvg60c8uc6iu9&dl=0)
-
- * 9/3/25
-   * Complete Section 1.2 homework in WebAssign.
-   * Complete Example 1 and 2 in [Section 1.3](https://www.dropbox.com/scl/fi/5upkqa7lyk8xz0rzuclup/MAT_143_Section_1_3.pdf?rlkey=6v9a1lkng9ypelrnwv398j4ts&dl=0).
-   * Quiz 1 on Friday covers Goal 1, 2.
+ * Mar. 6
+   * Complete Section 5.1 homework in WebAssign.
+   * Have a great spring break and see you all in a week.
    
+ * Mar. 4
+   * Start working on Section 5.1 homework in WebAssign.
+   * Quiz 7 will cover Goal 6, 7, 8, 12, 15.
+   * [Section 5.2 problem set.](https://www.dropbox.com/s/f00lilz9u3or6t6/MAT_143_Section_5_2.pdf?st=eb4j6at1&dl=0)
+   
+ * Feb. 27
+   * Complete the rest of the problems in Section 4.2 problem set.
+   * Complete Section 4.2 homework in WebAssign.
+   * Office hours on March 6 will be rescheduled to March 3, 9:30am - 10:30am
+   * [Section 5.1 problem set.](https://www.dropbox.com/scl/fi/b8kp37x3ydjwm6ia0alg4/MAT_143_Section_5_1.pdf?rlkey=kkeyxag2pzrssr9cu331nsnvz&dl=0)
 
- * 9/1/25
-   * Start Section 1.2 homework in WebAssign.
-   * Complete the rest of the Section 1.2 worksheet as much as you can.
-   * Preview [Section 1.3](https://www.dropbox.com/scl/fi/5upkqa7lyk8xz0rzuclup/MAT_143_Section_1_3.pdf?rlkey=6v9a1lkng9ypelrnwv398j4ts&dl=0).
+ * Feb. 25
+   * Complete Section 4.1 homework in WebAssign.
+   * [Section 4.2 problem set.](https://www.dropbox.com/scl/fi/gissa7swfysucuya2wry8/MAT_143_Section_4_2.pdf?rlkey=iasho6ktc07woxpwwsl4ebi7w&dl=0)
+   * Quiz 6 on Thursday will cover Goal 5, 6, 7, 8, 11, 12.
+   
+ * Feb. 20
+   * Complete Section 2.3 homework in WebAssign.
+   * [Section 4.1 problem set.](https://www.dropbox.com/scl/fi/lx6gql5uxq08sh21cybw9/MAT_143_Section_4_1.pdf?rlkey=ebc1m26mvpjqw3rf0v3ruw2np&dl=0)
 
- * 8/29/25
-   * Complete Section 1.1 homework in WebAssign.
-   * Preview [Section 1.2](https://www.dropbox.com/scl/fi/0z8dtjrvf33mk43l6ve7s/MAT_143_Section_1_2.pdf?rlkey=51v5ygc020sxsqeb9slak8mux&dl=0) worksheet.
+ * Feb. 18
+   * Class is canceled today due to severe weather condition.
+   * Quiz 5 on Thursday will cover Goal 4, 5, 6, 7, 11.
 
- * 8/27/25
-   * Complete Problem 2 and 3 in [Section 1.1](https://www.dropbox.com/scl/fi/km5n94csamzvzmu3jr2bp/MAT_143_Section_1_1.pdf?rlkey=dm6j5xiy6c16rqmrrp4835f25&dl=0) worksheet.
-   * Start working on Section 1.1 homework in WebAssign.
-   * Complete the [Pre-assessment](https://harvard.az1.qualtrics.com/jfe/form/SV_8HfqGrZvz6Nyo6O?Q_CHL=gl&RID=CGC_1waqEWthUDuzH2v&_g_=g) if you have not already done so.
-   * No quiz this Friday.
+ * Feb. 13
+   * Complete Section 2.2 homework in WebAssign.
+   * Complete Example 4 in Section 2.2 problem set.
+   * [Section 2.3 problem set.](https://www.dropbox.com/scl/fi/96f8950ajydvl7m5ejnjo/MAT_143_Section_2_3.pdf?rlkey=afr2lp6dnywegmjalig2kgy8z&dl=0)
 
- * 8/25/25
-   * Complete the [Pre-assessment](https://harvard.az1.qualtrics.com/jfe/form/SV_8HfqGrZvz6Nyo6O?Q_CHL=gl&RID=CGC_1waqEWthUDuzH2v&_g_=g). It will take about 10 minutes. Note that the instructor does not have access to the results to the assessment, only a list of students who have completed the assessment.
-   * Preview [Section 1.1](https://www.dropbox.com/scl/fi/km5n94csamzvzmu3jr2bp/MAT_143_Section_1_1.pdf?rlkey=dm6j5xiy6c16rqmrrp4835f25&dl=0) and complete as many questions as you can.
-   * Print a [copy](https://files.xiaopv.com/learninggoalsbusmath.pdf) of the learning goals to record your learning progress.
-   * [Enroll](https://www.getenrolled.com/?courseKey=utica01170089) yourself (using your Utica University email) to the WileyPLUS homework platform.
-   * Complete the introduction [survey](https://xiaopv.com/teaching/2025-fall-mat143) if you have not done so.
+ * Feb. 11
+   * Complete Section 2.1 homework in WebAssign.
+   * Quiz 4 on Thursday will cover Goal 3, 4, 5, 11.
+   * Office hours on Thursdays Feb. 13 and Feb. 20 will be moved to Fridays 9am-10am Feb. 14 and Feb. 21 (respectively).
 
+ * Feb. 6
+   * Start working on Section 2.1 homework in WebAssign.
+   * [Section 2.2 problem set.](https://www.dropbox.com/scl/fi/7vulg1qcw7yxwo8900mlo/MAT_143_Section_2_2.pdf?rlkey=khxg3dsznsr6f05843kxa4ynd&dl=0)
+
+ * Feb. 4
+   * Complete Example 5.
+   * Complete Section 1.5 and 1.6 homework in WebAssign.
+   * Quiz 3 on Thursday will cover Goal 1, 2, 3, 4, and 11.
+   * [Section 2.1 problem set.](https://www.dropbox.com/scl/fi/b5ema4pvymjfpgte0dc13/MAT_143_Section_2_1.pdf?rlkey=ivs8jj424gmw5ujp7ffm92nr7&dl=0)
+   
+ * Jan. 30
+   * Complete Exercises 6 and 7 in Section 1.5 problem set.
+   * Complete Section 1.4 and 1.5 homework in WebAssign.
+   * [Section 1.6 problem set.](https://www.dropbox.com/scl/fi/ro7vbpu0lv2k3tss1o5pp/MAT_143_Section_1_6.pdf?rlkey=8wx3y7hz0jq483ayivt117dl1&dl=0)
+
+ * Jan. 28
+   * Complete Section 1.3 homework and start working on Section 1.4 homework in WebAssign.
+   * Quiz 2 on Thursday will cover Goal 1, 2, and 3.
+   * [Section 1.5 problem set.](https://www.dropbox.com/scl/fi/vpd9yqt7zl0hqhe7xs72h/MAT_143_Section_1_5.pdf?rlkey=i6h620yyrcmhh8d79x7f2orpy&dl=0)
+
+ * Jan. 23
+   * Complete Section 1.2 homework and start working on Section 1.3 homework in WebAssign.
+   * [Section 1.4 problem set.](https://www.dropbox.com/scl/fi/y7vglkq2dguvm7subt5za/MAT_143_Section_1_4.pdf?rlkey=xufmacf5o6feuyhtbxlbmtcdm&dl=0)
+
+ * Jan. 21
+   * Complete Section 1.1 homework, aim to finish most of Section 1.2 homework in WebAssign.
+   * Complete the rest of problems in Section 1.2 problem set.
+   * Quiz 1 on Thursday will cover Goal 1 and 2.
+   * [Section 1.3 problem set.](https://www.dropbox.com/scl/fi/79mmlvwo7wuyoajsbcgh1/MAT_143_Section_1_3.pdf?rlkey=x4mvelev2j6sctbzltpydgvcr&dl=0).
+
+ * Jan. 16
+   * Complete the [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_djnjJKttF1RH8vY?Q_CHL=gl&RID=CGC_27dFU6k1vcdAIz5&_g_=g) if you have not done so.
+   * Print the goal sheet.
+   * Start working on Section 1.1 homework in WebAssign. Aim to finish most of them.
+   * Complete the rest of the problems in Section 1.1. Problem set.
+   * [Section 1.2 problem set.](https://www.dropbox.com/scl/fi/isammsvo5clrygl2az5bt/MAT_143_Section_1_2.pdf?rlkey=ko5nyukt0y94o7gy03nzbgmre&dl=0). We will start this on Tuesday.
+
+ * Jan. 14
+   * [Section 1.1 problem set.](https://www.dropbox.com/scl/fi/s2db0ebu7rdcf46mncl7z/MAT_143_Section_1_1.pdf?rlkey=mc6teco42acl0kvkli3zoaw14&dl=0) We will do this on Thursday.
+   * Print out the [goal sheet](https://files.xiaopv.com/learninggoalsbusmath.pdf).
+   * This course is participating in a research study assessing the impacts of AI-based tutors on learning. The research team will analyze your de-identified data. Please complete the following [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_djnjJKttF1RH8vY?Q_CHL=gl&RID=CGC_27dFU6k1vcdAIz5&_g_=g) and the compeletion of the survey will count towards your homework credit. 
+   * Sign up at WebAssign.
 
 ## An Important Course Policy
 
@@ -181,11 +171,11 @@ I pride myself on having a good environment for working and learning. It is very
 
  * Course Prerequisite: MAT 100, or satisfactory performance in the math placement test administered by the math department.
 
- * Class time and location: Hubbard Hall 210, Mondays, Wednesdays and Fridays, 8:30am - 9:20am (Section A), 9:30am - 10:20am (Section B)
+ * Class time and location: Hubbard Hall 210, Tuesdays and Thursdays 11:30pm - 12:45pm (Section A), 1:00pm - 2:15pm (Section B)
 
  * Textbook: Mathematical Applications for the Management, Life, and Social Sciences, 12th Edition by Ronald J. Harshbarger, James J. Reynolds, Rosemary Karr, Marilyn Massey.
  
- * Online homework system: We will use the WebAssign online homework system designed for our textbook. You do not need to purchase the hard copy of the textbook and you will have the access to an electronic version of it after you have signed up the WebAssign access. The ISBN for the WebAssign standalone access card 9780357865095. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used textbook will come with the WebAssign access. You can click [this](https://www.getenrolled.com/?courseKey=utica01170089) to self-enroll or use the class key "utica 0117 0089". Please use your Utica University official name and email address to register. Do not use nickname or your personal email address.
+ * Online homework system: We will use the WebAssign online homework system designed for our textbook. You do not need to purchase the hard copy of the textbook and you will have the access to an electronic version of it after you have signed up the WebAssign access. The ISBN for the WebAssign standalone access card 9780357865095. If you have enrolled in the book bundle program, then you will automatically have access to it. Otherwise, you can purchase the access directly from the publisher. Note that it is very unlikely that any used textbook will come with the WebAssign access. You can click [this](https://www.getenrolled.com/?courseKey=utica34268354) to self-enroll or use the class key "utica 3426 8354". Please use your Utica University official name and email address to register. Do not use nickname or your personal email address.
 
  * Calculator: We will be using a free graphing calculator app called Desmos. You can use Desmos directly by going to their website at [www.desmos.com](https://www.desmos.com/calculator). You are strongly encouraged to use Desmos on a computer or on a tablet. You can download Desmos at [Apple](https://itunes.apple.com/us/app/desmos-graphing-calculator/id653517540?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.desmos.calculator&amp;hl=en").
 
@@ -263,11 +253,11 @@ During the class, you will be actively working in a small group with your peer c
 
 ## Quizzes and Examinations
 
-  There will be a quiz every week on Friday except for the first week. There will be one cumulative final exam.
+  There will be a quiz every week on Thursday except for the first week. There will be one cumulative final exam.
  
 ## Evaluation
 
- In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in quizzes or final exam. There is no partial credit. Once you have score a goal from a quiz, you should put a note in one of the boxes before the relevant goal on [this](https://files.xiaopv.com/learninggoalsbusmath.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Fridays. The goals that will be tested on a quiz will be posted at this page on Thursdays. Doing problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined based on the following criteria.
+ In this class, we will use a system known as standards-based grading. You will have multiple opportunities to demonstrate that you have met a goal. A goal is met if a student has successfully demonstrated it twice in quizzes or final exam. There is no partial credit. Once you have score a goal from a quiz, you should put a note in one of the boxes before the relevant goal on [this](https://files.xiaopv.com/learninggoalsbusmath.pdf) print out. You should use clear labeling to indicate when you score that goal, for example, Q2 stands for Quiz 2. If you are unsuccessful on a quiz problem, prepare yourself to do better on the next quiz. Feel free to stop by my office and ask for practice problems. Quizzes are scheduled on Thursdays. The goals that will be tested on a quiz will be posted at this page on Wednesday evenings. Doing problems and participating discussion in class, doing homework and exercises are all ways to help you prepare for the next quiz. All of goals appear on multiple quizzes so you have multiple chance to demonstrate that you have met the goals. Your final letter grade will be determined based on the following criteria.
 
  | Letter Grade |    Criteria                                         | 
  | ------------ | --------------------------------------------------- | 
@@ -298,24 +288,6 @@ There are two kinds of (free) tutoring services offered by the university.
 * The first kind is the tutoring service at the learning commons of library. Please visit the learning commons for detail schedules.
 
 * The second kind is an online tutoring service provided by the university called ThinkingStorm. You can access the service [here](https://www.utica.edu/thinkingstorm) with your university username and password. 
-
-There is a third (also free) option gaining popularity among students: using generative artificial intelligence, such as ChatGPT or Gemini. Here are some examples (by no means exhaustive) of how AI can enhance your learning experience:
-
- * Ask ChatGPT to create a practice problem for you. Be very specific about the types of problems you're looking for.
-
- * Ask ChatGPT for a hint if you're stuck on a problem or to provide a complete step-by-step solution.
-
- * Ask ChatGPT to evaluate your work and check if you've answered correctly.
-
-However, there are ways in which using AI can be harmful and even detrimental to your learning:
-
- * Asking ChatGPT to do your homework for you (your future employer might just hire ChatGPT instead of you).
-
- * Using ChatGPT to get answers without truly understanding the material, which will hinder your critical thinking and problem-solving skills.
-
- * Warning: While ChatGPT can provide quick responses, there is no guarantee of the quality of the information. Accepting everything ChatGPT gives you without critical reflection is like taking advice from a stranger on the street.
-
-If you have ideas on how ChatGPT or other generative AI can help you learn, please don't hesitate to reach out. I'm happy to discuss it with you.
 
 ## Academic Integrity
 
