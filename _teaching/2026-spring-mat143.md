@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-mat143
 venue: "Mathematics Department, Utica University"
-date: 2025-01-10
+date: 2026-01-10
 ---
 
 Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business and Economics course at Utica University. You can find all the information for this course on this page. Please check this page frequently for announcements and assignments.
@@ -27,7 +27,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Tuesday 1pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
+ * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
 
 ## Homework 
 

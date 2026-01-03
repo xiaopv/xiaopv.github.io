@@ -28,7 +28,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Tuesday 1pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
+ * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
 
 ## Homework
 

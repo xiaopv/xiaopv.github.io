@@ -22,7 +22,7 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
  * Instructor: Prof. Xiao Xiao
  * Email: xixiao@utica.edu
  * Office: White Hall 255
- * Office hour: Tuesdays 1pm-2pm and Thursdays 1pm-3pm.
+ * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
 
 ## General Course Information and Policies
 
