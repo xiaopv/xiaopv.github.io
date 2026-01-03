@@ -21,7 +21,7 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
  * Spring break: 3/9/26 - 3/13/26
  * Withdraw deadline: 3/23/26
  * SOOT: 4/20/26 - 4/27/26
- * Final exam: 4/28/26 11:30am
+ * Final exam: 4/30/26 8:00am
 
 ## Instructor Information
 

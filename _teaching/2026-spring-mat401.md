@@ -4,19 +4,18 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-mat401
 venue: "Mathematics Department, Utica University"
-date: 2026-01-12
+date: 2026-01-10
 ---
 
 Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University. You can find all the informtion and documents for this course on this page. Please check this page frequently for announcements and assignments.
 
 ## Important Dates
 
- * Add/Drop deadline: 1/16/26
- * MLK (no class): 1/19/26
+  * Add/Drop deadline: 1/16/26
  * Spring break: 3/9/26 - 3/13/26
  * Withdraw deadline: 3/23/26
  * SOOT: 4/20/26 - 4/27/26
- * Final exam: 4/28/26 - 5/2/26
+ * Final exam: 4/30/26 8:00am
 
 ## Instructor Information
 
@@ -62,7 +61,7 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
      
    After each lesson, I will post a list of the problems that we are working from the textbook. You will be expected to read and solve (or make as much progress as possible) these problems before walking into the next class period. This will ensure that you are ready to take an active part in our class presentations and discussions. The research notebook is a place to keep and organize your notes on all of these problems. Submitted work should be carefully, clearly, and cleanly written. Among other things, this means your work should include proper grammar, punctuation and spelling. You will almost always write a draft before you write down the final argument, so do yourself a favor and get in the habit of differentiating your scratch work from your submitted assignment. Also, keep your mistakes in your research notebook. The process of understanding and attempting to solve new problems will involve many dead ends. Do not erase your mistakes. Write a note next the mistake about why you believe it is wrong. These ideas might be useful in the future. Please use filler paper a 3-ring binder as your research notebook.
 
-   Each Daily Preparation will be submitted after the lesson. During the class, you will use felt tip color pens (provided by me) to take notes and make edits based on the presentations and class discussions on your Daily Preparation work. After the class, I will collect and grade them based on whether your pre-class work shows that you made a genuine effort before class. Incorrect but well-thought-out answers are fine because the goal is to be prepared, not be correct every single time!
+   Each Daily Preparation will be submitted after the lesson. During the class, you will use felt tip color pens to take notes and make edits based on the presentations and class discussions on your Daily Preparation work. After the class, I will collect and grade them based on whether your pre-class work shows that you made a genuine effort before class. Incorrect but well-thought-out answers are fine because the goal is to be prepared, not be correct every single time!
 
 
  * Weekly Homework
@@ -77,7 +76,7 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
      |   1   | I don’t understand this, but I see that you have worked on it; come see me!                                                                                                   |
      |   0   | I believe that you have not worked on this problem enough or you didn’t submit any work or the work is not original and came from the internet or some other external source. |
 
-     Any Weekly Homework problems that receive a score of 1, 2, or 3 can be resubmitted *within one week* after the corresponding problem was returned to the class. The final grade on the problem will be the average of the original grade and the grade on the resubmission. Please label the assignment as “Resubmission” on top of any problem (and include your original submission) that you are resubmitting and keep separate from any other problems that you are turning in.
+     Any Weekly Homework problems that receive a score of 1, 2, or 3 can be resubmitted *once within one week* after the corresponding problem was returned to the class. The final grade on the problem will be the average of the original grade and the grade on the resubmission. Please label the assignment as “Resubmission” on top of any problem (and include your original submission) that you are resubmitting and keep separate from any other problems that you are turning in.
 
      You are allowed and encouraged to work together on homework. However, each student is expected to turn in their own work. In general, late homework will not be accepted. However, you are allowed to turn in up to 3 homework assignments (daily or weekly) late with no questions asked. Unless you have made arrangements in advance with me, homework turned in after class will be considered late. Your overall homework grade is worth 15% of your final grade.
 
@@ -114,7 +113,7 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
    * The quality of past presentations: the better one presented in the past, the lower one is on the list.
    * Recentness of past presentations: the more recently one has presented, the lower one is on the list.
 
- * A student can choose not to present on a day when he or she has a high rank in the sorted list. This is called a "pass". No one shall "pass" for two consecutive classes. If you need help to prepare presentations, see me during office hours as soon as possible.
+ * A student can choose not to present on a day when they are in a high rank in the sorted list. This is called a "pass". No one shall "pass" for two consecutive classes. If you need help to prepare presentations, see me during office hours as soon as possible.
 
  * In order to receive a passing grade on the presentation portion of your grade, you must present at least four times prior to each exam (2 midterms and 1 final) for a total of at least twelve times during the semester. Your grade on your presentations, as well as your level of interaction during student presentations, are worth 20% of your overall grade.
 
