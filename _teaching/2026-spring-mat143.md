@@ -31,6 +31,13 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * 1/13/26
+   * Print a [copy](https://files.xiaopv.com/learninggoalsbusmath.pdf) of the learning goals if you have not done so.
+   * Here is the Section 1.1 [worksheet](https://www.dropbox.com/scl/fi/r6tia8yw5ukx49vgxgo5f/MAT_143_Section_1_1.pdf?rlkey=j37e5s60ahtm70ro93ti9e79u&dl=0).
+   * Complete Exercises 3 and 4 of Section 1.1 worksheet.
+   * Sign up at WebAssign and start working on Section 1.1 homework set.
+   * Complete the AI study pre-assessment [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_8HfqGrZvz6Nyo6O?Q_CHL=gl&RID=CGC_qK4dNadpKYZRiYO&_g_=g).
+
 ## General Course Information and Policies
 
  * Course name: MAT 143 Mathematical Analysis for Business and Economics

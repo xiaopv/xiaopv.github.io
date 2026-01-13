@@ -11,7 +11,7 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Important Dates
 
-  * Add/Drop deadline: 1/16/26
+ * Add/Drop deadline: 1/16/26
  * Spring break: 3/9/26 - 3/13/26
  * Withdraw deadline: 3/23/26
  * SOOT: 4/20/26 - 4/27/26
@@ -23,6 +23,11 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
  * Email: xixiao@utica.edu
  * Office: White Hall 255
  * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
+
+## Homework
+ 
+ * 1/13/26
+   * Complete Theorem 4, Problems 5, 6.
 
 ## General Course Information and Policies
 

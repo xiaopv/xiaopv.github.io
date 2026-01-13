@@ -31,6 +31,13 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
  * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:00pm or by appointment.
 
 ## Homework
+ 
+ * 1/13/26
+   * Print a [copy](https://files.xiaopv.com/learninggoalsprecalculus.pdf) of the learning goals if you have not done so.
+   * Complete Task 1.1.
+   * Sign up at WileyPLUS and start working on homework for week 1.
+   * Complete the AI study pre-assessment [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_8HfqGrZvz6Nyo6O?Q_CHL=gl&RID=CGC_u4IUdndCXXeeNFv&_g_=g). After you complete the survey, you should have [access](https://pingpong.hks.harvard.edu/group/621) to the Ping Pong app.
+
 
 ## General Course Information and Policies
 
@@ -146,13 +153,13 @@ During the class, you will be actively working in a small group with your peer c
 
 ## Tentative Schedule
 
- | Chapter 2 | Week 1  |
- | Chapter 3 | Week 2-3|
- | Chapter 4 | Week 4-5|
- | Chapter 5 | Week 6-7|
- | Chapter 6 | Week 8-9|
- | Chapter 7 | Week 10-11|
- | Chapter 8 | Week 12-14|
+ | Chapter 1 | Week 1  |
+ | Chapter 2 | Week 2-3|
+ | Chapter 3 | Week 4-5|
+ | Chapter 4 | Week 6-7|
+ | Chapter 5 | Week 8-9|
+ | Chapter 6 | Week 10-11|
+ | Chapter 7 | Week 12-14|
 
 ## Tutoring Services
  
