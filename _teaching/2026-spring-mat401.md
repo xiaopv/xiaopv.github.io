@@ -26,6 +26,12 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 1/15/26
+   * Complete Theorem 7, Problems 8-10, Theorem 11.
+   * Week 1 Homework
+     * Problem 1: make sure you do not use anything facts that we have not proved in 305 and in this course so far.
+     * Theorem 3.
+
  * 1/13/26
    * Complete Theorem 4, Problems 5, 6.
 

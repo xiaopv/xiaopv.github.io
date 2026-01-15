@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * 1/15/26
+   * Complete Section 1.1 homework in WebAssign.
+   * Preview Section 1.2 [worksheet](https://www.dropbox.com/scl/fi/a3stxcactvd6bo5u50pkv/MAT_143_Section_1_2.pdf?rlkey=in1jvc5y49sb3e9enudp71g6m&dl=0).
+
  * 1/13/26
    * Print a [copy](https://files.xiaopv.com/learninggoalsbusmath.pdf) of the learning goals if you have not done so.
    * Here is the Section 1.1 [worksheet](https://www.dropbox.com/scl/fi/r6tia8yw5ukx49vgxgo5f/MAT_143_Section_1_1.pdf?rlkey=j37e5s60ahtm70ro93ti9e79u&dl=0).

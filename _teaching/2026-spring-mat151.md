@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
  
+ * 1/15/26
+   * Complete Task 1.2.
+   * Complete Week 1 homework in WileyPLUS.
+
  * 1/13/26
    * Print a [copy](https://files.xiaopv.com/learninggoalsprecalculus.pdf) of the learning goals if you have not done so.
    * Complete Task 1.1.
