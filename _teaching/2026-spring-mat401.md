@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 1/20/26
+   * Complete Lemma 12 and Lemma 13.
+
  * 1/15/26
    * Complete Theorem 7, Problems 8-10, Theorem 11.
    * Week 1 Homework

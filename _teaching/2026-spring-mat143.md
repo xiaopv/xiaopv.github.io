@@ -31,6 +31,13 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+
+ * 1/20/26
+   * Start working on Section 1.2 homework in WebAssign.
+   * Preview Section 1.3 [worksheet](https://www.dropbox.com/scl/fi/89rf9bil50wzc3s6it29c/MAT_143_Section_1_3.pdf?rlkey=dey4ffdtl54io4jy115i0ozsd&dl=0).
+   * Quiz 1 will cover Goal 1.
+   * Complete the pre-assessment [survey](https://harvard.az1.qualtrics.com/jfe/form/SV_8HfqGrZvz6Nyo6O?Q_CHL=gl&RID=CGC_qK4dNadpKYZRiYO&_g_=g) if you have not already done so.
+
  * 1/15/26
    * Complete Section 1.1 homework in WebAssign.
    * Preview Section 1.2 [worksheet](https://www.dropbox.com/scl/fi/a3stxcactvd6bo5u50pkv/MAT_143_Section_1_2.pdf?rlkey=in1jvc5y49sb3e9enudp71g6m&dl=0).
