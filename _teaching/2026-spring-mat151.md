@@ -32,8 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
  
+ * 1/22/26
+   * Complete Week 2 homework in WileyPLUS.
+
  * 1/20/26
-   * Start working on Week 1 homework in WileyPLUS.
+   * Start working on Week 2 homework in WileyPLUS.
    * Quiz 1 will cover Goal 1.
    
  * 1/15/26

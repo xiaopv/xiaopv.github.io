@@ -26,6 +26,12 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 1/22/26
+   * Complete 14, 16, 17.
+   * Week 2 Homework
+     * Prove that 24 does not have a rational square root.
+     * Prove that there does not exist a rational number x such that 6^x=24.
+
  * 1/20/26
    * Complete Lemma 12 and Lemma 13.
 
