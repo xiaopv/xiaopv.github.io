@@ -26,6 +26,13 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 1/29/26
+   * Complete 19 to 23.
+   * Exam 1 is tentatively scheduled on Feb. 12.
+   * Week 3 Homework (Make sure you label every axiom used clearly.)
+     * Prove that for any number a in a number line L, (-1) * a = -a. 
+     * Prove that for any positive number a and b in a number line L, and for any positive integer n, if a^n < b^n, then a < b.
+
  * 1/27/26
    * Complete 18.
 
