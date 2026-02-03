@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 2/3/26
+   * Complete 24 and 26.
+
  * 1/29/26
    * Complete 19 to 23.
    * Exam 1 is tentatively scheduled on Feb. 12.
