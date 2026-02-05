@@ -26,8 +26,14 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 2/5/26
+   * Complete 27 to 30.
+   * Week 4 Homework
+     * Prove that 1 is a limit point of the rational numbers.
+     * Is the following statement true or false? Explain your answer. Given a number line L and two subsets M and N of L. Suppose that the intersection of M and N is non-empty.  If a is a limit point of both M and N, then a must also be the limit point of M intersecting N.
+
  * 2/3/26
-   * Complete 24 and 26.
+   * Complete 24 to 26.
 
  * 1/29/26
    * Complete 19 to 23.
