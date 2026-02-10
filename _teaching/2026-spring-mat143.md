@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * 2/10/26
+   * Complete Section 2.1 homework.
+   * Quiz 4 will cover Goal 2, 3, 4, 5, 11.
+   
  * 2/5/26
    * Complete Section 1.6 homework.
    * Section 2.2 [worksheet](https://www.dropbox.com/scl/fi/knawrqnekirjm858t43hi/MAT_143_Section_2_2.pdf?rlkey=48s9t17pqbco3m73svogcf4oo&dl=0).

@@ -31,6 +31,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
  * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:30pm or by appointment.
 
 ## Homework
+
+ * 2/10/26
+   * Start working on Week 5 homework in WileyPLUS.
+   * Complete Task 3.9.
+   * Quiz 4 will cover Goal 3, 4, 7, 10, 12, 13.
  
  * 2/5/26
    * Complete Week 4 homework.

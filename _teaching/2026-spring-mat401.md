@@ -26,6 +26,12 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 2/10/26
+   * Complete 31 to 34.
+   * Week 5 Homework
+     * Prove that the sequence p_n = 1/n^2 converges.
+     * Prove that the sequence p_n = (-1)^n/n converges.
+
  * 2/5/26
    * Complete 27 to 30.
    * Week 4 Homework
