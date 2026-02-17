@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 2/17/26
+   * Complete 35 and 36.
+   * No Weekly homework for this week.
+
  * 2/10/26
    * Complete 31 to 34.
    * Week 5 Homework
