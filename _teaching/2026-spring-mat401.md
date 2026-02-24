@@ -26,6 +26,12 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 2/24/26
+   * Complete 36 if you have not finished.
+   * Week 6 Homework
+     * Prove that 4/9 = 0.444... (by definition without using Theorem 35.)
+     * Prove that if a nonzero sequence p_n coverages to a nonzero point x, then 1/p_n coverages to 1/x.
+
  * 2/17/26
    * Complete 35 and 36.
    * No Weekly homework for this week.
