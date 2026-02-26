@@ -26,6 +26,9 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
  
+ * 2/26/26
+   * Complete 37 to 39.
+
  * 2/24/26
    * Complete 36 if you have not finished.
    * Week 6 Homework
