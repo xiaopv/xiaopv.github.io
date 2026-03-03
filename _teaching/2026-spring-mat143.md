@@ -31,6 +31,11 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * 3/3/26
+   * Complete Section 4.2 homework.
+   * No meeting on 3/5. Work on Section 5.1 worksheet.
+   * Quiz 7 will cover Goal 6, 7, 8, 12, 15.
+
  * 2/26/26
    * Start Section 4.2 homework.
    * Section 5.1 [worksheet](https://www.dropbox.com/scl/fi/6bqadml7ihfxeipbrmhf2/MAT_143_Section_5_1.pdf?rlkey=eycqaiq31474u4lad3ayc05sj&dl=0). 

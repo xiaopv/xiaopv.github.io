@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * 3/3/26
+   * Start working on Week 8 homework.
+   * No meeting on 3/5. Work on Task 5.5.
+   * Quiz 7 will cover Goal 5, 6, 8, 9, 10, 12, 14.
+
  * 2/26/26
    * Complete Week 7 homework.
 
