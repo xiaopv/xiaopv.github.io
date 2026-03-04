@@ -27,7 +27,7 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 ## Homework
  
  * 3/3/26
-   * Complete 40 to 44.
+   * Complete 40 to 44. (test)
    * Meet on 3/5 without my presence. Send me photos of the board and a selfie (including all in the room).
 
  * 2/26/26
