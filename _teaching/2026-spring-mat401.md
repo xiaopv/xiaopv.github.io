@@ -28,8 +28,8 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
  
 
  * 3/5/26
-   * I have received all the photos and the selfie picture. And it looks like you guys did a wonderful job without me and I am very proud of you!
-   * For the next meeting complete 45-48. Have a great break!
+   * I have received all the photos and the selfie picture (thanks Anajli). And it looks like you guys did a wonderful job without me and I am very proud of you all!
+   * For the next meeting complete 45 to 48. Have a great break!
 
  * 3/3/26
    * Complete 40 to 44.
