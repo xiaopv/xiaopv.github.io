@@ -25,7 +25,9 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
  * Office hour: Tuesday 1:30pm-2:30pm, Thursday 1:30-3:30pm or by appointment.
 
 ## Homework
- 
+
+ * 3/17/26
+   * Complete 49 to 52. 
 
  * 3/5/26
    * I have received all the photos and the selfie picture (thanks Anajli). And it looks like you guys did a wonderful job without me and I am very proud of you all!
