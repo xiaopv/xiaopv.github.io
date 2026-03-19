@@ -26,6 +26,10 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
 
+ * 3/19/26
+   * Complete 53 to 56.
+   * Week 7 homework: Theorem 45 and 47.
+
  * 3/17/26
    * Complete 49 to 52. 
 
