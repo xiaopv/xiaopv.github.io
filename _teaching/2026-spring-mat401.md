@@ -26,6 +26,11 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
 
+ * 3/24/26
+   * No new problems today.
+   * Exam 2 on 3/31.
+   * There will be a math talk on 4/8 at 1pm. All of you should go as there will be bonus points. Title and abstract will be forthcoming.
+
  * 3/19/26
    * Complete 53 to 56.
    * Week 7 homework: Theorem 45 and 47.

@@ -32,6 +32,11 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * 3/24/26
+   * Start Week 10 homework.
+   * Complete Task 6.5.
+   * Quiz 9 will cover Goal 4, 5, 9, 11, 12, 14, 15
+
  * 3/19/26
    * Complete Week 9 homework.
    * Complete Task 5.11
