@@ -26,6 +26,11 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
 
+ * 3/26/26
+   * Exam 2 on Tuesday.
+   * No weekly homework for this week.
+   * Complete 57 to 61 for next Thursday.
+
  * 3/24/26
    * No new problems today.
    * Exam 2 on 3/31.
