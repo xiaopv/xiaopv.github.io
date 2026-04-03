@@ -32,6 +32,9 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * 4/2/26
+   * Complete Week 11 homework.
+   
  * 3/31/26
    * Complete the unit circle and the table.
    * Start working on Week 11 homework.
