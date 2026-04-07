@@ -32,6 +32,10 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * 4/7/26
+   * Start working on Week 12 homework.
+   * Quiz 11 will cover goal 2, 3, 7, 10, 11, 16, 17
+
  * 4/2/26
    * Complete Week 11 homework.
    
