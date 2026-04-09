@@ -26,6 +26,12 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
 
+ * 4/9/26
+   * Complete 66 to 67.
+   * Weekly homework
+     * Theorem 57
+     * Give an example of an ide n.d_1d_2... such that it converges to a number x but the finite decimal n.d_1d_2...d_m does not approximate x.
+
  * 4/7/26
    * Complete 62 to 65.
 
