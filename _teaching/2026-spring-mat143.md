@@ -34,6 +34,7 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
  * 4/14/26
    * Start working on Section 6.4 homework.
    * Section 6.5 [worksheet](https://www.dropbox.com/scl/fi/7pth86ijepq85ldotgxsw/MAT_143_Section_6_4.pdf?rlkey=83gtpnm5fljc2ssq2vm75cyzm&dl=0).
+   * Quiz 12 will cover Goal 13, 14, 15, 16, 17, 18, 19.
 
  * 4/9/26
    * Complete Section 6.3 homework.
