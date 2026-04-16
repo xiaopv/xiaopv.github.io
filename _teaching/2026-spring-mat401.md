@@ -26,6 +26,11 @@ Welcome to the home page of Prof. Xiao Xiao's Real Analysis at Utica University.
 
 ## Homework
 
+ * 4/16/26
+   * Complete 72 to 74.
+   * Weekly homework
+     * 63 and 69.
+
  * 4/15/26
    * Complete 68 to 71.
 
