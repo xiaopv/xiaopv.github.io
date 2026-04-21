@@ -32,6 +32,9 @@ Welcome to the home page of Dr. Xiao Xiao's Precalculus course at Utica Universi
 
 ## Homework
 
+ * 4/21/26
+   * Complete Week 14 homework.
+
  * 4/16/26
    * Complete Week 13 homework.
    * Quiz 13 will cover Goal 17, 18 (twice), 19 (twice), 20 (twice).

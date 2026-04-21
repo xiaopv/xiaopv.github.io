@@ -31,6 +31,10 @@ Welcome to the home page of Dr. Xiao Xiao's Mathematical Analysis for Business a
 
 ## Homework 
 
+ * 4/21/26
+   * Complete Section 6.5 homework.
+   * Quiz 13 will cover Goal 16, 17, 18, 19, 20.
+
  * 4/16/26
    * Complete Section 6.4 homework.
 
