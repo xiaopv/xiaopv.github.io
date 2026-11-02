@@ -18,7 +18,7 @@ Students with a passion for problem-solving who are in grade 8 or below and unde
 
 The AMC 8 contest will be administered at Utica University in Spring 2027.
 
-Please [use this flier](https://www.utica.edu/academic/as/math/AMC8%20Poster%202026.pdf) to help us advertise.
+Please [use this flier](https://files.xiaopv.com/AMC8_Poster_2027.pdf) to help us advertise.
 
 - **Cost for the Competition:** Free
 - **Date and Time:** Sunday, January 24, 2027, at 9:00 a.m.
@@ -43,5 +43,7 @@ Possible topics include, but are not limited to:
 - Reading and interpreting graphs and tables
 
 In addition, some of the later questions may involve linear or quadratic functions and equations, coordinate geometry, and other topics traditionally covered in a beginning algebra course.
+
+Here are some [old](https://artofproblemsolving.com/wiki/index.php/AMC_8_Problems_and_Solutions) AMC 8 problems and solutions.
 
 Contact Prof. Xiao Xiao at [xixiao@utica.edu](mailto:xixiao@utica.edu) if you have any questions.
