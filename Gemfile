@@ -17,3 +17,5 @@ group :jekyll_plugins do
   
   # gem 'hawkins'
 end
+
+gem "faraday-retry", "~> 2.4"
