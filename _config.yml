@@ -11,7 +11,7 @@ title                    : "Xiao Xiao"
 title_separator          : "-"
 name                     : &name "Xiao Xiao"
 description              : &description ""
-url                      : https://xiaopv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaopv.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaopv/xiaopv.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiao Xiao"
   avatar           : "profile.png"
-  bio              : "A mathematician, a classical music lover, a number theorist, a Manchester United fan, a stamp collector, ..."
+  bio              : "A mathematician, a classical music lover, a number theorist, a skier, a stamp collector, a Manchester United fan, ..."
   location         : 
   employer         : "Utica University"
   googlescholar    : 
